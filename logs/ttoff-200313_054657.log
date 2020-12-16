@@ -1,0 +1,366 @@
+
+
+Starting Toontown Online...
+Current time: Fri Mar 13 05:46:57 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NGX;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'TTOFF_GAME_SERVER': '25.31.106.81', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'Holland', 'ONEDRIVECOMMERCIAL': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR': 'C:\\Program Files\\Red Giant\\RGFX', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:03-13-2020 05:46:57 TTOffLauncher: isTestServer: 0
+:03-13-2020 05:46:57 TTOffLauncher: Game Server 25.31.106.81
+:03-13-2020 05:46:57 TTOffLauncher: Starting Toontown Online... 
+:03-13-2020 05:46:57 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:03-13-2020 05:46:57 TTOffLauncher: maybeStartGame: starting game
+:03-13-2020 05:46:57 TTOffLauncher: Starting Toontown Online...
+:03-13-2020 05:46:57 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:03-13-2020 05:46:57 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:03-13-2020 05:46:58 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:03-13-2020 05:46:58 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:03-13-2020 05:46:58 ShowBase: __dev__ == False
+:03-13-2020 05:46:58 TTOffLauncher: setting panda error code to 11
+:03-13-2020 05:46:58 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:03-13-2020 05:46:58 Loader: starting bulk load of block 'init'
+:03-13-2020 05:46:59 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:03-13-2020 05:46:59 OTPClientRepository: Using connect method 'http'
+:03-13-2020 05:46:59 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:03-13-2020 05:46:59 TTOffLauncher: checking env
+:03-13-2020 05:46:59 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:03-13-2020 05:46:59 TTOffLauncher: checking env
+:03-13-2020 05:46:59 OTPClientRepository: reg_deployment=
+:03-13-2020 05:46:59 OTPClientRepository: required-login auto.
+:03-13-2020 05:46:59 OTPClientRepository: loginInterface: LoginTTOffAccount
+:03-13-2020 05:46:59 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:03-13-2020 05:46:59 Loader: At end of block 'init', expected 138, loaded 6, duration=1.3057786
+:03-13-2020 05:46:59 ToonBase: Using gameServer from launcher: 25.31.106.81 
+:03-13-2020 05:46:59 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:03-13-2020 05:46:59 OTPClientRepository: Connecting to //25.31.106.81:7198 via HTTP interface.
+:03-13-2020 05:46:59 TTOffLauncher: Stopping mini task manager.
+:03-13-2020 05:46:59 OTPClientRepository: Successfully connected to //25.31.106.81:7198.
+:03-13-2020 05:46:59 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001D833788>}
+:03-13-2020 05:47:00 StateData: AvatarChooser.enter
+:03-13-2020 05:47:00 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:03-13-2020 05:47:00 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:03-13-2020 05:47:02 OTPClientRepository: ================
+:03-13-2020 05:47:02 OTPClientRepository: Chose avatar id: 100000016
+:03-13-2020 05:47:02 OTPClientRepository: Chose avatar name: Holly
+:03-13-2020 05:47:02 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 100, 27, 7, 21)
+:03-13-2020 05:47:02 OTPClientRepository: Chose avatar position: 1
+:03-13-2020 05:47:02 OTPClientRepository: isPaid: 1
+:03-13-2020 05:47:02 OTPClientRepository: freeTimeLeft: 0
+:03-13-2020 05:47:02 OTPClientRepository: allowSecretChat: True
+:03-13-2020 05:47:02 OTPClientRepository: ================
+:03-13-2020 05:47:03 Loader: starting bulk load of block 'localAvatarPlayGame'
+:03-13-2020 05:47:03 ToontownTimeManager(warning): error parsing date string=
+local
+:03-13-2020 05:47:03 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:03-13-2020 05:47:03 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:03-13-2020 05:47:05 OTPClientRepository: Entering shard 401000001
+:03-13-2020 05:47:05 StreetSign: Street sign url is https://ttoffline.com/images/
+:03-13-2020 05:47:06 StreetSign: Street Sign is up to date
+:03-13-2020 05:47:06 TimeManager: Clock sync: TimeManager.announceGenerate
+:03-13-2020 05:47:06 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:03-13-2020 05:47:07 OTPClientRepository: No sync from TimeManager.
+:03-13-2020 05:47:07 OTPClientRepository: gotTimeSync
+:03-13-2020 05:47:07 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 9, duration=4.2640698
+:03-13-2020 05:47:07 TimeManager: Clock sync roundtrip took 1093.880 ms
+:03-13-2020 05:47:07 TimeManager: AI time delta is 0:01 from server delta
+:03-13-2020 05:47:07 TimeManager: Local clock uncertainty +/- 0.547 s
+:03-13-2020 05:47:07 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:03-13-2020 05:47:07 Loader: starting bulk load of block 'hood'
+:03-13-2020 05:47:08 LawbotCogHQLoader: loadPlaceGeom: 13000
+:03-13-2020 05:47:08 DistributedObject: DistributedSuitPlanner 401002972: generating
+:03-13-2020 05:47:08 DistributedToon: calling LocalAvatar.startchat
+:03-13-2020 05:47:08 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:47:08 Loader: At end of block 'hood', expected 2, loaded 5, duration=1.0192392
+:03-13-2020 05:47:10 Teleport(debug): teleportInDone: walk
+:03-13-2020 05:47:10 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:48:56 TTOffMagicWordManager: Run mode has been toggled.
+:03-13-2020 05:49:00 TTOffMagicWordManager: Gave Holly an infinite amount of pies
+:03-13-2020 05:49:46 DistributedToon: Suggesting resync for 100000018, with discrepency 0.319585; local time is 168.7375162 and server time is 216.0134774.
+:03-13-2020 05:50:01 DistributedToon: Suggesting resync for 100000018, with discrepency 0.3298598; local time is 183.9296332 and server time is 231.2055944.
+:03-13-2020 05:50:01 DistributedToon: Suggesting resync for 100000014, with discrepency 0.3896142; local time is 184.1698299 and server time is 231.4457911.
+:03-13-2020 05:50:01 LawbotCogHQLoader: loadPlaceGeom: 13100
+:03-13-2020 05:50:01 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:03-13-2020 05:50:01 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:03-13-2020 05:50:02 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:03-13-2020 05:50:02 DistributedToon: calling LocalAvatar.startchat
+:03-13-2020 05:50:02 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:50:03 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:50:03 DistributedToon: Suggesting resync for 100000014, with discrepency 0.3996922; local time is 185.5867585 and server time is 232.8627197.
+:03-13-2020 05:50:06 DistributedToon: Suggesting resync for 100000018, with discrepency 0.2298675; local time is 188.8453744 and server time is 236.1213356.
+:03-13-2020 05:50:09 TTOffMagicWordManager: Run mode has been toggled.
+:03-13-2020 05:50:18 DistributedToon: Suggesting resync for 100000014, with discrepency 0.3998866; local time is 200.6659439 and server time is 247.9419051.
+:03-13-2020 05:50:18 ClockDelta: Got sync +/- 0.160 s, elapsed 0.130 s, from 100000014.
+:03-13-2020 05:50:18 ClockDelta: previous delta at -47.276 s, +/- 0.600 s.
+:03-13-2020 05:50:18 ClockDelta: new delta at -47.796 s, +/- 0.225 s.
+:03-13-2020 05:50:18 ClockDelta: intersection at -47.724 s, +/- 0.153 s.
+:03-13-2020 05:50:25 LawbotCogHQLoader: loadPlaceGeom: 61000
+:03-13-2020 05:50:25 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:03-13-2020 05:50:25 CogHQLobby: Unloading Place (13100). Fsm in final
+:03-13-2020 05:50:26 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:03-13-2020 05:50:26 DistributedToon: calling LocalAvatar.startchat
+:03-13-2020 05:50:26 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(5.13644, -126.204, 0.193903)).
+:03-13-2020 05:50:30 OTPClientRepository(warning): Server is booting us out (153): The session object with id 100000016 has been unexpectedly deleted.
+:03-13-2020 05:50:30 OTPClientRepository(warning): Lost connection to gameserver.
+:03-13-2020 05:50:30 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:03-13-2020 05:50:31 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:03-13-2020 05:50:31 OTPClientRepository: sending clientLogout
+:03-13-2020 05:50:31 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:03-13-2020 05:50:31 TTOffLauncher: New Disconnect Details: 153 - The district you were playing on has been reset.  Everyone who was playing on that district has been disconnected.  However, you should be able to connect again and go right back into the game. 
+:03-13-2020 05:50:31 OTPClientRepository(warning): Lost connection to server. Notifying user.
+:03-13-2020 05:50:31 OTPClientRepository(warning): Disable failed. DistObj 401004402 is not in dictionary, ownerView=False
+:03-13-2020 05:50:31 OTPClientRepository(warning): Disable failed. DistObj 100000014 is not in dictionary, ownerView=False
+:03-13-2020 05:50:31 :downloader(warning): Windows error code: 10053
+:03-13-2020 05:50:31 OTPClientRepository(warning): Lost connection to gameserver.
+:03-13-2020 05:50:40 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:03-13-2020 05:50:40 OTPClientRepository: Connecting to //25.31.106.81:7198 via HTTP interface.
+:03-13-2020 05:50:41 OTPClientRepository: Successfully connected to //25.31.106.81:7198.
+:03-13-2020 05:50:41 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000002979EF48>}
+:03-13-2020 05:50:42 StateData: AvatarChooser.enter
+:03-13-2020 05:50:42 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:03-13-2020 05:50:42 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:03-13-2020 05:50:54 OTPClientRepository: ================
+:03-13-2020 05:50:54 OTPClientRepository: Chose avatar id: 100000016
+:03-13-2020 05:50:54 OTPClientRepository: Chose avatar name: Holly
+:03-13-2020 05:50:54 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 100, 27, 7, 21)
+:03-13-2020 05:50:54 OTPClientRepository: Chose avatar position: 1
+:03-13-2020 05:50:54 OTPClientRepository: isPaid: 1
+:03-13-2020 05:50:54 OTPClientRepository: freeTimeLeft: 0
+:03-13-2020 05:50:54 OTPClientRepository: allowSecretChat: True
+:03-13-2020 05:50:54 OTPClientRepository: ================
+:03-13-2020 05:50:55 Loader: starting bulk load of block 'localAvatarPlayGame'
+local
+:03-13-2020 05:50:55 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:03-13-2020 05:50:55 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:03-13-2020 05:50:56 OTPClientRepository: Entering shard 401000001
+:03-13-2020 05:50:56 TimeManager: Clock sync: TimeManager.announceGenerate
+:03-13-2020 05:50:56 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:03-13-2020 05:50:56 OTPClientRepository: No sync from TimeManager.
+:03-13-2020 05:50:56 OTPClientRepository: gotTimeSync
+:03-13-2020 05:50:56 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 8, duration=1.870407
+:03-13-2020 05:50:57 TimeManager: Clock sync roundtrip took 82.554 ms
+:03-13-2020 05:50:57 TimeManager: AI time delta is 0:02 from server delta
+:03-13-2020 05:50:57 ClockDelta: previous delta at -47.724 s, +/- 0.163 s.
+:03-13-2020 05:50:57 ClockDelta: new delta at 213.437 s, +/- 0.041 s.
+:03-13-2020 05:50:57 ClockDelta: discarding previous delta.
+:03-13-2020 05:50:57 TimeManager: Local clock uncertainty +/- 0.041 s
+:03-13-2020 05:50:57 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:03-13-2020 05:50:57 Loader: starting bulk load of block 'hood'
+:03-13-2020 05:50:57 LawbotCogHQLoader: loadPlaceGeom: 13000
+:03-13-2020 05:50:57 DistributedObject: DistributedSuitPlanner 401002972: generating
+:03-13-2020 05:50:57 DistributedToon: calling LocalAvatar.startchat
+:03-13-2020 05:50:57 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:50:57 Loader: At end of block 'hood', expected 2, loaded 4, duration=0.892656
+:03-13-2020 05:50:59 Teleport(debug): teleportInDone: walk
+:03-13-2020 05:50:59 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:51:00 TTOffMagicWordManager: Run mode has been toggled.
+:03-13-2020 05:51:32 LawbotCogHQLoader: loadPlaceGeom: 13100
+:03-13-2020 05:51:32 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:03-13-2020 05:51:32 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:03-13-2020 05:51:32 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:03-13-2020 05:51:32 DistributedToon: calling LocalAvatar.startchat
+:03-13-2020 05:51:32 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:51:33 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-13-2020 05:51:58 GarbageCollect(warning): garbage found, reverting gc threshold
+:03-13-2020 05:52:00 TTOffMagicWordManager: Run mode has been toggled.
+:03-13-2020 05:52:10 LawbotCogHQLoader: loadPlaceGeom: 61000
+:03-13-2020 05:52:10 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:03-13-2020 05:52:10 CogHQLobby: Unloading Place (13100). Fsm in final
+:03-13-2020 05:52:10 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:03-13-2020 05:52:10 DistributedToon: calling LocalAvatar.startchat
+:03-13-2020 05:52:11 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(5.13644, -126.204, 0.193903)).
+:03-13-2020 05:52:12 TTOffMagicWordManager: Presto!
+:03-13-2020 05:52:25 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(5.13644, -126.204, 0.193903)).
+Battle Event localtoon-battle-event-3
+:03-13-2020 05:52:57 TTOffMagicWordManager: Skipping current round...
+:03-13-2020 05:53:00 TTOffMagicWordManager: Skipping current round...
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:05 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 05:53:17 TTOffMagicWordManager: Gave Holly an infinite amount of pies
+:03-13-2020 05:54:57 TTOffMagicWordManager: Abracadabra!
+frame rate: 155.0 fps|0.001d|14 avs||538|539||0x0000|0x0000|1469.7MB|1585.4MB|16235.6MB|751|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 05:59:51 :linmath(warning): Tried to invert singular LMatrix3.
+frame rate: 174.2 fps|0.001d|14 avs||838|839||0x0000|0x0000|1924.2MB|2047.5MB|16235.6MB|922|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 163.2 fps|0.001d|14 avs||1138|1139||0x0000|0x0000|2363.7MB|2487.9MB|16235.6MB|1074|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:06:11 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:07:01 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:07:21 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:09:23 :text(warning): No definition in Ironwork.egg for character U+0038 ('8')
+frame rate: 173.7 fps|0.001d|14 avs||1438|1439||0x0000|0x0000|2816.0MB|2941.3MB|16235.6MB|1242|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:03-13-2020 06:13:13 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:13:23 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:13:33 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:14:03 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:14:34 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:15:04 OTPClientRepository: Sending heartbeat mid-frame.
+frame rate: 180.7 fps|0.001d|14 avs||1738|1739||0x0000|0x0000|2982.5MB|3108.2MB|16235.6MB|1312|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:17:58 :text(warning): No definition in Ironwork.egg for character U+0038 ('8')
+:03-13-2020 06:18:14 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:20:56 TimeManager: Clock sync: timer
+frame rate: 163.6 fps|0.001d|14 avs||2038|2039||0x0000|0x0000|3448.0MB|3574.7MB|16235.6MB|1458|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:20:57 TimeManager: Clock sync roundtrip took 96.750 ms
+:03-13-2020 06:20:57 TimeManager: AI time delta is 0:02 from server delta
+:03-13-2020 06:20:57 ClockDelta: previous delta at 213.437 s, +/- 0.541 s.
+:03-13-2020 06:20:57 ClockDelta: new delta at 213.466 s, +/- 0.048 s.
+:03-13-2020 06:20:57 ClockDelta: intersection at 213.466 s, +/- 0.048 s.
+:03-13-2020 06:20:57 TimeManager: Local clock uncertainty +/- 0.048 s
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:21:37 :text(warning): No definition in Ironwork.egg for character U+0038 ('8')
+:03-13-2020 06:21:53 TTOffMagicWordManager: Changed Holly's name to i love 17 year old girls!
+:03-13-2020 06:22:57 TTOffMagicWordManager: Changed i love 17 year old girls's name to only real men eat period pussy!
+:03-13-2020 06:25:52 TTOffMagicWordManager: Changed only real men eat period pussy's name to 18 too old fam!
+frame rate: 177.8 fps|0.001d|14 avs||2338|2339||0x0000|0x0000|3233.0MB|4018.2MB|16235.6MB|1597|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:26:27 TTOffMagicWordManager: Oobe mode has been toggled.
+:03-13-2020 06:26:54 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:27:24 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:27:49 BulletinBoard(warning): changing oobeEnabled from True to False
+:03-13-2020 06:27:49 BulletinBoard: update: posting oobeEnabled
+:03-13-2020 06:27:49 TTOffMagicWordManager: Oobe mode has been toggled.
+frame rate: 159.0 fps|0.001d|14 avs||2638|2639||0x0000|0x0000|2704.4MB|4448.9MB|16235.6MB|1747|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:31:07 TTOffMagicWordManager: Changed 18 too old fam's name to I'm yo candy man <3!
+:03-13-2020 06:32:35 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:32:48 TTOffMagicWordManager: Uh-oh! This Magic Word doesn't exist!
+:03-13-2020 06:32:52 TTOffMagicWordManager: Set I'm yo candy man <3's nametag style successfully.
+frame rate: 185.9 fps|0.000d|14 avs||2938|2939||0x0000|0x0000|2585.2MB|4890.7MB|16235.6MB|1861|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:36:53 TTOffMagicWordManager: Changed I'm yo candy man <3's name to sugar!
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:39:09 :text(warning): No definition in Ironwork.egg for character U+0038 ('8')
+:03-13-2020 06:39:20 TTOffMagicWordManager: Set sugar's nametag style successfully.
+:03-13-2020 06:39:25 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:39:45 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:39:55 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:40:43 TTOffMagicWordManager: Uh-oh! This Magic Word doesn't exist!
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 06:40:50 :text(warning): No definition in Ironwork.egg for character U+0036 ('6')
+:03-13-2020 06:40:50 TTOffMagicWordManager: Changed sugar's name to Air Wreck!
+:03-13-2020 06:40:53 TTOffMagicWordManager: Set Air Wreck's nametag style successfully.
+frame rate: 167.9 fps|0.001d|14 avs||3238|3239||0x0000|0x0000|3039.3MB|5347.0MB|16235.6MB|2031|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 176.2 fps|0.001d|14 avs||3538|3539||0x0000|0x0000|3514.6MB|5822.6MB|16235.6MB|2923|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:46:35 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:47:25 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:48:55 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 06:50:56 TimeManager: Clock sync: timer
+frame rate: 186.5 fps|0.001d|14 avs||3838|3839||0x0000|0x0000|3936.3MB|6258.2MB|16235.6MB|3061|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:50:57 TimeManager: Clock sync roundtrip took 136.805 ms
+:03-13-2020 06:50:57 TimeManager: AI time delta is 0:02 from server delta
+:03-13-2020 06:50:57 ClockDelta: previous delta at 213.466 s, +/- 0.548 s.
+:03-13-2020 06:50:57 ClockDelta: new delta at 213.450 s, +/- 0.068 s.
+:03-13-2020 06:50:57 ClockDelta: intersection at 213.450 s, +/- 0.068 s.
+:03-13-2020 06:50:57 TimeManager: Local clock uncertainty +/- 0.068 s
+:03-13-2020 06:52:26 OTPClientRepository: Sending heartbeat mid-frame.
+frame rate: 163.9 fps|0.001d|14 avs||4138|4139||0x0000|0x0000|4374.2MB|6699.3MB|16235.6MB|3200|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 06:58:07 ToontownChatManager: QA-REGRESSION: CHAT: Speedchat
+:03-13-2020 06:58:16 OTPClientRepository: Sending heartbeat mid-frame.
+:03-13-2020 07:00:36 OTPClientRepository: Sending heartbeat mid-frame.
+frame rate: 155.9 fps|0.001d|14 avs||4438|4439||0x0000|0x0000|4908.8MB|7157.1MB|16235.6MB|3363|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:03-13-2020 07:05:11 :text(warning): No definition in Ironwork.egg for character U+0038 ('8')
+adding timeout task
+adding timeout task
+frame rate: 141.8 fps|0.001d|14 avs||4738|4739||0x0000|0x0000|5587.5MB|7601.5MB|16235.6MB|3563|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 183.0 fps|0.001d|14 avs||5038|5039||0x0000|0x0000|6054.2MB|8070.3MB|16235.6MB|3736|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 07:11:47 OTPClientRepository: Sending heartbeat mid-frame.
+frame rate: 158.5 fps|0.001d|14 avs||5338|5339||0x0000|0x0000|6260.3MB|8528.8MB|16235.6MB|3880|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:03-13-2020 07:20:56 TimeManager: Clock sync: timer
+frame rate: 163.7 fps|0.001d|14 avs||5638|5639||0x0000|0x0000|6131.9MB|8918.7MB|16235.6MB|4007|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 07:20:57 TimeManager: Clock sync roundtrip took 61.105 ms
+:03-13-2020 07:20:57 TimeManager: AI time delta is 0:02 from server delta
+:03-13-2020 07:20:57 ClockDelta: previous delta at 213.450 s, +/- 0.568 s.
+:03-13-2020 07:20:57 ClockDelta: new delta at 213.444 s, +/- 0.031 s.
+:03-13-2020 07:20:57 ClockDelta: intersection at 213.444 s, +/- 0.031 s.
+:03-13-2020 07:20:57 TimeManager: Local clock uncertainty +/- 0.031 s
+frame rate: 154.1 fps|0.001d|14 avs||5938|5939||0x0000|0x0000|6043.6MB|9342.0MB|16235.6MB|4142|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-13-2020 07:26:18 OTPClientRepository: Sending heartbeat mid-frame.
+adding timeout task
+adding timeout task
+:03-13-2020 07:27:29 :downloader(warning): Windows error code: 10054
+:03-13-2020 07:27:29 OTPClientRepository(warning): Lost connection to gameserver.
+:03-13-2020 07:27:29 :distributed(warning): Unable to send datagram after connection is closed.
+:03-13-2020 07:27:29 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:03-13-2020 07:27:30 OTPClientRepository(warning): unclean exit, abandoning shard
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-13-2020 07:27:30 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+ignoring InputState-forward
+:03-13-2020 07:27:30 OTPClientRepository: sending clientLogout
+:03-13-2020 07:27:30 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:03-13-2020 07:27:30 TTOffLauncher: New Disconnect Details: None - Your internet connection to the servers has been unexpectedly broken. 
+:03-13-2020 07:27:30 OTPClientRepository(warning): Lost connection to server. Notifying user.

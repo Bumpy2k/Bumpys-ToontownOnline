@@ -1,0 +1,493 @@
+
+
+Starting Toontown Online...
+Current time: Thu Nov 21 00:48:43 2019 Arabian Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\Users\\alyaz\\Documents\\GitHub\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMPUTERNAME': 'DESKTOP-5K6UCTT', 'USERDOMAIN': 'DESKTOP-5K6UCTT', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 94 Stepping 3, GenuineIntel', 'LOGONSERVER': '\\\\DESKTOP-5K6UCTT', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '5e03', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Panda3D-1.11.0-x64\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32;C:\\Users\\alyaz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\NSI\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\alyaz\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.11.0\\python;C:\\Panda3D-1.11.0\\python\\Scripts;C:\\Panda3D-1.11.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python\\Scripts;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\bin;F:\\Panda3D-1.10.4.1-x64\\python;F:\\Panda3D-1.10.4.1-x64\\python\\Scripts;F:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;F:\\PYTHON-3\\TOONTOWN-SOURCES\\CorporateClash-python3\\Panda3D-1.10.0-x64\\python;F:\\PYTHON-3', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\alyaz\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\alyaz', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-5K6UCTT', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'alyaz', 'TOONIVERSAL_P3D': 'C:\\Users\\alyaz\\Desktop\\Panda3D-1.11.0\\python\\ppython', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\alyaz\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ASL.LOG': 'Destination=file', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\alyaz\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\alyaz'}
+:11-21-2019 00:48:43 TTOffLauncher: isTestServer: 0
+:11-21-2019 00:48:43 TTOffLauncher: Game Server 127.0.0.1
+:11-21-2019 00:48:43 TTOffLauncher: Starting Toontown Online... 
+:11-21-2019 00:48:43 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-21-2019 00:48:43 TTOffLauncher: maybeStartGame: starting game
+:11-21-2019 00:48:43 TTOffLauncher: Starting Toontown Online...
+:11-21-2019 00:48:43 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-21-2019 00:48:43 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-21-2019 00:48:43 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-21-2019 00:48:44 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-21-2019 00:48:44 ShowBase: __dev__ == False
+:11-21-2019 00:48:44 TTOffLauncher: setting panda error code to 11
+:11-21-2019 00:48:44 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-21-2019 00:48:44 Loader: starting bulk load of block 'init'
+:11-21-2019 00:48:47 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-21-2019 00:48:47 OTPClientRepository: Using connect method 'http'
+:11-21-2019 00:48:50 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-21-2019 00:48:50 TTOffLauncher: checking env
+:11-21-2019 00:48:50 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-21-2019 00:48:50 TTOffLauncher: checking env
+:11-21-2019 00:48:50 OTPClientRepository: reg_deployment=
+:11-21-2019 00:48:50 OTPClientRepository: required-login auto.
+:11-21-2019 00:48:50 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-21-2019 00:48:50 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-21-2019 00:48:50 Loader: At end of block 'init', expected 138, loaded 10, duration=6.03897917265
+:11-21-2019 00:48:50 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-21-2019 00:48:50 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-21-2019 00:48:50 TTOffLauncher: Stopping mini task manager.
+:11-21-2019 00:48:50 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-21-2019 00:48:50 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001C8352C8>}
+:11-21-2019 00:48:51 StateData: AvatarChooser.enter
+:11-21-2019 00:48:51 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-21-2019 00:48:51 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-21-2019 00:48:53 OTPClientRepository: ================
+:11-21-2019 00:48:53 OTPClientRepository: Chose avatar id: 100000001
+:11-21-2019 00:48:53 OTPClientRepository: Chose avatar name: Aeterna
+:11-21-2019 00:48:53 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 26, 0, 21, 26, 3, 11, 3, 11, 8, 12)
+:11-21-2019 00:48:53 OTPClientRepository: Chose avatar position: 1
+:11-21-2019 00:48:53 OTPClientRepository: isPaid: 1
+:11-21-2019 00:48:53 OTPClientRepository: freeTimeLeft: 0
+:11-21-2019 00:48:53 OTPClientRepository: allowSecretChat: True
+:11-21-2019 00:48:53 OTPClientRepository: ================
+:11-21-2019 00:48:54 Loader: starting bulk load of block 'localAvatarPlayGame'
+:11-21-2019 00:48:54 ToontownTimeManager(warning): error parsing date string=
+local
+:11-21-2019 00:48:54 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:11-21-2019 00:48:54 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:11-21-2019 00:48:56 OTPClientRepository: Entering shard 401000001
+:11-21-2019 00:48:56 StreetSign: Street sign url is https://ttoffline.com/images/
+:11-21-2019 00:48:58 StreetSign: Street Sign is up to date
+:11-21-2019 00:48:58 TimeManager: Clock sync: TimeManager.announceGenerate
+:11-21-2019 00:48:58 NewsManager: setHolidayId: Starting Holiday 7
+:11-21-2019 00:48:58 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz|329443|0|2.701,2.701|4,8 cpus
+:11-21-2019 00:48:59 OTPClientRepository: No sync from TimeManager.
+:11-21-2019 00:48:59 OTPClientRepository: gotTimeSync
+:11-21-2019 00:48:59 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 14, duration=5.39562497168
+:11-21-2019 00:48:59 TimeManager: Clock sync roundtrip took 1083.281 ms
+:11-21-2019 00:48:59 TimeManager: AI time delta is -0:01 from server delta
+:11-21-2019 00:48:59 TimeManager: Local clock uncertainty +/- 0.542 s
+:11-21-2019 00:48:59 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:11-21-2019 00:48:59 Loader: starting bulk load of block 'hood'
+:11-21-2019 00:49:00 LawbotCogHQLoader: loadPlaceGeom: 13000
+:11-21-2019 00:49:00 DistributedObject: DistributedSuitPlanner 401002972: generating
+:11-21-2019 00:49:00 DistributedToon: calling LocalAvatar.startchat
+:11-21-2019 00:49:00 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-21-2019 00:49:00 Loader: At end of block 'hood', expected 2, loaded 3, duration=0.81190247844
+:11-21-2019 00:49:01 Teleport(debug): teleportInDone: walk
+:11-21-2019 00:49:01 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-21-2019 00:49:03 TTOffMagicWordManager: Run mode has been toggled.
+:11-21-2019 00:49:08 LawbotCogHQLoader: loadPlaceGeom: 13100
+:11-21-2019 00:49:08 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:11-21-2019 00:49:08 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:11-21-2019 00:49:08 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:11-21-2019 00:49:08 DistributedToon: calling LocalAvatar.startchat
+:11-21-2019 00:49:08 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-21-2019 00:49:10 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-21-2019 00:49:23 LawbotCogHQLoader: loadPlaceGeom: 61000
+:11-21-2019 00:49:23 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-21-2019 00:49:23 CogHQLobby: Unloading Place (13100). Fsm in final
+:11-21-2019 00:49:23 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:11-21-2019 00:49:23 DistributedToon: calling LocalAvatar.startchat
+:11-21-2019 00:49:23 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:11-21-2019 00:49:37 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+Battle Event localtoon-battle-event-3
+:11-21-2019 00:50:13 TTOffMagicWordManager: Skipping current round...
+:11-21-2019 00:50:20 TTOffMagicWordManager: Abracadabra!
+:11-21-2019 00:51:09 TTOffMagicWordManager: Ta-da!
+:11-21-2019 00:51:12 TTOffMagicWordManager: Skipping current round...
+:11-21-2019 00:51:20 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-3, 0, 0)).
+:11-21-2019 00:51:20 TTOffMagicWordManager: Restarting Scale Round
+:11-21-2019 00:51:22 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-3, 0, 0)).
+:11-21-2019 00:51:22 TTOffMagicWordManager: Restarting Scale Round
+:11-21-2019 00:51:23 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-3, 0, 0)).
+:11-21-2019 00:51:23 TTOffMagicWordManager: Restarting Scale Round
+:11-21-2019 00:51:24 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-3, 0, 0)).
+:11-21-2019 00:51:24 TTOffMagicWordManager: Restarting Scale Round
+:11-21-2019 00:51:31 TTOffMagicWordManager: Run mode has been toggled.
+:11-21-2019 00:51:32 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:51:42 TTOffMagicWordManager: Gave Aeterna an infinite amount of pies
+:11-21-2019 00:51:53 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:52:40 OTPClientRepository: Sending heartbeat mid-frame.
+:11-21-2019 00:52:45 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:53:07 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:53:33 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:53:45 GarbageCollect(warning): garbage found, reverting gc threshold
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:53:55 TTOffMagicWordManager: Presto!
+frame rate: 86.2 fps|0.005d|13 avs||312|313||0x0000|0x0000|670.7MB|768.6MB|32703.7MB|409|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:54:13 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:54:27 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:54:43 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:54:56 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:55:10 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:55:25 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:55:37 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:55:51 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:56:05 TTOffMagicWordManager: Voila!
+:11-21-2019 00:56:22 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:56:48 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:57:01 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:57:46 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 00:58:08 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+frame rate: 80.7 fps|0.004d|13 avs||612|613||0x0000|0x0000|689.7MB|787.6MB|32703.7MB|414|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-21-2019 00:59:06 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:00:22 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:01:16 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:01:31 OTPClientRepository: Sending heartbeat mid-frame.
+:11-21-2019 01:01:35 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:01:48 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:02:24 TTOffMagicWordManager: Abracadabra!
+:11-21-2019 01:02:36 TTOffMagicWordManager: Alakazam!
+:11-21-2019 01:02:47 TTOffMagicWordManager: Voila!
+:11-21-2019 01:03:05 TTOffMagicWordManager: Presto!
+:11-21-2019 01:03:21 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:03:42 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+frame rate: 88.5 fps|0.004d|13 avs||912|913||0x0000|0x0000|704.8MB|802.7MB|32703.7MB|418|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:04:12 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:04:35 TTOffMagicWordManager: Voila!
+:11-21-2019 01:04:47 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:05:07 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:05:21 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:05:49 TTOffMagicWordManager: Alakazam!
+:11-21-2019 01:06:03 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:06:29 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:06:47 TTOffMagicWordManager: Abracadabra!
+:11-21-2019 01:07:01 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:07:30 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:07:59 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:08:18 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:08:21 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:08:39 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:08:49 :linmath(warning): Tried to invert singular LMatrix3.
+frame rate: 84.3 fps|0.004d|13 avs||1212|1213||0x0000|0x0000|722.1MB|820.1MB|32703.7MB|438|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-21-2019 01:08:58 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:09:22 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:09:43 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:10:30 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:10:54 TTOffMagicWordManager: Voila!
+:11-21-2019 01:11:07 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:11:29 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:11:52 TTOffMagicWordManager: Voila!
+:11-21-2019 01:12:04 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:12:24 TTOffMagicWordManager: Alakazam!
+:11-21-2019 01:12:41 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:13:10 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:13:36 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+frame rate: 88.5 fps|0.004d|13 avs||1512|1513||0x0000|0x0000|739.9MB|837.8MB|32703.7MB|442|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-21-2019 01:14:12 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:14:44 TTOffMagicWordManager: Ta-da!
+:11-21-2019 01:15:06 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:15:46 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:16:13 TTOffMagicWordManager: Voila!
+:11-21-2019 01:16:24 TTOffMagicWordManager: Presto!
+:11-21-2019 01:16:35 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:16:58 TTOffMagicWordManager: Presto!
+:11-21-2019 01:17:09 TTOffMagicWordManager: Alakazam!
+:11-21-2019 01:17:21 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:17:44 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:17:58 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:18:16 TTOffMagicWordManager: Presto!
+:11-21-2019 01:18:27 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:18:47 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:18:56 TimeManager: Clock sync: timer
+:11-21-2019 01:18:57 TimeManager: Clock sync roundtrip took 36.759 ms
+:11-21-2019 01:18:57 TimeManager: AI time delta is -0:00 from server delta
+:11-21-2019 01:18:57 ClockDelta: previous delta at -0.938 s, +/- 1.041 s.
+:11-21-2019 01:18:57 ClockDelta: new delta at -1.493 s, +/- 0.018 s.
+:11-21-2019 01:18:57 ClockDelta: intersection at -1.493 s, +/- 0.018 s.
+:11-21-2019 01:18:57 TimeManager: Local clock uncertainty +/- 0.018 s
+frame rate: 88.3 fps|0.003d|13 avs||1812|1813||0x0000|0x0000|759.1MB|857.1MB|32703.7MB|447|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-21-2019 01:19:04 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:20:43 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:21:06 TTOffMagicWordManager: Abracadabra!
+:11-21-2019 01:21:22 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:21:27 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:21:59 TTOffMagicWordManager: Voila!
+:11-21-2019 01:22:11 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:22:46 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:23:16 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:23:50 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+frame rate: 80.1 fps|0.003d|13 avs||2112|2113||0x0000|0x0000|773.8MB|871.9MB|32703.7MB|451|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:24:10 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:24:34 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:24:46 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:25:04 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:25:16 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:25:46 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:26:22 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:26:34 OTPClientRepository: Sending heartbeat mid-frame.
+:11-21-2019 01:26:39 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:26:51 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:27:09 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:27:28 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:27:34 TTOffMagicWordManager: Presto!
+:11-21-2019 01:27:36 TTOffMagicWordManager: Voila!
+:11-21-2019 01:27:40 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(-0.00155148, -9.65453, 3.25431) , cam hpr =  LVecBase3f(-0.02778, -0.216847, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:28:06 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:28:32 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+frame rate: 81.0 fps|0.003d|13 avs||2412|2413||0x0000|0x0000|789.6MB|887.8MB|32703.7MB|455|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-21-2019 01:29:10 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:29:41 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:30:13 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:30:43 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:30:58 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:31:10 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:31:35 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:31:56 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:32:31 TTOffMagicWordManager: Presto!
+:11-21-2019 01:32:43 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:33:12 TTOffMagicWordManager: Presto!
+:11-21-2019 01:33:29 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:33:45 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+frame rate: 77.7 fps|0.004d|13 avs||2712|2713||0x0000|0x0000|806.4MB|904.5MB|32703.7MB|460|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:34:10 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:34:45 TTOffMagicWordManager: Voila!
+:11-21-2019 01:34:56 TTOffMagicWordManager: Abracadabra!
+:11-21-2019 01:35:09 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:35:56 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:36:42 TTOffMagicWordManager: Alakazam!
+:11-21-2019 01:37:00 TTOffMagicWordManager: Ta-da!
+:11-21-2019 01:37:13 TTOffMagicWordManager: Voila!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:37:43 TTOffMagicWordManager: Presto!
+:11-21-2019 01:37:54 TTOffMagicWordManager: Ta-da!
+:11-21-2019 01:38:06 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:38:24 TTOffMagicWordManager: Presto!
+:11-21-2019 01:38:35 TTOffMagicWordManager: Voila!
+:11-21-2019 01:38:51 TTOffMagicWordManager: Ta-da!
+frame rate: 72.7 fps|0.003d|13 avs||3012|3013||0x0000|0x0000|823.9MB|922.3MB|32703.7MB|464|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-21-2019 01:38:58 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:39:19 TTOffMagicWordManager: Ta-da!
+:11-21-2019 01:39:32 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:39:50 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:40:02 TTOffMagicWordManager: Presto!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:40:32 TTOffMagicWordManager: Abracadabra!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:40:45 TTOffMagicWordManager: Alakazam!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)
+:11-21-2019 01:41:15 TTOffMagicWordManager: Ta-da!
+cam pos =  LPoint3f(0, -9.7125, 3.2375) , cam hpr =  LVecBase3f(0, 0, 0)

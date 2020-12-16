@@ -1,0 +1,764 @@
+
+
+Starting Toontown Online...
+Current time: Fri Nov 22 18:55:22 2019 Arabian Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\Users\\alyaz\\Documents\\GitHub\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMPUTERNAME': 'DESKTOP-5K6UCTT', 'USERDOMAIN': 'DESKTOP-5K6UCTT', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 94 Stepping 3, GenuineIntel', 'LOGONSERVER': '\\\\DESKTOP-5K6UCTT', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '5e03', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Panda3D-1.11.0-x64\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32;C:\\Users\\alyaz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\NSI\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\alyaz\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.11.0\\python;C:\\Panda3D-1.11.0\\python\\Scripts;C:\\Panda3D-1.11.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python\\Scripts;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\bin;F:\\Panda3D-1.10.4.1-x64\\python;F:\\Panda3D-1.10.4.1-x64\\python\\Scripts;F:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;F:\\PYTHON-3\\TOONTOWN-SOURCES\\CorporateClash-python3\\Panda3D-1.10.0-x64\\python;F:\\PYTHON-3', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\alyaz\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\alyaz', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-5K6UCTT', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'alyaz', 'TOONIVERSAL_P3D': 'C:\\Users\\alyaz\\Desktop\\Panda3D-1.11.0\\python\\ppython', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\alyaz\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ASL.LOG': 'Destination=file', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\alyaz\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\alyaz'}
+:11-22-2019 18:55:22 TTOffLauncher: isTestServer: 0
+:11-22-2019 18:55:22 TTOffLauncher: Game Server 127.0.0.1
+:11-22-2019 18:55:22 TTOffLauncher: Starting Toontown Online... 
+:11-22-2019 18:55:22 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-22-2019 18:55:22 TTOffLauncher: maybeStartGame: starting game
+:11-22-2019 18:55:22 TTOffLauncher: Starting Toontown Online...
+:11-22-2019 18:55:22 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-22-2019 18:55:22 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-22-2019 18:55:22 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-22-2019 18:55:22 :display:windisplay(warning): SetForegroundWindow() failed!
+:11-22-2019 18:55:22 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-22-2019 18:55:23 ShowBase: __dev__ == False
+:11-22-2019 18:55:23 TTOffLauncher: setting panda error code to 11
+:11-22-2019 18:55:23 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-22-2019 18:55:23 Loader: starting bulk load of block 'init'
+:11-22-2019 18:55:23 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-22-2019 18:55:23 OTPClientRepository: Using connect method 'http'
+:11-22-2019 18:55:24 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-22-2019 18:55:24 TTOffLauncher: checking env
+:11-22-2019 18:55:24 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-22-2019 18:55:24 TTOffLauncher: checking env
+:11-22-2019 18:55:24 OTPClientRepository: reg_deployment=
+:11-22-2019 18:55:24 OTPClientRepository: required-login auto.
+:11-22-2019 18:55:24 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-22-2019 18:55:24 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-22-2019 18:55:24 Loader: At end of block 'init', expected 138, loaded 7, duration=1.52377773515
+:11-22-2019 18:55:24 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-22-2019 18:55:24 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-22-2019 18:55:24 TTOffLauncher: Stopping mini task manager.
+:11-22-2019 18:55:24 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-22-2019 18:55:24 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001B801708>}
+:11-22-2019 18:55:25 StateData: AvatarChooser.enter
+:11-22-2019 18:55:25 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-22-2019 18:55:25 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-22-2019 18:55:30 OTPClientRepository: ================
+:11-22-2019 18:55:30 OTPClientRepository: Chose avatar id: 100000001
+:11-22-2019 18:55:30 OTPClientRepository: Chose avatar name: Aeterna
+:11-22-2019 18:55:30 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 26, 0, 21, 26, 3, 11, 3, 11, 8, 12)
+:11-22-2019 18:55:30 OTPClientRepository: Chose avatar position: 1
+:11-22-2019 18:55:30 OTPClientRepository: isPaid: 1
+:11-22-2019 18:55:30 OTPClientRepository: freeTimeLeft: 0
+:11-22-2019 18:55:30 OTPClientRepository: allowSecretChat: True
+:11-22-2019 18:55:30 OTPClientRepository: ================
+:11-22-2019 18:55:30 Loader: starting bulk load of block 'localAvatarPlayGame'
+:11-22-2019 18:55:31 ToontownTimeManager(warning): error parsing date string=
+local
+:11-22-2019 18:55:31 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:11-22-2019 18:55:31 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:11-22-2019 18:55:33 OTPClientRepository: Entering shard 401000001
+:11-22-2019 18:55:33 StreetSign: Street sign url is https://ttoffline.com/images/
+:11-22-2019 18:55:35 StreetSign: Street Sign is up to date
+:11-22-2019 18:55:35 OTPClientRepository: Sending heartbeat mid-frame.
+:11-22-2019 18:55:35 TimeManager: Clock sync: TimeManager.announceGenerate
+:11-22-2019 18:55:35 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz|329443|0|2.701,2.701|4,8 cpus
+:11-22-2019 18:55:36 OTPClientRepository: No sync from TimeManager.
+:11-22-2019 18:55:36 OTPClientRepository: gotTimeSync
+:11-22-2019 18:55:36 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 15, duration=5.8601393875
+:11-22-2019 18:55:36 TimeManager: Clock sync roundtrip took 1088.831 ms
+:11-22-2019 18:55:36 TimeManager: AI time delta is -0:01 from server delta
+:11-22-2019 18:55:36 TimeManager: Local clock uncertainty +/- 0.545 s
+:11-22-2019 18:55:36 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:11-22-2019 18:55:36 Loader: starting bulk load of block 'hood'
+:11-22-2019 18:55:37 LawbotCogHQLoader: loadPlaceGeom: 13000
+:11-22-2019 18:55:37 DistributedObject: DistributedSuitPlanner 401002975: generating
+:11-22-2019 18:55:37 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 18:55:37 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:55:37 Loader: At end of block 'hood', expected 2, loaded 4, duration=0.952293497616
+:11-22-2019 18:55:39 Teleport(debug): teleportInDone: walk
+:11-22-2019 18:55:39 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:55:41 TTOffMagicWordManager: Run mode has been toggled.
+:11-22-2019 18:55:46 LawbotCogHQLoader: loadPlaceGeom: 13100
+:11-22-2019 18:55:46 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:11-22-2019 18:55:46 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:11-22-2019 18:55:46 DistributedObject: DistributedSuitPlanner 401002975: disabling
+:11-22-2019 18:55:46 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 18:55:46 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:55:48 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:55:53 TTOffMagicWordManager: Run mode has been toggled.
+:11-22-2019 18:55:59 LawbotCogHQLoader: loadPlaceGeom: 61000
+:11-22-2019 18:55:59 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-22-2019 18:55:59 CogHQLobby: Unloading Place (13100). Fsm in final
+:11-22-2019 18:56:00 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:11-22-2019 18:56:00 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 18:56:00 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:11-22-2019 18:56:02 TTOffMagicWordManager: Restarting Scale Round
+:11-22-2019 18:56:07 TTOffMagicWordManager: Gave Aeterna an infinite amount of pies
+:11-22-2019 18:56:11 :linmath(warning): Tried to invert singular LMatrix3.
+:11-22-2019 18:56:22 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 18:56:24 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 18:56:27 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 18:56:29 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 18:56:33 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+:11-22-2019 18:56:40 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean setplayrate?
+:11-22-2019 18:56:43 TTOffMagicWordManager: Ta-da!
+:11-22-2019 18:56:47 TTOffMagicWordManager: These arguments are of the wrong type!
+:11-22-2019 18:56:52 TTOffMagicWordManager: These arguments are of the wrong type!
+:11-22-2019 18:57:14 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:57:21 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:57:33 TTOffMagicWordManager: Voila!
+:11-22-2019 18:57:45 TTOffMagicWordManager: [x-2, y0, z15, h180, p-10, r0]
+ [x-11, y-21, z12, h135, p-6, r0, dur0]
+ [x-28, y-29, z9, h90, p-2, r0, dur0]
+ [x-43, y-25, z6, h45, p2, r0, dur0]
+ [x-51, y-9, z6, h0, p6, r0, dur0]
+:11-22-2019 18:57:56 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:58:15 TTOffMagicWordManager: Ta-da!
+:11-22-2019 18:58:30 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:58:33 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 18:58:50 TTOffMagicWordManager: LPoint3f(-47.701, 7.01413, -0.000315141)
+:11-22-2019 18:59:20 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:59:27 TTOffMagicWordManager: Ta-da!
+:11-22-2019 18:59:45 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:00:19 TTOffMagicWordManager: LVecBase3f(-28.1757, 0, 0)
+:11-22-2019 19:00:23 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 159.4 fps|0.002d|12 avs||310|311||0x0000|0x0000|622.2MB|695.0MB|32703.7MB|397|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:01:17 TTOffMagicWordManager: Point -47 7 13 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:01:21 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:01:26 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:01:32 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:01:41 TTOffMagicWordManager: LPoint3f(-35.5251, 28.4224, 13)
+:11-22-2019 19:02:31 TTOffMagicWordManager: Point -35 28 14 -28 14 0 with a duration of 0 was added!
+:11-22-2019 19:02:34 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:02:39 TTOffMagicWordManager: Voila!
+:11-22-2019 19:02:45 TTOffMagicWordManager: Voila!
+:11-22-2019 19:03:06 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean clearaccessories?
+chatButtonPressed
+:11-22-2019 19:03:16 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:03:18 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:03:20 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:03:23 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:03:25 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:03:29 TTOffMagicWordManager: Point -47 7 8 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:03:32 TTOffMagicWordManager: Point -35 28 10 -28 14 0 with a duration of 0 was added!
+:11-22-2019 19:03:34 TTOffMagicWordManager: Presto!
+:11-22-2019 19:03:44 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:03:59 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:04:10 TTOffMagicWordManager: LPoint3f(-25.4652, 47.2031, 13)
+chatButtonPressed
+:11-22-2019 19:04:55 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:04:57 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:05:00 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:05:02 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:05:05 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:05:07 TTOffMagicWordManager: Point -47 7 8 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:05:10 TTOffMagicWordManager: Point -35 28 10 -28 14 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:05:12 TTOffMagicWordManager: Point -25 47 15 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:05:16 TTOffMagicWordManager: Voila!
+frame rate: 174.4 fps|0.001d|12 avs||610|611||0x0000|0x0000|645.3MB|718.1MB|32703.7MB|404|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:06:00 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:06:04 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:06:07 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:06:10 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:06:13 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:06:15 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+:11-22-2019 19:06:18 TTOffMagicWordManager: Point -47 7 9 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:06:21 TTOffMagicWordManager: Point -35 28 13 -28 14 0 with a duration of 0 was added!
+:11-22-2019 19:06:23 TTOffMagicWordManager: Point -25 47 17 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:06:29 TTOffMagicWordManager: Voila!
+:11-22-2019 19:07:01 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:07:11 TTOffMagicWordManager: LPoint3f(-14.7306, 67.2434, 13)
+:11-22-2019 19:07:15 TTOffMagicWordManager: LPoint3f(-14.7306, 67.2434, 13)
+:11-22-2019 19:07:35 TTOffMagicWordManager: Presto!
+:11-22-2019 19:08:22 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:08:27 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:08:31 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:08:36 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:08:39 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:08:41 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:08:44 TTOffMagicWordManager: Point -47 7 9 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:08:46 TTOffMagicWordManager: Point -35 28 13 -28 14 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:08:49 TTOffMagicWordManager: Point -25 47 20 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:08:52 TTOffMagicWordManager: Point -14 67 30 -28 0 0 with a duration of 0 was added!
+:11-22-2019 19:08:57 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:09:21 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:09:25 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:09:27 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:09:31 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:09:34 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:09:36 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:09:39 TTOffMagicWordManager: Point -47 7 9 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:09:42 TTOffMagicWordManager: Point -35 28 13 -28 14 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:09:46 TTOffMagicWordManager: Point -25 47 20 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:09:49 TTOffMagicWordManager: Point -14 67 30 -28 0 0 with a duration of 0 was added!
+:11-22-2019 19:09:55 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:10:00 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:10:22 TTOffMagicWordManager: Successfully cleared all camera points!
+frame rate: 183.2 fps|0.001d|12 avs||910|911||0x0000|0x0000|658.2MB|730.9MB|32703.7MB|408|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:10:37 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:10:41 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:10:46 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:10:49 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:10:53 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+:11-22-2019 19:10:56 TTOffMagicWordManager: Point -47 7 13 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:10:59 TTOffMagicWordManager: Point -35 28 18 -28 14 0 with a duration of 0 was added!
+:11-22-2019 19:11:03 TTOffMagicWordManager: Point -25 47 25 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:11:07 TTOffMagicWordManager: Point -14 67 32 -28 0 0 with a duration of 0 was added!
+:11-22-2019 19:11:08 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:11:18 TTOffMagicWordManager: Presto!
+:11-22-2019 19:11:22 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:11:50 TTOffMagicWordManager: Successfully cleared all camera points!
+chatButtonPressed
+:11-22-2019 19:11:54 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:11:57 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:12:00 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:12:03 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:12:06 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:12:10 TTOffMagicWordManager: Point -47 7 6 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:12:13 TTOffMagicWordManager: Point -35 28 18 -28 14 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:12:16 TTOffMagicWordManager: Point -25 47 25 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:12:19 TTOffMagicWordManager: Point -14 67 32 -28 0 0 with a duration of 0 was added!
+:11-22-2019 19:12:25 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:12:31 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:12:35 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:12:49 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:13:04 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:13:08 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:13:12 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:13:14 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:13:17 TTOffMagicWordManager: Point -43 -25 9 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:13:20 TTOffMagicWordManager: Point -51 -9 9 0 6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:13:23 TTOffMagicWordManager: Point -47 7 9 0 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:13:25 TTOffMagicWordManager: Point -35 28 18 -28 14 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:13:29 TTOffMagicWordManager: Point -25 47 25 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:13:32 TTOffMagicWordManager: Point -14 67 32 -28 0 0 with a duration of 0 was added!
+:11-22-2019 19:13:34 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:13:52 TTOffMagicWordManager: Voila!
+:11-22-2019 19:13:59 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:14:07 TTOffMagicWordManager: Presto!
+:11-22-2019 19:14:44 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:14:47 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:14:50 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:14:53 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:14:56 TTOffMagicWordManager: Point -43 -25 9 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:14:58 TTOffMagicWordManager: Point -51 -9 9 0 6 0 with a duration of 0 was added!
+:11-22-2019 19:15:01 TTOffMagicWordManager: Point -47 7 9 -14 5 0 with a duration of 0 was added!
+:11-22-2019 19:15:04 TTOffMagicWordManager: Point -35 28 18 -28 8 0 with a duration of 0 was added!
+:11-22-2019 19:15:06 TTOffMagicWordManager: Point -25 47 25 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:15:09 TTOffMagicWordManager: Point -14 67 32 -28 0 0 with a duration of 0 was added!
+:11-22-2019 19:15:11 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:15:17 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:15:23 TTOffMagicWordManager: Voila!
+frame rate: 172.9 fps|0.001d|12 avs||1210|1211||0x0000|0x0000|673.0MB|746.0MB|32703.7MB|412|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:15:43 TTOffMagicWordManager: This command takes at least 3 arguments!
+:11-22-2019 19:15:54 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:16:03 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:16:46 TTOffMagicWordManager: Voila!
+:11-22-2019 19:17:14 TTOffMagicWordManager: Voila!
+:11-22-2019 19:17:40 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:17:45 TTOffMagicWordManager: Voila!
+:11-22-2019 19:17:49 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:18:08 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:19:32 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:19:36 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:19:39 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:19:41 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:19:44 TTOffMagicWordManager: Point -43 -25 9 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:19:46 TTOffMagicWordManager: Point -51 -9 9 0 6 0 with a duration of 0 was added!
+:11-22-2019 19:19:48 TTOffMagicWordManager: Point -47 7 9 -7 0 0 with a duration of 0 was added!
+:11-22-2019 19:19:51 TTOffMagicWordManager: Point -41 14 18 -14 5 0 with a duration of 0 was added!
+:11-22-2019 19:19:53 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:19:55 TTOffMagicWordManager: Point -25 47 25 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:19:58 TTOffMagicWordManager: Point -14 67 32 -28 0 0 with a duration of 0 was added!
+:11-22-2019 19:20:00 TTOffMagicWordManager: Abracadabra!
+frame rate: 175.0 fps|0.001d|12 avs||1510|1511||0x0000|0x0000|686.1MB|759.1MB|32703.7MB|415|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:20:37 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:20:55 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:20:58 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:00 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:02 TTOffMagicWordManager: Point -43 -25 9 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:05 TTOffMagicWordManager: Point -51 -9 9 0 6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:08 TTOffMagicWordManager: Point -47 7 9 -7 0 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:11 TTOffMagicWordManager: Point -41 14 13 -14 0 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:13 TTOffMagicWordManager: Point -35 28 18 -28 0 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:17 TTOffMagicWordManager: Point -25 47 23 -28 10 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:21:20 TTOffMagicWordManager: Point -14 67 27 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:21:22 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:21:28 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:22:00 TTOffMagicWordManager: Successfully cleared all camera points!
+chatButtonPressed
+:11-22-2019 19:22:03 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:22:06 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:22:08 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:22:11 TTOffMagicWordManager: Point -43 -25 9 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:22:13 TTOffMagicWordManager: Point -51 -9 9 0 0 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:22:16 TTOffMagicWordManager: Point -47 7 9 -7 0 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:22:19 TTOffMagicWordManager: Point -41 14 13 -14 0 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:22:22 TTOffMagicWordManager: Point -35 28 18 -28 0 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:22:24 TTOffMagicWordManager: Point -25 47 23 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:22:27 TTOffMagicWordManager: Point -14 67 27 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:22:28 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:22:33 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:23:03 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:23:20 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:23:23 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:23:26 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:23:29 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:23:31 TTOffMagicWordManager: Point -43 -25 9 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:23:33 TTOffMagicWordManager: Point -51 -9 9 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:23:36 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:23:38 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:23:41 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:23:43 TTOffMagicWordManager: Point -25 47 23 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:23:45 TTOffMagicWordManager: Point -14 67 27 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:23:47 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:23:52 TTOffMagicWordManager: Voila!
+:11-22-2019 19:24:04 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:24:44 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:24:48 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:25:17 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:25:20 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:25:22 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:25:25 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:25:27 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:25:30 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:25:32 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:25:33 TimeManager: Clock sync: timer
+frame rate: 169.5 fps|0.001d|12 avs||1810|1811||0x0000|0x0000|699.7MB|772.6MB|32703.7MB|418|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:25:33 TimeManager: Clock sync roundtrip took 28.093 ms
+:11-22-2019 19:25:33 TimeManager: AI time delta is -0:00 from server delta
+:11-22-2019 19:25:33 ClockDelta: previous delta at -0.952 s, +/- 1.044 s.
+:11-22-2019 19:25:33 ClockDelta: new delta at -1.504 s, +/- 0.014 s.
+:11-22-2019 19:25:33 ClockDelta: intersection at -1.504 s, +/- 0.014 s.
+:11-22-2019 19:25:33 TimeManager: Local clock uncertainty +/- 0.014 s
+:11-22-2019 19:25:35 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:25:37 TTOffMagicWordManager: Point -25 47 23 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:25:40 TTOffMagicWordManager: Point -14 67 27 -28 10 0 with a duration of 0 was added!
+:11-22-2019 19:25:44 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:25:51 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:26:12 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:26:24 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:26:40 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:26:42 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:26:45 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:26:47 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:26:49 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:26:51 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:26:53 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:26:56 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:26:58 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 19:27:01 TTOffMagicWordManager: Point -14 67 27 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:27:03 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:27:22 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:27:26 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:27:30 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:27:33 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:27:35 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:27:38 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:27:40 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:27:44 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:27:46 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 19:27:49 TTOffMagicWordManager: Point -14 67 32 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:27:53 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:28:24 TTOffMagicWordManager: Point -14 67 32 -28 2 0 with a duration of 1 was added!
+:11-22-2019 19:28:26 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:29:00 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:29:17 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:29:20 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:29:22 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:29:25 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:29:27 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:29:30 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:29:33 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:29:35 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 19:29:38 TTOffMagicWordManager: Point -16 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:29:43 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:30:21 TTOffMagicWordManager: Alakazam!
+frame rate: 172.8 fps|0.001d|12 avs||2110|2111||0x0000|0x0000|713.6MB|788.1MB|32703.7MB|422|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:30:36 TTOffMagicWordManager: Presto!
+:11-22-2019 19:30:48 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:31:37 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:31:48 TTOffMagicWordManager: Presto!
+:11-22-2019 19:32:13 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:32:35 TTOffMagicWordManager: This command takes at least 3 arguments!
+:11-22-2019 19:32:41 TTOffMagicWordManager: Voila!
+:11-22-2019 19:32:49 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:32:54 TTOffMagicWordManager: Voila!
+:11-22-2019 19:33:12 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:33:26 TTOffMagicWordManager: Voila!
+:11-22-2019 19:33:56 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:34:19 TTOffMagicWordManager: Uh-oh! This Magic Word doesn't exist!
+:11-22-2019 19:34:22 TTOffMagicWordManager: LVecBase3f(90.5056, 0, 0)
+:11-22-2019 19:34:54 TTOffMagicWordManager: LVecBase3f(69.6379, 0, 0)
+:11-22-2019 19:35:15 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:35:25 TTOffMagicWordManager: Voila!
+frame rate: 179.3 fps|0.001d|12 avs||2410|2411||0x0000|0x0000|726.6MB|801.1MB|32703.7MB|425|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:35:46 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:35:49 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:35:55 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:35:57 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:36:00 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:02 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:04 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:07 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:10 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:36:12 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 19:36:17 TTOffMagicWordManager: Point -5 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:20 TTOffMagicWordManager: Point 1 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:23 TTOffMagicWordManager: Point 4 69 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:26 TTOffMagicWordManager: Point 20 69 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:36:27 TTOffMagicWordManager: Voila!
+:11-22-2019 19:36:34 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:37:09 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:37:16 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:37:41 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:37:44 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:37:46 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:37:49 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:37:52 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:37:55 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:37:57 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:38:00 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:38:02 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 19:38:05 TTOffMagicWordManager: Point -10 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:38:07 TTOffMagicWordManager: Point 1 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:38:10 TTOffMagicWordManager: Point 4 69 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:38:13 TTOffMagicWordManager: Point 20 69 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:38:14 TTOffMagicWordManager: Presto!
+:11-22-2019 19:38:23 TTOffMagicWordManager: Voila!
+:11-22-2019 19:38:37 TTOffMagicWordManager: Voila!
+:11-22-2019 19:38:58 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:39:06 TTOffMagicWordManager: Voila!
+:11-22-2019 19:39:28 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:39:32 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:39:35 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:39:37 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:39:39 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:39:42 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:39:44 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:39:46 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:39:49 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:39:52 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 19:39:54 TTOffMagicWordManager: Point -15 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:39:57 TTOffMagicWordManager: Point 1 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:39:59 TTOffMagicWordManager: Point 2 69 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:40:03 TTOffMagicWordManager: Point 20 69 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:40:05 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:40:12 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:40:19 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:40:26 TTOffMagicWordManager: Voila!
+frame rate: 169.8 fps|0.001d|12 avs||2710|2711||0x0000|0x0000|744.1MB|818.6MB|32703.7MB|430|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:40:58 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:41:02 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+chatButtonPressed
+:11-22-2019 19:41:05 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:07 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:12 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:14 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:17 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:19 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:22 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:26 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:29 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:33 TTOffMagicWordManager: Point 1 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:41:36 TTOffMagicWordManager: Point 2 71 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:41:39 TTOffMagicWordManager: Point 20 71 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:41:40 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:41:49 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:42:03 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:42:29 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:42:55 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:42:59 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:43:01 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:04 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:08 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:12 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:14 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:17 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:19 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:22 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:25 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:28 TTOffMagicWordManager: Point 5 71 33 65 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:30 TTOffMagicWordManager: Point 0 71 33 65 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:43:35 TTOffMagicWordManager: Point 20 71 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:43:37 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:43:45 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:44:03 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:44:07 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:44:10 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:44:13 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:44:16 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:18 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:23 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:27 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:29 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:32 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:35 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:37 TTOffMagicWordManager: Point 5 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:40 TTOffMagicWordManager: Point 0 71 33 65 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:44:44 TTOffMagicWordManager: Point 20 71 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:44:45 TTOffMagicWordManager: Presto!
+:11-22-2019 19:44:55 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:45:03 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:45:31 TTOffMagicWordManager: Successfully cleared all camera points!
+frame rate: 176.8 fps|0.001d|12 avs||3010|3011||0x0000|0x0000|759.0MB|833.7MB|32703.7MB|434|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+chatButtonPressed
+:11-22-2019 19:45:34 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:45:38 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:45:41 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:45:44 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:45:46 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:45:50 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:45:55 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:45:58 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:46:01 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:46:04 TTOffMagicWordManager: Point 5 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:46:07 TTOffMagicWordManager: Point 3 71 33 65 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:46:10 TTOffMagicWordManager: Point 20 74 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:46:12 TTOffMagicWordManager: Voila!
+:11-22-2019 19:46:26 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:46:26 OTPClientRepository: Sending heartbeat mid-frame.
+:11-22-2019 19:46:33 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:46:42 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:46:57 TTOffMagicWordManager: Voila!
+:11-22-2019 19:47:05 TTOffMagicWordManager: Voila!
+:11-22-2019 19:48:01 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:48:04 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:48:08 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:48:14 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:48:30 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:48:59 TTOffMagicWordManager: A value lower than 1 may crash your client.
+:11-22-2019 19:49:05 TTOffMagicWordManager: Voila!
+:11-22-2019 19:49:09 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:49:14 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:49:20 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:49:41 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:49:52 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:50:05 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:50:11 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:50:24 TTOffMagicWordManager: Presto!
+:11-22-2019 19:50:33 TTOffMagicWordManager: Abracadabra!
+frame rate: 150.9 fps|0.002d|12 avs||3310|3311||0x0000|0x0000|778.6MB|870.6MB|32703.7MB|439|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:50:52 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:51:00 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:51:09 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:51:27 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:51:47 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:51:55 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:52:37 TTOffMagicWordManager: Voila!
+:11-22-2019 19:52:47 TTOffMagicWordManager: LPoint3f(36.1505, 40.1716, 180)
+:11-22-2019 19:53:11 TTOffMagicWordManager: LVecBase3f(93.0516, -60, 0)
+:11-22-2019 19:53:32 TTOffMagicWordManager: LVecBase3f(93.0516, -60, 0)
+:11-22-2019 19:53:47 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean clearaccessories?
+:11-22-2019 19:53:49 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:53:54 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 19:53:57 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:01 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:05 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:08 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:11 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:14 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:16 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:19 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:22 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:24 TTOffMagicWordManager: Point 7 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:27 TTOffMagicWordManager: Point 3 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:30 TTOffMagicWordManager: Point 20 74 33 65 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 19:54:33 TTOffMagicWordManager: Point 36 40 93 -60 0 0 with a duration of 1 was added!
+:11-22-2019 19:54:36 TTOffMagicWordManager: Voila!
+:11-22-2019 19:55:10 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:55:24 TTOffMagicWordManager: Presto!
+:11-22-2019 19:55:33 TimeManager: Clock sync: timer
+:11-22-2019 19:55:33 TimeManager: Clock sync roundtrip took 14.980 ms
+:11-22-2019 19:55:33 TimeManager: AI time delta is -0:00 from server delta
+:11-22-2019 19:55:33 ClockDelta: previous delta at -1.504 s, +/- 0.514 s.
+:11-22-2019 19:55:33 ClockDelta: new delta at -1.499 s, +/- 0.007 s.
+:11-22-2019 19:55:33 ClockDelta: intersection at -1.499 s, +/- 0.007 s.
+:11-22-2019 19:55:33 TimeManager: Local clock uncertainty +/- 0.007 s
+frame rate: 158.5 fps|0.001d|12 avs||3610|3611||0x0000|0x0000|794.0MB|868.7MB|32703.7MB|443|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 19:55:47 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 19:55:50 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 19:55:53 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 19:55:56 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 19:55:58 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 19:56:01 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 19:56:03 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 19:56:06 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 19:56:08 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 19:56:11 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:56:13 TTOffMagicWordManager: Point -7 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:56:16 TTOffMagicWordManager: Point 3 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 19:56:18 TTOffMagicWordManager: Point 20 74 33 65 2 0 with a duration of 0 was added!
+:11-22-2019 19:56:21 TTOffMagicWordManager: Point 36 40 180 93 -60 0 with a duration of 0 was added!
+:11-22-2019 19:56:24 TTOffMagicWordManager: Voila!
+:11-22-2019 19:56:46 TTOffMagicWordManager: Voila!
+:11-22-2019 19:57:02 TTOffMagicWordManager: Voila!
+:11-22-2019 19:58:36 TTOffMagicWordManager: Presto!
+:11-22-2019 19:58:53 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:58:59 TTOffMagicWordManager: Ta-da!
+:11-22-2019 19:59:05 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 19:59:21 TTOffMagicWordManager: Alakazam!
+:11-22-2019 19:59:29 TTOffMagicWordManager: LPoint3f(48.1712, 43.826, 190)
+:11-22-2019 19:59:50 TTOffMagicWordManager: LVecBase3f(92.7333, -60, 0)
+:11-22-2019 20:00:04 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 20:00:09 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 20:00:14 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 20:00:16 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:18 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:20 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:22 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:25 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 20:00:27 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 20:00:30 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:32 TTOffMagicWordManager: Point -7 71 33 -28 2 0 with a duration of 0 was added!
+frame rate: 140.7 fps|0.001d|12 avs||3910|3911||0x0000|0x0000|806.9MB|879.5MB|32703.7MB|446|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 20:00:35 TTOffMagicWordManager: Point 3 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:39 TTOffMagicWordManager: Point 10 74 33 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:42 TTOffMagicWordManager: Point 30 77 33 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:00:44 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:00:47 TTOffMagicWordManager: Presto!
+:11-22-2019 20:00:57 TTOffMagicWordManager: Voila!
+:11-22-2019 20:01:28 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 20:01:33 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 20:01:36 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 20:01:39 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 20:01:44 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 20:01:46 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 20:01:49 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 20:01:51 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 20:01:53 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 20:01:56 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 20:01:59 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:02:01 TTOffMagicWordManager: Point -7 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:02:05 TTOffMagicWordManager: Point 0 71 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:02:08 TTOffMagicWordManager: Point 7 74 33 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:02:10 TTOffMagicWordManager: Point 30 77 33 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:02:13 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:02:16 TTOffMagicWordManager: Presto!
+:11-22-2019 20:02:24 TTOffMagicWordManager: Ta-da!
+:11-22-2019 20:02:32 TTOffMagicWordManager: Voila!

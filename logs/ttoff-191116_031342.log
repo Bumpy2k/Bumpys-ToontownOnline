@@ -1,0 +1,331 @@
+
+
+Starting Toontown Online...
+Current time: Sat Nov 16 03:13:42 2019 Arabian Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\Users\\alyaz\\Documents\\GitHub\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMPUTERNAME': 'DESKTOP-5K6UCTT', 'USERDOMAIN': 'DESKTOP-5K6UCTT', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 94 Stepping 3, GenuineIntel', 'LOGONSERVER': '\\\\DESKTOP-5K6UCTT', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '5e03', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Panda3D-1.11.0-x64\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32;C:\\Users\\alyaz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\NSI\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\alyaz\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.11.0\\python;C:\\Panda3D-1.11.0\\python\\Scripts;C:\\Panda3D-1.11.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python\\Scripts;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\bin;F:\\Panda3D-1.10.4.1-x64\\python;F:\\Panda3D-1.10.4.1-x64\\python\\Scripts;F:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;F:\\PYTHON-3\\TOONTOWN-SOURCES\\CorporateClash-python3\\Panda3D-1.10.0-x64\\python;F:\\PYTHON-3', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\alyaz\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\alyaz', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-5K6UCTT', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'alyaz', 'TOONIVERSAL_P3D': 'C:\\Users\\alyaz\\Desktop\\Panda3D-1.11.0\\python\\ppython', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\alyaz\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ASL.LOG': 'Destination=file', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\alyaz\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\alyaz'}
+:11-16-2019 03:13:42 TTOffLauncher: isTestServer: 0
+:11-16-2019 03:13:42 TTOffLauncher: Game Server 127.0.0.1
+:11-16-2019 03:13:42 TTOffLauncher: Starting Toontown Online... 
+:11-16-2019 03:13:42 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-16-2019 03:13:42 TTOffLauncher: maybeStartGame: starting game
+:11-16-2019 03:13:42 TTOffLauncher: Starting Toontown Online...
+:11-16-2019 03:13:42 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-16-2019 03:13:42 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-16-2019 03:13:42 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-16-2019 03:13:43 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-16-2019 03:13:43 ShowBase: __dev__ == False
+:11-16-2019 03:13:43 TTOffLauncher: setting panda error code to 11
+:11-16-2019 03:13:43 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-16-2019 03:13:43 Loader: starting bulk load of block 'init'
+:11-16-2019 03:13:48 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-16-2019 03:13:48 OTPClientRepository: Using connect method 'http'
+:11-16-2019 03:13:54 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-16-2019 03:13:54 TTOffLauncher: checking env
+:11-16-2019 03:13:54 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-16-2019 03:13:54 TTOffLauncher: checking env
+:11-16-2019 03:13:54 OTPClientRepository: reg_deployment=
+:11-16-2019 03:13:54 OTPClientRepository: required-login auto.
+:11-16-2019 03:13:54 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-16-2019 03:13:54 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-16-2019 03:13:54 Loader: At end of block 'init', expected 138, loaded 11, duration=10.5136546368
+:11-16-2019 03:13:54 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-16-2019 03:13:54 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-16-2019 03:13:54 TTOffLauncher: Stopping mini task manager.
+:11-16-2019 03:13:54 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-16-2019 03:13:54 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001D973EC8>}
+:11-16-2019 03:13:55 StateData: AvatarChooser.enter
+:11-16-2019 03:13:55 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-16-2019 03:13:55 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-16-2019 03:13:58 OTPClientRepository: ================
+:11-16-2019 03:13:58 OTPClientRepository: Chose avatar id: 100000001
+:11-16-2019 03:13:58 OTPClientRepository: Chose avatar name: Aeterna
+:11-16-2019 03:13:58 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 20, 0, 21, 20, 3, 11, 3, 11, 8, 27)
+:11-16-2019 03:13:58 OTPClientRepository: Chose avatar position: 1
+:11-16-2019 03:13:58 OTPClientRepository: isPaid: 1
+:11-16-2019 03:13:58 OTPClientRepository: freeTimeLeft: 0
+:11-16-2019 03:13:58 OTPClientRepository: allowSecretChat: True
+:11-16-2019 03:13:58 OTPClientRepository: ================
+:11-16-2019 03:13:58 Loader: starting bulk load of block 'localAvatarPlayGame'
+:11-16-2019 03:13:59 ToontownTimeManager(warning): error parsing date string=
+local
+:11-16-2019 03:13:59 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:11-16-2019 03:13:59 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:11-16-2019 03:14:02 OTPClientRepository: Entering shard 401000001
+:11-16-2019 03:14:02 StreetSign: Street sign url is https://ttoffline.com/images/
+:11-16-2019 03:14:04 StreetSign: Street Sign is up to date
+:11-16-2019 03:14:04 TimeManager: Clock sync: TimeManager.announceGenerate
+:11-16-2019 03:14:04 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz|329443|0|2.701,2.701|4,8 cpus
+:11-16-2019 03:14:05 OTPClientRepository: No sync from TimeManager.
+:11-16-2019 03:14:05 OTPClientRepository: gotTimeSync
+:11-16-2019 03:14:05 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 19, duration=7.17203970185
+:11-16-2019 03:14:05 OTPClientRepository: Sending heartbeat mid-frame.
+:11-16-2019 03:14:05 TimeManager: Clock sync roundtrip took 1265.002 ms
+:11-16-2019 03:14:05 TimeManager: AI time delta is -0:01 from server delta
+:11-16-2019 03:14:05 TimeManager: Local clock uncertainty +/- 0.633 s
+:11-16-2019 03:14:05 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:11-16-2019 03:14:05 Loader: starting bulk load of block 'hood'
+:11-16-2019 03:14:06 LawbotCogHQLoader: loadPlaceGeom: 13000
+:11-16-2019 03:14:07 DistributedObject: DistributedSuitPlanner 401002969: generating
+:11-16-2019 03:14:07 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 03:14:07 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:14:07 Loader: At end of block 'hood', expected 2, loaded 8, duration=1.70549391132
+:11-16-2019 03:14:08 Teleport(debug): teleportInDone: walk
+:11-16-2019 03:14:08 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:14:15 TTOffMagicWordManager: Abracadabra!
+:11-16-2019 03:14:22 TTOffMagicWordManager: Run mode has been toggled.
+:11-16-2019 03:14:27 LawbotCogHQLoader: loadPlaceGeom: 13100
+:11-16-2019 03:14:27 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:11-16-2019 03:14:27 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:11-16-2019 03:14:27 DistributedObject: DistributedSuitPlanner 401002969: disabling
+:11-16-2019 03:14:27 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 03:14:27 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:14:28 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:14:55 TTOffMagicWordManager: Run mode has been toggled.
+:11-16-2019 03:15:02 LawbotCogHQLoader: loadPlaceGeom: 61000
+:11-16-2019 03:15:02 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-16-2019 03:15:02 CogHQLobby: Unloading Place (13100). Fsm in final
+:11-16-2019 03:15:02 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:11-16-2019 03:15:02 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 03:15:02 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:11-16-2019 03:15:17 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+Battle Event localtoon-battle-event-3
+:11-16-2019 03:15:49 TTOffMagicWordManager: Skipping current round...
+:11-16-2019 03:15:50 TTOffMagicWordManager: Skipping current round...
+:11-16-2019 03:16:01 TTOffMagicWordManager: Gave Aeterna an infinite amount of pies
+:11-16-2019 03:18:44 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 91.9 fps|0.004d|12 avs||318|319||0x0000|0x0000|664.1MB|810.2MB|32703.7MB|442|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+frame rate: 98.1 fps|0.001d|12 avs||618|619||0x0000|0x0000|689.2MB|835.4MB|32703.7MB|449|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+frame rate: 103.5 fps|0.002d|12 avs||918|919||0x0000|0x0000|715.9MB|862.1MB|32703.7MB|456|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+frame rate: 98.5 fps|0.002d|12 avs||1218|1219||0x0000|0x0000|741.0MB|888.4MB|32703.7MB|463|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-16-2019 03:38:31 TTOffMagicWordManager: Run mode has been toggled.
+frame rate: 88.9 fps|0.003d|12 avs||1518|1519||0x0000|0x0000|759.5MB|906.1MB|32703.7MB|468|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-16-2019 03:40:46 TTOffMagicWordManager: Run mode has been toggled.
+adding timeout task
+adding timeout task
+:11-16-2019 03:44:02 TimeManager: Clock sync: timer
+frame rate: 110.8 fps|0.001d|12 avs||1818|1819||0x0000|0x0000|770.7MB|917.1MB|32703.7MB|471|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-16-2019 03:44:02 TimeManager: Clock sync roundtrip took 43.290 ms
+:11-16-2019 03:44:02 TimeManager: AI time delta is -0:00 from server delta
+:11-16-2019 03:44:02 ClockDelta: previous delta at -0.913 s, +/- 1.132 s.
+:11-16-2019 03:44:02 ClockDelta: new delta at -1.532 s, +/- 0.022 s.
+:11-16-2019 03:44:02 ClockDelta: intersection at -1.532 s, +/- 0.022 s.
+:11-16-2019 03:44:02 TimeManager: Local clock uncertainty +/- 0.022 s
+frame rate: 97.0 fps|0.002d|12 avs||2118|2119||0x0000|0x0000|790.8MB|937.3MB|32703.7MB|476|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-16-2019 03:53:59 TTOffMagicWordManager: Uh-oh! This Magic Word doesn't exist!
+frame rate: 102.4 fps|0.002d|12 avs||2418|2419||0x0000|0x0000|813.6MB|960.3MB|32703.7MB|483|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:28 TTOffMagicWordManager: Skipping final round...
+:11-16-2019 03:56:42 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-64.2207, 20.3688, -0.000326682)).
+:11-16-2019 03:56:50 TTOffMagicWordManager: Aeterna's laff has been set to 1.
+:11-16-2019 03:56:51 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:11-16-2019 03:56:51 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit The Brrrgh
+:11-16-2019 03:56:51 Loader: starting bulk load of block 'hood'
+:11-16-2019 03:56:53 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:11-16-2019 03:56:53 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 03:56:53 Loader: At end of block 'hood', expected 10, loaded 9, duration=2.00528122016
+:11-16-2019 03:56:55 Teleport(debug): teleportInDone: walk
+:11-16-2019 03:56:55 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:11-16-2019 03:56:56 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:11-16-2019 03:56:58 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-16-2019 03:57:00 TTOffMagicWordManager: Aeterna's laff has been set to 1.
+:11-16-2019 03:57:01 Playground: Unloading Place (3000). Fsm in final
+:11-16-2019 03:57:01 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Cashbot HQ
+:11-16-2019 03:57:01 Loader: starting bulk load of block 'hood'
+:11-16-2019 03:57:02 CashbotCogHQLoader: loadPlaceGeom: 12000
+:11-16-2019 03:57:02 DistributedObject: DistributedSuitPlanner 401002959: generating
+:11-16-2019 03:57:02 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 03:57:02 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_cashbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:57:02 Loader: At end of block 'hood', expected 2, loaded 3, duration=0.713630018566
+:11-16-2019 03:57:04 Teleport(debug): teleportInDone: walk
+:11-16-2019 03:57:04 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_cashbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:57:08 TTOffMagicWordManager: Run mode has been toggled.
+:11-16-2019 03:57:09 TTOffMagicWordManager: Going ghost!
+:11-16-2019 03:57:21 TTOffMagicWordManager: Presto!
+:11-16-2019 03:57:24 CashbotCogHQLoader: loadPlaceGeom: 12100
+:11-16-2019 03:57:24 CashbotCogHQLoader: QA-REGRESSION: COGHQ: Visit CashbotLobby
+:11-16-2019 03:57:24 CashbotHQExterior: Unloading Place (12000). Fsm in final
+:11-16-2019 03:57:24 DistributedObject: DistributedSuitPlanner 401002959: disabling
+:11-16-2019 03:57:24 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 03:57:24 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_cashbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:57:25 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_cashbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 03:57:30 TTOffMagicWordManager: Run mode has been toggled.
+:11-16-2019 03:57:36 CashbotCogHQLoader: loadPlaceGeom: 61001
+:11-16-2019 03:57:36 CashbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-16-2019 03:57:36 CogHQLobby: Unloading Place (12100). Fsm in final
+:11-16-2019 03:57:37 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 03:57:37 CashbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61001, avatar pos LPoint3f(58.6267, -232.917, 0.129106)).
+:11-16-2019 03:57:40 TTOffMagicWordManager: Voila!
+:11-16-2019 03:57:50 CashbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61001, avatar pos LPoint3f(58.6267, -232.917, 0.129106)).
+[Actor goon--1, parts = ['modelRoot'], LODs = ['lodRoot'], anims = ['walk', 'recovery', 'collapse'], Actor goon--2, parts = ['modelRoot'], LODs = ['lodRoot'], anims = ['walk', 'recovery', 'collapse'], Actor goon--3, parts = ['modelRoot'], LODs = ['lodRoot'], anims = ['walk', 'recovery', 'collapse']]
+Battle Event localtoon-battle-event-10
+:11-16-2019 03:58:26 TTOffMagicWordManager: Skipping current round...
+frame rate: 171.4 fps|0.002d|2 avs||2718|2719||0x0000|0x0000|900.6MB|1058.1MB|32703.7MB|521|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+hit! 0.566363632679
+hit! 0.877595424652
+:11-16-2019 03:59:22 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -288.72, 0.0376953)).
+hit! 0.47625336051
+:11-16-2019 03:59:31 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -341.281, 0.0376958)).
+hit! 0.871160566807
+:11-16-2019 03:59:39 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -288.719, 0.0376953)).
+hit! 0.634322404861
+:11-16-2019 03:59:51 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -341.28, 0.0376958)).
+hit! 0.554344534874
+hit! 0.827166199684
+:11-16-2019 04:00:15 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -288.719, 0.0376953)).
+hit! 0.251251071692
+:11-16-2019 04:00:33 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -341.28, 0.0376958)).
+hit! 0.975049674511
+:11-16-2019 04:00:49 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -288.72, 0.0376953)).
+hit! 0.911641716957
+hit! 0.998278677464
+hit! 0.963356912136
+:11-16-2019 04:01:05 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -341.28, 0.0376958)).
+:11-16-2019 04:01:13 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -288.72, 0.0376953)).
+hit! 0.999858617783
+hit! 0.966243088245
+:11-16-2019 04:01:30 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -288.719, 0.0376953)).
+:11-16-2019 04:01:41 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -341.281, 0.0376958)).
+hit! 0.999877154827
+hit! 0.993827283382
+:11-16-2019 04:01:54 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -288.72, 0.0376953)).
+hit! 0.956407248974
+hit! 0.996048510075
+hit! 0.993592500687
+--not hard enough: -0.407943785191
+:11-16-2019 04:02:15 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -288.719, 0.0376953)).
+--not hard enough: -0.586213290691
+:11-16-2019 04:02:32 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -288.72, 0.0376953)).
+hit! 0.959553956985
+:11-16-2019 04:02:41 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -341.28, 0.0376958)).
+:11-16-2019 04:02:41 DistributedCashbotBossSafe: 401009058 fell out of the world.
+hit! 0.954751849174
+:11-16-2019 04:02:49 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(93.7195, -288.72, 0.0376953)).
+hit! 0.939353406429
+hit! 0.881880760193
+:11-16-2019 04:03:00 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -288.719, 0.0376953)).
+:11-16-2019 04:03:00 CashbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -288.719, 0.0376953)).
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009147 without calling cleanup()
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009148 without calling cleanup()
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009155 without calling cleanup()
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009156 without calling cleanup()
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009299 without calling cleanup()
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009389 without calling cleanup()
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009412 without calling cleanup()
+:11-16-2019 04:03:16 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon-401009426 without calling cleanup()
+:11-16-2019 04:03:16 CashbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61001, avatar pos LPoint3f(146.281, -288.719, 0.0376953)).
+:11-16-2019 04:03:26 CashbotHQBossBattle: Unloading Place (61001). Fsm in final
+:11-16-2019 04:03:26 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon--1 without calling cleanup()
+:11-16-2019 04:03:26 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon--2 without calling cleanup()
+:11-16-2019 04:03:26 DistributedCashbotBossGoon(warning): called actor.removeNode() on goon--3 without calling cleanup()
+:11-16-2019 04:03:26 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Donald's Dreamland
+:11-16-2019 04:03:26 Loader: starting bulk load of block 'hood'
+:11-16-2019 04:03:27 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:11-16-2019 04:03:27 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:11-16-2019 04:03:27 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:11-16-2019 04:03:27 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 04:03:28 Loader: At end of block 'hood', expected 7, loaded 6, duration=1.34315470875
+:11-16-2019 04:03:29 Teleport(debug): teleportInDone: walk
+:11-16-2019 04:03:54 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:11-16-2019 04:03:54 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Browse tabs Map
+:11-16-2019 04:03:55 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:11-16-2019 04:04:01 Playground: Unloading Place (9000). Fsm in final
+:11-16-2019 04:04:01 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Sellbot HQ
+:11-16-2019 04:04:01 Loader: starting bulk load of block 'hood'
+:11-16-2019 04:04:01 SellbotCogHQLoader: loadPlaceGeom: 11000
+:11-16-2019 04:04:01 DistributedObject: DistributedSuitPlanner 401002946: generating
+:11-16-2019 04:04:01 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 04:04:01 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_sellbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 04:04:02 Loader: At end of block 'hood', expected 43, loaded 2, duration=0.60667086788
+frame rate: 97.7 fps|0.007d|6 avs||3018|3019||0x0000|0x0000|923.5MB|1094.5MB|32703.7MB|535|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-16-2019 04:04:03 Teleport(debug): teleportInDone: walk
+:11-16-2019 04:04:03 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_sellbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 04:04:03 ClassicFSM(warning): [DistributedSuit]: no transition exists from ToCogHQ to Walk
+:11-16-2019 04:04:05 TTOffMagicWordManager: Aeterna's laff has been set to 1.
+:11-16-2019 04:04:16 SellbotCogHQLoader: loadPlaceGeom: 11100
+:11-16-2019 04:04:16 SellbotCogHQLoader: QA-REGRESSION: COGHQ: Visit SellbotLobby
+:11-16-2019 04:04:16 SellbotHQExterior: Unloading Place (11000). Fsm in final
+:11-16-2019 04:04:16 DistributedObject: DistributedSuitPlanner 401002946: disabling
+:11-16-2019 04:04:16 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 04:04:16 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_sellbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 04:04:18 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_sellbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-16-2019 04:04:33 SellbotCogHQLoader: loadPlaceGeom: 61002
+:11-16-2019 04:04:33 SellbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-16-2019 04:04:33 CogHQLobby: Unloading Place (11100). Fsm in final
+:11-16-2019 04:04:33 Actor(warning): no part named head-front*!
+:11-16-2019 04:04:33 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 04:04:33 SellbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61002, avatar pos LPoint3f(-2.57997, 95, 18.1093)).
+:11-16-2019 04:04:39 TTOffMagicWordManager: Abracadabra!
+:11-16-2019 04:04:47 SellbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61002, avatar pos LPoint3f(-2.57997, 95, 18.1093)).
+:11-16-2019 04:04:52 TTOffMagicWordManager: Presto!
+Battle Event localtoon-battle-event-17
+:11-16-2019 04:05:29 TTOffMagicWordManager: Skipping current round...
+:11-16-2019 04:06:00 ClassicFSM(warning): [CogHQBossBattle]: no transition exists from died to finalBattle
+:11-16-2019 04:06:00 SellbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61002, avatar pos LPoint3f(8.14548, 44.0924, 17.952)).
+:11-16-2019 04:06:05 SellbotHQBossBattle: Unloading Place (61002). Fsm in final
+:11-16-2019 04:06:05 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Daisy Gardens
+:11-16-2019 04:06:05 Loader: starting bulk load of block 'hood'
+:11-16-2019 04:06:06 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:11-16-2019 04:06:06 Actor(warning): no part named head-front*!
+:11-16-2019 04:06:06 DistributedToon: calling LocalAvatar.startchat
+:11-16-2019 04:06:06 Loader: At end of block 'hood', expected 11, loaded 8, duration=1.68596128817
+:11-16-2019 04:06:08 Teleport(debug): teleportInDone: popup
+:11-16-2019 04:06:11 TTOffMagicWordManager: Aeterna's laff has been set to 1.
+:11-16-2019 04:07:41 ToonBase: User closed main window.
+:11-16-2019 04:07:41 TimeManager: Client disconnect reason 2.
+:11-16-2019 04:07:41 Playground: Unloading Place (5000). Fsm in final
+:11-16-2019 04:07:42 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:11-16-2019 04:07:42 OTPClientRepository: sending clientLogout
+:11-16-2019 04:07:42 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:11-16-2019 04:07:42 OTPClientRepository: Sent disconnect message to server
+:11-16-2019 04:07:42 OTPClientRepository: Closing connection to server.
+:11-16-2019 04:07:42 OTPClientRepository: Exiting cleanly
+:11-16-2019 04:07:42 ToonBase: Exiting Toontown: errorCode = None
+:11-16-2019 04:07:42 TTOffLauncher: setting panda error code to 0
+:11-16-2019 04:07:42 TTOffLauncher: Normal exit.

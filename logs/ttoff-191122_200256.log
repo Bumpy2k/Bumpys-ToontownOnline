@@ -1,0 +1,263 @@
+
+
+Starting Toontown Online...
+Current time: Fri Nov 22 20:02:56 2019 Arabian Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\Users\\alyaz\\Documents\\GitHub\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMPUTERNAME': 'DESKTOP-5K6UCTT', 'USERDOMAIN': 'DESKTOP-5K6UCTT', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 94 Stepping 3, GenuineIntel', 'LOGONSERVER': '\\\\DESKTOP-5K6UCTT', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '5e03', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Panda3D-1.11.0-x64\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32;C:\\Users\\alyaz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\NSI\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\alyaz\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.11.0\\python;C:\\Panda3D-1.11.0\\python\\Scripts;C:\\Panda3D-1.11.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python\\Scripts;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\bin;F:\\Panda3D-1.10.4.1-x64\\python;F:\\Panda3D-1.10.4.1-x64\\python\\Scripts;F:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;F:\\PYTHON-3\\TOONTOWN-SOURCES\\CorporateClash-python3\\Panda3D-1.10.0-x64\\python;F:\\PYTHON-3', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\alyaz\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\alyaz', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-5K6UCTT', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'alyaz', 'TOONIVERSAL_P3D': 'C:\\Users\\alyaz\\Desktop\\Panda3D-1.11.0\\python\\ppython', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\alyaz\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ASL.LOG': 'Destination=file', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\alyaz\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\alyaz'}
+:11-22-2019 20:02:56 TTOffLauncher: isTestServer: 0
+:11-22-2019 20:02:56 TTOffLauncher: Game Server 127.0.0.1
+:11-22-2019 20:02:56 TTOffLauncher: Starting Toontown Online... 
+:11-22-2019 20:02:56 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-22-2019 20:02:56 TTOffLauncher: maybeStartGame: starting game
+:11-22-2019 20:02:56 TTOffLauncher: Starting Toontown Online...
+:11-22-2019 20:02:56 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-22-2019 20:02:56 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-22-2019 20:02:57 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-22-2019 20:02:57 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-22-2019 20:02:57 ShowBase: __dev__ == False
+:11-22-2019 20:02:57 TTOffLauncher: setting panda error code to 11
+:11-22-2019 20:02:57 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-22-2019 20:02:57 Loader: starting bulk load of block 'init'
+:11-22-2019 20:02:58 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-22-2019 20:02:58 OTPClientRepository: Using connect method 'http'
+:11-22-2019 20:02:59 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-22-2019 20:02:59 TTOffLauncher: checking env
+:11-22-2019 20:02:59 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-22-2019 20:02:59 TTOffLauncher: checking env
+:11-22-2019 20:02:59 OTPClientRepository: reg_deployment=
+:11-22-2019 20:02:59 OTPClientRepository: required-login auto.
+:11-22-2019 20:02:59 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-22-2019 20:02:59 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-22-2019 20:02:59 Loader: At end of block 'init', expected 138, loaded 7, duration=1.5743636641
+:11-22-2019 20:02:59 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-22-2019 20:02:59 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-22-2019 20:02:59 TTOffLauncher: Stopping mini task manager.
+:11-22-2019 20:02:59 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-22-2019 20:02:59 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001C472748>}
+:11-22-2019 20:03:00 StateData: AvatarChooser.enter
+:11-22-2019 20:03:00 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-22-2019 20:03:00 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-22-2019 20:03:56 OTPClientRepository: ================
+:11-22-2019 20:03:56 OTPClientRepository: Chose avatar id: 100000001
+:11-22-2019 20:03:56 OTPClientRepository: Chose avatar name: Aeterna
+:11-22-2019 20:03:56 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 26, 0, 21, 26, 3, 11, 3, 11, 8, 12)
+:11-22-2019 20:03:56 OTPClientRepository: Chose avatar position: 1
+:11-22-2019 20:03:56 OTPClientRepository: isPaid: 1
+:11-22-2019 20:03:56 OTPClientRepository: freeTimeLeft: 0
+:11-22-2019 20:03:56 OTPClientRepository: allowSecretChat: True
+:11-22-2019 20:03:56 OTPClientRepository: ================
+:11-22-2019 20:03:56 Loader: starting bulk load of block 'localAvatarPlayGame'
+:11-22-2019 20:03:56 ToontownTimeManager(warning): error parsing date string=
+local
+:11-22-2019 20:03:57 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:11-22-2019 20:03:57 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:11-22-2019 20:03:59 OTPClientRepository: Entering shard 401000001
+:11-22-2019 20:03:59 StreetSign: Street sign url is https://ttoffline.com/images/
+:11-22-2019 20:04:00 StreetSign: Street Sign is up to date
+:11-22-2019 20:04:00 OTPClientRepository: Sending heartbeat mid-frame.
+:11-22-2019 20:04:00 TimeManager: Clock sync: TimeManager.announceGenerate
+:11-22-2019 20:04:00 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz|329443|0|2.701,2.701|4,8 cpus
+:11-22-2019 20:04:02 OTPClientRepository: No sync from TimeManager.
+:11-22-2019 20:04:02 OTPClientRepository: gotTimeSync
+:11-22-2019 20:04:02 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 13, duration=5.69357630367
+:11-22-2019 20:04:02 TimeManager: Clock sync roundtrip took 1085.924 ms
+:11-22-2019 20:04:02 TimeManager: AI time delta is -0:01 from server delta
+:11-22-2019 20:04:02 TimeManager: Local clock uncertainty +/- 0.543 s
+:11-22-2019 20:04:02 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:11-22-2019 20:04:02 Loader: starting bulk load of block 'hood'
+:11-22-2019 20:04:02 LawbotCogHQLoader: loadPlaceGeom: 13000
+:11-22-2019 20:04:02 DistributedObject: DistributedSuitPlanner 401002975: generating
+:11-22-2019 20:04:02 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 20:04:02 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 20:04:02 Loader: At end of block 'hood', expected 2, loaded 4, duration=0.916209291191
+:11-22-2019 20:04:04 Teleport(debug): teleportInDone: walk
+:11-22-2019 20:04:04 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 20:04:07 TTOffMagicWordManager: Run mode has been toggled.
+:11-22-2019 20:04:15 LawbotCogHQLoader: loadPlaceGeom: 13100
+:11-22-2019 20:04:15 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:11-22-2019 20:04:15 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:11-22-2019 20:04:15 DistributedObject: DistributedSuitPlanner 401002975: disabling
+:11-22-2019 20:04:15 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 20:04:15 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 20:04:16 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 20:04:28 LawbotCogHQLoader: loadPlaceGeom: 61000
+:11-22-2019 20:04:28 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-22-2019 20:04:28 CogHQLobby: Unloading Place (13100). Fsm in final
+:11-22-2019 20:04:29 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:11-22-2019 20:04:29 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 20:04:29 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:11-22-2019 20:04:42 TTOffMagicWordManager: Restarting Scale Round
+:11-22-2019 20:05:00 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 20:05:03 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 20:05:05 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 20:05:07 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 20:05:10 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 20:05:12 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 20:05:15 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 20:05:18 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 20:05:20 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:05:25 TTOffMagicWordManager: Point -15 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:05:28 TTOffMagicWordManager: Point -7 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:05:31 TTOffMagicWordManager: Point 0 71 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:05:33 TTOffMagicWordManager: Point 7 74 33 70 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:05:37 TTOffMagicWordManager: Point 30 77 33 70 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:05:40 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:05:44 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 20:05:52 TTOffMagicWordManager: Voila!
+:11-22-2019 20:06:01 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:06:12 TTOffMagicWordManager: Presto!
+:11-22-2019 20:06:19 TTOffMagicWordManager: Presto!
+:11-22-2019 20:07:58 GarbageCollect(warning): garbage found, reverting gc threshold
+adding timeout task
+adding timeout task
+:11-22-2019 20:08:50 TTOffMagicWordManager: Gave Aeterna an infinite amount of pies
+:11-22-2019 20:08:57 TTOffMagicWordManager: Ta-da!
+frame rate: 151.8 fps|0.001d|12 avs||361|362||0x0000|0x0000|628.0MB|717.8MB|32703.7MB|397|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 20:09:03 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 20:09:08 TTOffMagicWordManager: Ta-da!
+:11-22-2019 20:09:16 TTOffMagicWordManager: Voila!
+:11-22-2019 20:10:12 TTOffMagicWordManager: Successfully cleared all camera points!
+chatButtonPressed
+:11-22-2019 20:10:20 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:23 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:26 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:29 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:32 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:35 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:38 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:41 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:44 TTOffMagicWordManager: Point -15 69 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:47 TTOffMagicWordManager: Point -7 69 33 -28 2 0 with a duration of 0 was added!
+chatButtonPressed
+:11-22-2019 20:10:50 TTOffMagicWordManager: Point 0 69 33 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:10:56 TTOffMagicWordManager: Point 7 69 33 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:11:01 TTOffMagicWordManager: Point 30 69 33 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:11:05 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:11:07 TTOffMagicWordManager: Presto!
+:11-22-2019 20:11:15 TTOffMagicWordManager: Ta-da!
+:11-22-2019 20:11:54 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 20:12:01 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 20:12:03 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 20:12:05 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:08 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:11 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:13 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:16 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 20:12:18 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 20:12:22 TTOffMagicWordManager: Point -15 70 34 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:24 TTOffMagicWordManager: Point -7 70 34 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:27 TTOffMagicWordManager: Point 0 70 34 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:30 TTOffMagicWordManager: Point 7 70 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:32 TTOffMagicWordManager: Point 30 70 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:12:35 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:12:37 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 20:12:45 TTOffMagicWordManager: Voila!
+:11-22-2019 20:12:53 TTOffMagicWordManager: Ta-da!
+:11-22-2019 20:13:04 TTOffMagicWordManager: Presto!
+:11-22-2019 20:13:31 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:13:41 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 20:13:45 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 20:13:48 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 20:13:51 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 20:13:53 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 20:13:56 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 20:13:58 TTOffMagicWordManager: Point -47 7 9 -7 2 0 with a duration of 0 was added!
+frame rate: 155.6 fps|0.001d|12 avs||661|662||0x0000|0x0000|645.1MB|716.4MB|32703.7MB|401|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 20:14:01 TTOffMagicWordManager: Point -41 14 13 -14 2 0 with a duration of 0 was added!
+:11-22-2019 20:14:04 TTOffMagicWordManager: Point -35 28 18 -28 5 0 with a duration of 0 was added!
+:11-22-2019 20:14:06 TTOffMagicWordManager: Point -25 47 23 -28 7 0 with a duration of 0 was added!
+:11-22-2019 20:14:09 TTOffMagicWordManager: Point -15 70 34 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:14:11 TTOffMagicWordManager: Point -7 71 34 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:14:14 TTOffMagicWordManager: Point 1 71 34 -28 2 0 with a duration of 0 was added!
+:11-22-2019 20:14:16 TTOffMagicWordManager: Point 7 71 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:14:19 TTOffMagicWordManager: Point 30 71 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:14:24 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:14:26 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 20:14:35 TTOffMagicWordManager: Ta-da!
+:11-22-2019 20:14:42 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:14:49 TTOffMagicWordManager: Ta-da!
+:11-22-2019 20:14:55 TTOffMagicWordManager: Voila!
+:11-22-2019 20:15:52 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 20:15:58 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 20:16:04 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:16:11 TTOffMagicWordManager: Presto!
+:11-22-2019 20:16:18 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:17:08 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 20:17:13 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 20:17:16 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 20:17:18 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:20 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:22 TTOffMagicWordManager: Point -47 7 9 -14 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:25 TTOffMagicWordManager: Point -41 14 13 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:27 TTOffMagicWordManager: Point -35 28 18 -25 5 0 with a duration of 0 was added!
+:11-22-2019 20:17:38 TTOffMagicWordManager: Point -25 47 23 -25 7 0 with a duration of 0 was added!
+:11-22-2019 20:17:41 TTOffMagicWordManager: Point -15 70 34 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:43 TTOffMagicWordManager: Point -7 71 34 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:45 TTOffMagicWordManager: Point -1 71 34 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:48 TTOffMagicWordManager: Point 7 71 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:50 TTOffMagicWordManager: Point 30 71 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:17:52 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:17:54 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:18:03 TTOffMagicWordManager: Voila!
+:11-22-2019 20:18:10 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 20:18:36 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 20:18:48 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 20:18:51 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 20:18:54 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 20:18:57 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+frame rate: 157.2 fps|0.001d|12 avs||961|962||0x0000|0x0000|664.6MB|735.3MB|32703.7MB|406|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 20:18:59 TTOffMagicWordManager: Point -51 -9 6 0 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:02 TTOffMagicWordManager: Point -47 7 9 -14 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:05 TTOffMagicWordManager: Point -41 14 13 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:07 TTOffMagicWordManager: Point -35 28 18 -25 5 0 with a duration of 0 was added!
+:11-22-2019 20:19:09 TTOffMagicWordManager: Point -25 47 23 -25 7 0 with a duration of 0 was added!
+:11-22-2019 20:19:12 TTOffMagicWordManager: Point -15 70 34 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:14 TTOffMagicWordManager: Point -7 71 34 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:17 TTOffMagicWordManager: Point -1 71 34 -25 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:20 TTOffMagicWordManager: Point 7 76 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:22 TTOffMagicWordManager: Point 30 76 34 70 2 0 with a duration of 0 was added!
+:11-22-2019 20:19:24 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 0 was added!
+:11-22-2019 20:19:27 TTOffMagicWordManager: Point 48 43 190 92 -60 0 with a duration of 2 was added!
+:11-22-2019 20:19:29 TTOffMagicWordManager: Voila!
+:11-22-2019 20:19:38 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:19:48 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-22-2019 20:21:21 TTOffMagicWordManager: Presto!
+:11-22-2019 20:21:28 TTOffMagicWordManager: Presto!
+:11-22-2019 20:21:54 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:22:03 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:23:09 TTOffMagicWordManager: Voila!
+:11-22-2019 20:23:17 TTOffMagicWordManager: Alakazam!
+:11-22-2019 20:23:24 TTOffMagicWordManager: Presto!
+frame rate: 111.1 fps|0.001d|12 avs||1261|1262||0x0000|0x0000|699.1MB|795.3MB|32703.7MB|457|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 108.0 fps|0.003d|12 avs||1561|1562||0x0000|0x0000|714.1MB|810.3MB|32703.7MB|461|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL

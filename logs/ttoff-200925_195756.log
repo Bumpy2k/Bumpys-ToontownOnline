@@ -1,0 +1,112 @@
+
+
+Starting Toontown Online...
+Current time: Fri Sep 25 19:57:56 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'ONEDRIVECONSUMER': 'C:\\Users\\holla\\OneDrive', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:09-25-2020 19:57:56 TTOffLauncher: isTestServer: 0
+:09-25-2020 19:57:56 TTOffLauncher: Game Server 127.0.0.1
+:09-25-2020 19:57:56 TTOffLauncher: Starting Toontown Online... 
+:09-25-2020 19:57:56 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:09-25-2020 19:57:56 TTOffLauncher: maybeStartGame: starting game
+:09-25-2020 19:57:56 TTOffLauncher: Starting Toontown Online...
+:09-25-2020 19:57:56 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:09-25-2020 19:57:56 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:09-25-2020 19:57:56 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:09-25-2020 19:57:56 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:09-25-2020 19:57:56 ShowBase: __dev__ == False
+:09-25-2020 19:57:56 TTOffLauncher: setting panda error code to 11
+:09-25-2020 19:57:56 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:09-25-2020 19:57:56 Loader: starting bulk load of block 'init'
+:09-25-2020 19:57:57 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:09-25-2020 19:57:57 OTPClientRepository: Using connect method 'http'
+:09-25-2020 19:57:58 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:09-25-2020 19:57:58 TTOffLauncher: checking env
+:09-25-2020 19:57:58 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:09-25-2020 19:57:58 TTOffLauncher: checking env
+:09-25-2020 19:57:58 OTPClientRepository: reg_deployment=
+:09-25-2020 19:57:58 OTPClientRepository: required-login auto.
+:09-25-2020 19:57:58 OTPClientRepository: loginInterface: LoginTTOffAccount
+:09-25-2020 19:57:58 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:09-25-2020 19:57:58 Loader: At end of block 'init', expected 138, loaded 6, duration=1.2647982
+:09-25-2020 19:57:58 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:09-25-2020 19:57:58 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:09-25-2020 19:57:58 TTOffLauncher: Stopping mini task manager.
+:09-25-2020 19:57:58 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:09-25-2020 19:57:58 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001A0F7748>}
+:09-25-2020 19:57:59 StateData: AvatarChooser.enter
+:09-25-2020 19:57:59 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:09-25-2020 19:57:59 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:09-25-2020 20:02:56 GarbageCollect(warning): garbage found, reverting gc threshold
+:09-25-2020 20:05:08 OTPClientRepository: ================
+:09-25-2020 20:05:08 OTPClientRepository: Chose avatar id: 100000043
+:09-25-2020 20:05:08 OTPClientRepository: Chose avatar name: Hecate > Tommy
+:09-25-2020 20:05:08 OTPClientRepository: Chose avatar dna: ('css', 'md', 'm', 'f', 26, 0, 26, 26, 0, 27, 0, 27, 8, 27)
+:09-25-2020 20:05:08 OTPClientRepository: Chose avatar position: 4
+:09-25-2020 20:05:08 OTPClientRepository: isPaid: 1
+:09-25-2020 20:05:08 OTPClientRepository: freeTimeLeft: 0
+:09-25-2020 20:05:08 OTPClientRepository: allowSecretChat: True
+:09-25-2020 20:05:08 OTPClientRepository: ================
+:09-25-2020 20:05:08 AvatarChoice: QA-REGRESSION: DELETEATOON: Deleting A Toon
+:09-25-2020 20:05:09 StateData: AvatarChooser.enter
+:09-25-2020 20:05:09 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:09-25-2020 20:05:09 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:09-25-2020 20:05:11 MakeAToon: QA-REGRESSION: MAKEATOON: Starting Make A Toon
+:09-25-2020 20:05:13 Actor(warning): no part named head-front*!
+:09-25-2020 20:05:14 Actor(warning): no part named head-front*!
+:09-25-2020 20:05:14 Actor(warning): no part named head-front*!
+:09-25-2020 20:08:19 NameShop: QA-REGRESSION: SKIPTUTORIAL: Skip Tutorial
+:09-25-2020 20:08:20 NameShop(warning): No dislId, using 0
+:09-25-2020 20:08:20 MakeAToon: QA-REGRESSION: MAKEATOON: Creating A Toon
+:09-25-2020 20:08:21 Loader: starting bulk load of block 'localAvatarPlayGame'
+:09-25-2020 20:08:21 ToontownTimeManager(warning): error parsing date string=
+local
+:09-25-2020 20:08:21 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:09-25-2020 20:08:21 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:09-25-2020 20:08:22 OTPClientRepository: Entering shard 401000001
+:09-25-2020 20:08:22 StreetSign: Street sign url is https://ttoffline.com/images/
+:09-25-2020 20:08:24 StreetSign: Street Sign is up to date
+:09-25-2020 20:08:24 TimeManager: Clock sync: TimeManager.announceGenerate
+:09-25-2020 20:08:24 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.696,3.696|6,12 cpus
+:09-25-2020 20:08:25 OTPClientRepository: No sync from TimeManager.
+:09-25-2020 20:08:25 OTPClientRepository: gotTimeSync
+:09-25-2020 20:08:25 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 7, duration=4.2223746
+:09-25-2020 20:08:25 TimeManager: Clock sync roundtrip took 1128.086 ms
+:09-25-2020 20:08:25 TimeManager: AI time delta is -0:01 from server delta
+:09-25-2020 20:08:25 TimeManager: Local clock uncertainty +/- 0.564 s
+:09-25-2020 20:08:25 Loader(warning): Tried to end a block ('localAvatarPlayGame'), but not in one
+:09-25-2020 20:08:25 QuietZoneState: Requesting AI redirect from zone 0.
+:09-25-2020 20:08:25 QuietZoneState: Redirecting to zone 22000.
+:09-25-2020 20:08:25 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:09-25-2020 20:08:25 Loader: starting bulk load of block 'hood'
+:09-25-2020 20:08:28 OTPClientRepository: Sending heartbeat mid-frame.
+:09-25-2020 20:08:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:09-25-2020 20:08:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:09-25-2020 20:08:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:09-25-2020 20:08:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:09-25-2020 20:08:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:09-25-2020 20:08:29 DistributedToon: calling LocalAvatar.startchat
+:09-25-2020 20:08:29 Loader: At end of block 'hood', expected 8, loaded 20, duration=4.1426328
+local
+:09-25-2020 20:08:36 TTOffMagicWordManager: Changed Silly Stubby's name to Food!
+:09-25-2020 20:08:41 TTOffMagicWordManager: Set Food's nametag style successfully.
+:09-25-2020 20:08:47 TTOffMagicWordManager: Invalid nametag name entered.
+:09-25-2020 20:08:50 TTOffMagicWordManager: Set Food's nametag style successfully.
+:09-25-2020 20:08:55 TTOffMagicWordManager: Maxed out Food's stats.
+:09-25-2020 20:08:58 TTOffMagicWordManager: Food's laff has been set to 133.
+:09-25-2020 20:09:05 TTOffMagicWordManager: Missing Gag track is invalid!
+:09-25-2020 20:09:08 TTOffMagicWordManager: Food's max laff has been set to 130.

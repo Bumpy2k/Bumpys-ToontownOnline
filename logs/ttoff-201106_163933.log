@@ -1,0 +1,59 @@
+
+
+Starting Toontown Online...
+Current time: Fri Nov  6 16:39:33 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'ONEDRIVECONSUMER': 'C:\\Users\\holla\\OneDrive', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR': 'C:\\Program Files\\Red Giant\\RGFX', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:11-06-2020 16:39:33 TTOffLauncher: isTestServer: 0
+:11-06-2020 16:39:33 TTOffLauncher: Game Server 127.0.0.1
+:11-06-2020 16:39:33 TTOffLauncher: Starting Toontown Online... 
+:11-06-2020 16:39:33 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-06-2020 16:39:33 TTOffLauncher: maybeStartGame: starting game
+:11-06-2020 16:39:33 TTOffLauncher: Starting Toontown Online...
+:11-06-2020 16:39:33 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-06-2020 16:39:33 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-06-2020 16:39:34 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-06-2020 16:39:34 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-06-2020 16:39:34 ShowBase: __dev__ == False
+:11-06-2020 16:39:34 TTOffLauncher: setting panda error code to 11
+:11-06-2020 16:39:34 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-06-2020 16:39:34 Loader: starting bulk load of block 'init'
+:11-06-2020 16:39:35 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-06-2020 16:39:35 OTPClientRepository: Using connect method 'http'
+:11-06-2020 16:39:35 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-06-2020 16:39:35 TTOffLauncher: checking env
+:11-06-2020 16:39:35 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-06-2020 16:39:35 TTOffLauncher: checking env
+:11-06-2020 16:39:35 OTPClientRepository: reg_deployment=
+:11-06-2020 16:39:35 OTPClientRepository: required-login auto.
+:11-06-2020 16:39:35 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-06-2020 16:39:35 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-06-2020 16:39:35 Loader: At end of block 'init', expected 138, loaded 6, duration=1.2606004
+:11-06-2020 16:39:35 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-06-2020 16:39:35 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-06-2020 16:39:35 TTOffLauncher: Stopping mini task manager.
+:11-06-2020 16:39:35 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-06-2020 16:39:35 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001A5B1B08>}
+:11-06-2020 16:39:36 StateData: AvatarChooser.enter
+:11-06-2020 16:39:36 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-06-2020 16:39:36 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-06-2020 16:39:39 ToonBase: User closed main window.
+:11-06-2020 16:39:39 OTPClientRepository: Sent disconnect message to server
+:11-06-2020 16:39:39 OTPClientRepository: Closing connection to server.
+:11-06-2020 16:39:39 OTPClientRepository: Exiting cleanly
+:11-06-2020 16:39:39 ToonBase: Exiting Toontown: errorCode = None
+:11-06-2020 16:39:39 TTOffLauncher: setting panda error code to 0
+:11-06-2020 16:39:39 TTOffLauncher: Normal exit.

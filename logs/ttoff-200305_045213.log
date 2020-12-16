@@ -1,0 +1,482 @@
+
+
+Starting Toontown Online...
+Current time: Thu Mar  5 04:52:13 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NGX;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ONEDRIVECOMMERCIAL': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR': 'C:\\Program Files\\Red Giant\\RGFX', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:03-05-2020 04:52:13 TTOffLauncher: isTestServer: 0
+:03-05-2020 04:52:13 TTOffLauncher: Game Server 127.0.0.1
+:03-05-2020 04:52:13 TTOffLauncher: Starting Toontown Online... 
+:03-05-2020 04:52:13 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:03-05-2020 04:52:13 TTOffLauncher: maybeStartGame: starting game
+:03-05-2020 04:52:13 TTOffLauncher: Starting Toontown Online...
+:03-05-2020 04:52:13 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:03-05-2020 04:52:13 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:03-05-2020 04:52:13 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:03-05-2020 04:52:14 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:03-05-2020 04:52:14 ShowBase: __dev__ == False
+:03-05-2020 04:52:14 TTOffLauncher: setting panda error code to 11
+:03-05-2020 04:52:14 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:03-05-2020 04:52:14 Loader: starting bulk load of block 'init'
+:03-05-2020 04:52:20 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:03-05-2020 04:52:20 OTPClientRepository: Using connect method 'http'
+:03-05-2020 04:52:24 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:03-05-2020 04:52:24 TTOffLauncher: checking env
+:03-05-2020 04:52:24 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:03-05-2020 04:52:24 TTOffLauncher: checking env
+:03-05-2020 04:52:24 OTPClientRepository: reg_deployment=
+:03-05-2020 04:52:24 OTPClientRepository: required-login auto.
+:03-05-2020 04:52:24 OTPClientRepository: loginInterface: LoginTTOffAccount
+:03-05-2020 04:52:24 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:03-05-2020 04:52:24 Loader: At end of block 'init', expected 138, loaded 12, duration=10.0698989
+:03-05-2020 04:52:24 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:03-05-2020 04:52:24 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:03-05-2020 04:52:24 TTOffLauncher: Stopping mini task manager.
+:03-05-2020 04:52:24 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:03-05-2020 04:52:24 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x00000000205267C8>}
+:03-05-2020 04:52:25 StateData: AvatarChooser.enter
+:03-05-2020 04:52:25 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:03-05-2020 04:52:25 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:03-05-2020 04:52:30 OTPClientRepository: ================
+:03-05-2020 04:52:30 OTPClientRepository: Chose avatar id: 100000014
+:03-05-2020 04:52:30 OTPClientRepository: Chose avatar name: Hollybae
+:03-05-2020 04:52:30 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 18, 27, 7, 21)
+:03-05-2020 04:52:30 OTPClientRepository: Chose avatar position: 5
+:03-05-2020 04:52:30 OTPClientRepository: isPaid: 1
+:03-05-2020 04:52:30 OTPClientRepository: freeTimeLeft: 0
+:03-05-2020 04:52:30 OTPClientRepository: allowSecretChat: True
+:03-05-2020 04:52:30 OTPClientRepository: ================
+:03-05-2020 04:52:30 Loader: starting bulk load of block 'localAvatarPlayGame'
+:03-05-2020 04:52:31 ToontownTimeManager(warning): error parsing date string=
+local
+:03-05-2020 04:52:31 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:03-05-2020 04:52:31 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:03-05-2020 04:52:34 OTPClientRepository: Entering shard 401000001
+:03-05-2020 04:52:34 StreetSign: Street sign url is https://ttoffline.com/images/
+:03-05-2020 04:52:35 StreetSign: Street Sign is up to date
+:03-05-2020 04:52:35 OTPClientRepository: Sending heartbeat mid-frame.
+:03-05-2020 04:52:35 TimeManager: Clock sync: TimeManager.announceGenerate
+:03-05-2020 04:52:35 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:03-05-2020 04:52:37 OTPClientRepository: No sync from TimeManager.
+:03-05-2020 04:52:37 OTPClientRepository: gotTimeSync
+:03-05-2020 04:52:37 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 16, duration=6.8649539
+:03-05-2020 04:52:37 TimeManager: Clock sync roundtrip took 1836.213 ms
+:03-05-2020 04:52:37 TimeManager: AI time delta is -0:02 from server delta
+:03-05-2020 04:52:37 TimeManager: Local clock uncertainty +/- 0.918 s
+:03-05-2020 04:52:37 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:03-05-2020 04:52:37 Loader: starting bulk load of block 'hood'
+:03-05-2020 04:52:39 LawbotCogHQLoader: loadPlaceGeom: 13000
+:03-05-2020 04:52:39 DistributedObject: DistributedSuitPlanner 401002972: generating
+:03-05-2020 04:52:39 DistributedToon: calling LocalAvatar.startchat
+:03-05-2020 04:52:39 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-05-2020 04:52:39 Loader: At end of block 'hood', expected 2, loaded 11, duration=2.2782751
+:03-05-2020 04:52:41 Teleport(debug): teleportInDone: walk
+:03-05-2020 04:52:41 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+adding timeout task
+adding timeout task
+:03-05-2020 04:55:30 TTOffMagicWordManager: Run mode has been toggled.
+:03-05-2020 04:55:35 TTOffMagicWordManager: Ta-da!
+:03-05-2020 04:55:36 LawbotCogHQLoader: loadPlaceGeom: 13100
+:03-05-2020 04:55:36 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:03-05-2020 04:55:37 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:03-05-2020 04:55:37 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:03-05-2020 04:55:37 DistributedToon: calling LocalAvatar.startchat
+:03-05-2020 04:55:37 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-05-2020 04:55:38 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-05-2020 04:55:45 TTOffMagicWordManager: Gave Hollybae an infinite amount of pies
+:03-05-2020 04:55:46 TTOffMagicWordManager: Run mode has been toggled.
+:03-05-2020 04:55:47 TTOffMagicWordManager: You aren't in a CJ!
+:03-05-2020 04:55:51 LawbotCogHQLoader: loadPlaceGeom: 61000
+:03-05-2020 04:55:51 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:03-05-2020 04:55:51 CogHQLobby: Unloading Place (13100). Fsm in final
+:03-05-2020 04:55:51 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:03-05-2020 04:55:52 DistributedToon: calling LocalAvatar.startchat
+:03-05-2020 04:55:52 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:03-05-2020 04:55:57 TTOffMagicWordManager: Restarting Scale Round
+:03-05-2020 04:56:23 TTOffMagicWordManager: Ta-da!
+:03-05-2020 04:56:53 TTOffMagicWordManager: Presto!
+:03-05-2020 04:57:09 TTOffMagicWordManager: Alakazam!
+:03-05-2020 04:57:15 GarbageCollect(warning): garbage found, reverting gc threshold
+:03-05-2020 04:57:29 TTOffMagicWordManager: Abracadabra!
+frame rate: 200.3 fps|0.002d|13 avs||319|320||0x0000|0x0000|989.9MB|1164.2MB|16235.6MB|558|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 04:57:44 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 04:57:56 TTOffMagicWordManager: Voila!
+:03-05-2020 04:58:08 TTOffMagicWordManager: Alakazam!
+:03-05-2020 04:58:25 TTOffMagicWordManager: Alakazam!
+:03-05-2020 04:58:38 TTOffMagicWordManager: Alakazam!
+:03-05-2020 04:58:47 TTOffMagicWordManager: Alakazam!
+:03-05-2020 04:59:04 TTOffMagicWordManager: Presto!
+:03-05-2020 04:59:19 TTOffMagicWordManager: Presto!
+:03-05-2020 04:59:43 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:00:02 TTOffMagicWordManager: Voila!
+:03-05-2020 05:00:41 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:00:59 TTOffMagicWordManager: Hollybae's laff has been set to 127.
+:03-05-2020 05:01:32 TTOffMagicWordManager: Presto!
+:03-05-2020 05:02:10 :linmath(warning): Tried to invert singular LMatrix3.
+:03-05-2020 05:02:13 TTOffMagicWordManager: Ta-da!
+frame rate: 231.7 fps|0.001d|13 avs||619|620||0x0000|0x0000|1356.5MB|1531.3MB|16235.6MB|673|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:02:41 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:02:55 TTOffMagicWordManager: Voila!
+:03-05-2020 05:03:05 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:03:18 TTOffMagicWordManager: Presto!
+:03-05-2020 05:03:33 TTOffMagicWordManager: Voila!
+:03-05-2020 05:03:53 TTOffMagicWordManager: Voila!
+:03-05-2020 05:04:03 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:04:17 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:04:28 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:04:48 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:05:25 TTOffMagicWordManager: Voila!
+:03-05-2020 05:05:35 TTOffMagicWordManager: Presto!
+:03-05-2020 05:05:45 TTOffMagicWordManager: Voila!
+:03-05-2020 05:05:56 TTOffMagicWordManager: Presto!
+:03-05-2020 05:06:11 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:07:05 TTOffMagicWordManager: Presto!
+frame rate: 256.3 fps|0.001d|13 avs||919|920||0x0000|0x0000|1718.5MB|1894.1MB|16235.6MB|786|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:07:49 :linmath(warning): Tried to invert singular LMatrix3.
+:03-05-2020 05:07:55 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:08:10 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:08:38 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:08:48 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:09:34 TTOffMagicWordManager: Presto!
+:03-05-2020 05:09:52 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:10:04 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:10:15 TTOffMagicWordManager: Presto!
+:03-05-2020 05:10:33 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:10:59 TTOffMagicWordManager: Presto!
+:03-05-2020 05:11:10 TTOffMagicWordManager: Presto!
+:03-05-2020 05:11:23 TTOffMagicWordManager: Voila!
+:03-05-2020 05:11:48 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:12:05 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:12:18 TTOffMagicWordManager: Alakazam!
+frame rate: 224.9 fps|0.001d|13 avs||1219|1220||0x0000|0x0000|2073.5MB|2249.6MB|16235.6MB|903|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:12:58 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:13:22 TTOffMagicWordManager: Voila!
+:03-05-2020 05:13:32 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:13:35 TTOffMagicWordManager: Voila!
+:03-05-2020 05:14:09 TTOffMagicWordManager: Presto!
+:03-05-2020 05:14:19 TTOffMagicWordManager: Presto!
+:03-05-2020 05:14:33 TTOffMagicWordManager: Presto!
+:03-05-2020 05:14:45 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:14:56 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:15:13 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:15:43 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:15:58 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:16:23 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:16:32 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:16:49 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:17:11 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:17:23 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:17:32 TTOffMagicWordManager: Voila!
+frame rate: 199.8 fps|0.001d|13 avs||1519|1520||0x0000|0x0000|2437.5MB|2614.6MB|16235.6MB|1016|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:17:43 TTOffMagicWordManager: Presto!
+:03-05-2020 05:17:53 TTOffMagicWordManager: Presto!
+:03-05-2020 05:18:07 TTOffMagicWordManager: Voila!
+:03-05-2020 05:18:22 TTOffMagicWordManager: Voila!
+:03-05-2020 05:18:34 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:18:46 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:18:55 TTOffMagicWordManager: Presto!
+:03-05-2020 05:19:10 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:19:35 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:19:49 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:20:10 TTOffMagicWordManager: Presto!
+:03-05-2020 05:20:24 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:20:38 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:20:51 TTOffMagicWordManager: Voila!
+:03-05-2020 05:21:01 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:21:11 TTOffMagicWordManager: Presto!
+:03-05-2020 05:21:14 TTOffMagicWordManager: Presto!
+:03-05-2020 05:21:42 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:21:52 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:22:12 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:22:34 TimeManager: Clock sync: timer
+frame rate: 214.2 fps|0.001d|13 avs||1819|1820||0x0000|0x0000|2812.7MB|2990.4MB|16235.6MB|1133|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:22:34 TimeManager: Clock sync roundtrip took 60.638 ms
+:03-05-2020 05:22:34 TimeManager: AI time delta is -0:00 from server delta
+:03-05-2020 05:22:34 ClockDelta: previous delta at 0.106 s, +/- 1.417 s.
+:03-05-2020 05:22:34 ClockDelta: new delta at -0.781 s, +/- 0.030 s.
+:03-05-2020 05:22:34 ClockDelta: intersection at -0.781 s, +/- 0.030 s.
+:03-05-2020 05:22:34 TimeManager: Local clock uncertainty +/- 0.030 s
+:03-05-2020 05:22:38 TTOffMagicWordManager: Presto!
+:03-05-2020 05:23:09 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:23:24 TTOffMagicWordManager: Presto!
+:03-05-2020 05:23:33 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:23:42 TTOffMagicWordManager: Presto!
+:03-05-2020 05:23:56 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:24:08 TTOffMagicWordManager: Presto!
+:03-05-2020 05:24:25 TTOffMagicWordManager: Voila!
+:03-05-2020 05:25:00 TTOffMagicWordManager: Voila!
+:03-05-2020 05:25:24 TTOffMagicWordManager: Voila!
+:03-05-2020 05:25:45 TTOffMagicWordManager: Voila!
+:03-05-2020 05:26:00 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:26:14 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:26:28 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:26:45 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:26:57 TTOffMagicWordManager: Voila!
+:03-05-2020 05:27:11 TTOffMagicWordManager: Alakazam!
+frame rate: 227.9 fps|0.001d|13 avs||2119|2120||0x0000|0x0000|3134.2MB|3365.1MB|16235.6MB|1249|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:27:42 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:27:43 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:27:53 TTOffMagicWordManager: Presto!
+:03-05-2020 05:28:10 TTOffMagicWordManager: Presto!
+:03-05-2020 05:28:25 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:28:41 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:28:57 TTOffMagicWordManager: Presto!
+:03-05-2020 05:29:25 TTOffMagicWordManager: Presto!
+:03-05-2020 05:29:53 TTOffMagicWordManager: Voila!
+:03-05-2020 05:30:08 TTOffMagicWordManager: Presto!
+:03-05-2020 05:30:39 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:30:50 TTOffMagicWordManager: Alakazam!
+frame rate: 232.5 fps|0.001d|13 avs||2419|2420||0x0000|0x0000|2863.3MB|3726.9MB|16235.6MB|1372|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:32:54 TTOffMagicWordManager: Presto!
+:03-05-2020 05:33:26 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:33:40 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:33:51 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:34:00 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:34:11 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:34:23 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:34:38 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:34:47 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:34:58 TTOffMagicWordManager: Presto!
+:03-05-2020 05:35:09 TTOffMagicWordManager: Voila!
+:03-05-2020 05:35:20 TTOffMagicWordManager: Presto!
+:03-05-2020 05:35:39 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:35:57 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:36:16 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:36:31 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:36:48 TTOffMagicWordManager: Presto!
+:03-05-2020 05:36:59 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:37:21 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:37:32 TTOffMagicWordManager: Voila!
+frame rate: 218.7 fps|0.001d|13 avs||2719|2720||0x0000|0x0000|2552.4MB|4127.8MB|16235.6MB|1505|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:37:50 TTOffMagicWordManager: Voila!
+:03-05-2020 05:38:22 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:38:30 TTOffMagicWordManager: Presto!
+:03-05-2020 05:38:48 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:38:59 TTOffMagicWordManager: Presto!
+:03-05-2020 05:39:13 TTOffMagicWordManager: Presto!
+:03-05-2020 05:39:26 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:39:38 TTOffMagicWordManager: Presto!
+:03-05-2020 05:39:47 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:39:57 TTOffMagicWordManager: Voila!
+:03-05-2020 05:40:10 TTOffMagicWordManager: Presto!
+:03-05-2020 05:40:40 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:40:50 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:41:07 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:41:21 TTOffMagicWordManager: Voila!
+:03-05-2020 05:41:35 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:41:46 TTOffMagicWordManager: Voila!
+:03-05-2020 05:42:05 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:42:16 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:42:31 TTOffMagicWordManager: Abracadabra!
+frame rate: 213.3 fps|0.001d|13 avs||3019|3020||0x0000|0x0000|2955.5MB|4530.7MB|16235.6MB|2248|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:42:43 TTOffMagicWordManager: Voila!
+:03-05-2020 05:42:49 TTOffMagicWordManager: Voila!
+:03-05-2020 05:43:04 TTOffMagicWordManager: Voila!
+:03-05-2020 05:43:06 TTOffMagicWordManager: Voila!
+:03-05-2020 05:43:31 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:43:41 TTOffMagicWordManager: Presto!
+:03-05-2020 05:43:42 TTOffMagicWordManager: Presto!
+:03-05-2020 05:43:57 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:43:57 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:44:10 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:44:10 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:44:21 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:44:29 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:44:42 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:45:26 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:45:45 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:46:01 TTOffMagicWordManager: Presto!
+:03-05-2020 05:46:09 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:46:23 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:46:42 TTOffMagicWordManager: Presto!
+:03-05-2020 05:46:55 TTOffMagicWordManager: Voila!
+:03-05-2020 05:47:05 TTOffMagicWordManager: Voila!
+:03-05-2020 05:47:17 TTOffMagicWordManager: Presto!
+frame rate: 219.9 fps|0.001d|13 avs||3319|3320||0x0000|0x0000|3359.1MB|4933.5MB|16235.6MB|2372|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:47:35 TTOffMagicWordManager: Presto!
+:03-05-2020 05:47:51 TTOffMagicWordManager: Presto!
+:03-05-2020 05:48:09 TTOffMagicWordManager: Presto!
+:03-05-2020 05:48:29 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:48:39 TTOffMagicWordManager: Presto!
+:03-05-2020 05:49:37 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:49:47 TTOffMagicWordManager: Voila!
+:03-05-2020 05:49:54 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:50:05 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:50:16 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:50:32 TTOffMagicWordManager: Presto!
+:03-05-2020 05:50:52 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:51:08 TTOffMagicWordManager: Voila!
+:03-05-2020 05:51:21 TTOffMagicWordManager: Presto!
+:03-05-2020 05:51:29 TTOffMagicWordManager: Presto!
+:03-05-2020 05:51:32 TTOffMagicWordManager: Presto!
+:03-05-2020 05:51:59 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:51:59 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:52:33 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:52:34 TimeManager: Clock sync: timer
+:03-05-2020 05:52:34 TimeManager: Clock sync roundtrip took 13.190 ms
+:03-05-2020 05:52:34 TimeManager: AI time delta is -0:00 from server delta
+:03-05-2020 05:52:34 ClockDelta: previous delta at -0.781 s, +/- 0.530 s.
+:03-05-2020 05:52:34 ClockDelta: new delta at -0.803 s, +/- 0.007 s.
+:03-05-2020 05:52:34 ClockDelta: intersection at -0.803 s, +/- 0.007 s.
+:03-05-2020 05:52:34 TimeManager: Local clock uncertainty +/- 0.007 s
+frame rate: 223.8 fps|0.001d|13 avs||3619|3620||0x0000|0x0000|3753.8MB|5327.8MB|16235.6MB|2483|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:52:45 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:53:06 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:53:17 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:53:45 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:54:04 TTOffMagicWordManager: Voila!
+:03-05-2020 05:54:37 TTOffMagicWordManager: Presto!
+:03-05-2020 05:54:52 TTOffMagicWordManager: Voila!
+:03-05-2020 05:55:58 TTOffMagicWordManager: Hollybae's laff has been set to 127.
+:03-05-2020 05:55:59 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:56:35 TTOffMagicWordManager: Voila!
+:03-05-2020 05:56:48 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:57:01 TTOffMagicWordManager: Voila!
+:03-05-2020 05:57:13 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:57:23 TTOffMagicWordManager: Abracadabra!
+frame rate: 217.1 fps|0.001d|13 avs||3919|3920||0x0000|0x0000|4394.3MB|5736.0MB|16235.6MB|2668|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 05:57:47 TTOffMagicWordManager: Presto!
+:03-05-2020 05:57:56 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:58:08 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 05:58:17 TTOffMagicWordManager: Ta-da!
+:03-05-2020 05:59:02 TTOffMagicWordManager: Voila!
+:03-05-2020 05:59:15 TTOffMagicWordManager: Presto!
+:03-05-2020 05:59:32 TTOffMagicWordManager: Presto!
+:03-05-2020 05:59:42 TTOffMagicWordManager: Alakazam!
+:03-05-2020 05:59:53 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:00:09 TTOffMagicWordManager: Voila!
+:03-05-2020 06:00:21 TTOffMagicWordManager: Voila!
+:03-05-2020 06:00:25 TTOffMagicWordManager: Voila!
+:03-05-2020 06:00:35 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:00:47 TTOffMagicWordManager: Presto!
+:03-05-2020 06:02:11 TTOffMagicWordManager: Ta-da!
+frame rate: 221.1 fps|0.001d|13 avs||4219|4220||0x0000|0x0000|4758.7MB|6110.8MB|16235.6MB|2796|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 06:02:36 TTOffMagicWordManager: Presto!
+:03-05-2020 06:02:46 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:03:04 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:03:20 TTOffMagicWordManager: Voila!
+:03-05-2020 06:03:34 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:03:46 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:04:47 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:05:02 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:05:13 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:05:22 TTOffMagicWordManager: Abracadabra!
+frame rate: 233.9 fps|0.001d|13 avs||4519|4520||0x0000|0x0000|5110.2MB|6464.2MB|16235.6MB|2939|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 06:07:39 TTOffMagicWordManager: Presto!
+:03-05-2020 06:08:18 TTOffMagicWordManager: Presto!
+:03-05-2020 06:08:33 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:08:44 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:08:58 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:09:09 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:09:51 TTOffMagicWordManager: Voila!
+:03-05-2020 06:10:04 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:10:19 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:10:31 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:10:48 TTOffMagicWordManager: Presto!
+:03-05-2020 06:10:58 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:11:20 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:11:49 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:11:57 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:12:08 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:12:21 TTOffMagicWordManager: Presto!
+frame rate: 224.7 fps|0.001d|13 avs||4819|4820||0x0000|0x0000|5144.7MB|6841.5MB|16235.6MB|3059|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 06:12:50 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:13:12 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:13:28 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:13:44 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:14:01 TTOffMagicWordManager: Alakazam!
+adding timeout task
+adding timeout task
+:03-05-2020 06:16:18 TTOffMagicWordManager: Presto!
+:03-05-2020 06:17:09 TTOffMagicWordManager: Presto!
+:03-05-2020 06:17:23 TTOffMagicWordManager: Presto!
+:03-05-2020 06:17:33 TTOffMagicWordManager: Presto!
+frame rate: 230.2 fps|0.001d|13 avs||5119|5120||0x0000|0x0000|5502.7MB|7202.5MB|16235.6MB|3173|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 06:17:52 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:18:02 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:18:14 TTOffMagicWordManager: Voila!
+:03-05-2020 06:18:17 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:18:54 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:19:08 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:19:34 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:19:46 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:19:58 TTOffMagicWordManager: Voila!
+:03-05-2020 06:20:07 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:20:26 TTOffMagicWordManager: Presto!
+:03-05-2020 06:20:36 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:20:48 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:20:58 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:21:10 TTOffMagicWordManager: Presto!
+:03-05-2020 06:21:21 TTOffMagicWordManager: Voila!
+:03-05-2020 06:21:33 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:21:43 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:21:57 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:22:12 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:22:34 TimeManager: Clock sync: timer
+:03-05-2020 06:22:34 TimeManager: Clock sync roundtrip took 5.372 ms
+:03-05-2020 06:22:34 TimeManager: AI time delta is -0:00 from server delta
+:03-05-2020 06:22:34 ClockDelta: previous delta at -0.803 s, +/- 0.507 s.
+:03-05-2020 06:22:34 ClockDelta: new delta at -0.795 s, +/- 0.003 s.
+:03-05-2020 06:22:34 ClockDelta: intersection at -0.795 s, +/- 0.003 s.
+:03-05-2020 06:22:34 TimeManager: Local clock uncertainty +/- 0.003 s
+frame rate: 224.5 fps|0.001d|13 avs||5419|5420||0x0000|0x0000|5439.2MB|7613.4MB|16235.6MB|3301|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 06:22:34 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:22:50 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:23:02 TTOffMagicWordManager: Voila!
+:03-05-2020 06:23:13 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:23:35 TTOffMagicWordManager: Voila!
+:03-05-2020 06:23:47 TTOffMagicWordManager: Presto!
+:03-05-2020 06:23:58 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:24:05 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:24:19 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:24:30 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:24:36 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:24:49 TTOffMagicWordManager: Hollybae's laff has been set to 127.
+:03-05-2020 06:24:50 TTOffMagicWordManager: Voila!
+:03-05-2020 06:25:12 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:25:20 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:25:35 TTOffMagicWordManager: Presto!
+:03-05-2020 06:25:48 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:25:58 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:26:17 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:26:32 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:26:50 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:26:57 TTOffMagicWordManager: Voila!
+:03-05-2020 06:27:10 TTOffMagicWordManager: Abracadabra!
+frame rate: 234.1 fps|0.001d|13 avs||5719|5720||0x0000|0x0000|5393.2MB|8017.9MB|16235.6MB|3427|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:03-05-2020 06:27:37 TTOffMagicWordManager: Presto!
+:03-05-2020 06:28:14 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:28:33 TTOffMagicWordManager: Voila!
+:03-05-2020 06:28:46 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:28:55 TTOffMagicWordManager: Presto!
+:03-05-2020 06:29:34 TTOffMagicWordManager: Ta-da!
+:03-05-2020 06:29:49 TTOffMagicWordManager: Presto!
+:03-05-2020 06:30:03 TTOffMagicWordManager: Alakazam!
+:03-05-2020 06:30:17 TTOffMagicWordManager: Abracadabra!
+:03-05-2020 06:30:28 ToonBase: User closed main window.
+:03-05-2020 06:30:28 TimeManager: Client disconnect reason 2.
+:03-05-2020 06:30:29 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:03-05-2020 06:30:29 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:03-05-2020 06:30:29 OTPClientRepository: sending clientLogout
+:03-05-2020 06:30:29 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:03-05-2020 06:30:29 OTPClientRepository: Sent disconnect message to server
+:03-05-2020 06:30:29 OTPClientRepository: Closing connection to server.
+:03-05-2020 06:30:29 OTPClientRepository: Exiting cleanly
+:03-05-2020 06:30:29 ToonBase: Exiting Toontown: errorCode = None
+:03-05-2020 06:30:29 TTOffLauncher: setting panda error code to 0
+:03-05-2020 06:30:29 TTOffLauncher: Normal exit.

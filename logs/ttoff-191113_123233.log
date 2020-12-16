@@ -1,0 +1,126 @@
+
+
+Starting Toontown Online...
+Current time: Wed Nov 13 12:32:33 2019 Arabian Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\Users\\alyaz\\Documents\\GitHub\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMPUTERNAME': 'DESKTOP-5K6UCTT', 'USERDOMAIN': 'DESKTOP-5K6UCTT', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 94 Stepping 3, GenuineIntel', 'LOGONSERVER': '\\\\DESKTOP-5K6UCTT', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '5e03', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Panda3D-1.11.0-x64\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32;C:\\Users\\alyaz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\NSI\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\alyaz\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.11.0\\python;C:\\Panda3D-1.11.0\\python\\Scripts;C:\\Panda3D-1.11.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python\\Scripts;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\bin;F:\\Panda3D-1.10.4.1-x64\\python;F:\\Panda3D-1.10.4.1-x64\\python\\Scripts;F:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;F:\\PYTHON-3\\TOONTOWN-SOURCES\\CorporateClash-python3\\Panda3D-1.10.0-x64\\python;F:\\PYTHON-3', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\alyaz\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\alyaz', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-5K6UCTT', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'alyaz', 'TOONIVERSAL_P3D': 'C:\\Users\\alyaz\\Desktop\\Panda3D-1.11.0\\python\\ppython', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\alyaz\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ASL.LOG': 'Destination=file', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\alyaz\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\alyaz'}
+:11-13-2019 12:32:33 TTOffLauncher: isTestServer: 0
+:11-13-2019 12:32:33 TTOffLauncher: Game Server 127.0.0.1
+:11-13-2019 12:32:33 TTOffLauncher: Starting Toontown Online... 
+:11-13-2019 12:32:33 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-13-2019 12:32:33 TTOffLauncher: maybeStartGame: starting game
+:11-13-2019 12:32:33 TTOffLauncher: Starting Toontown Online...
+:11-13-2019 12:32:33 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-13-2019 12:32:33 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-13-2019 12:32:33 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-13-2019 12:32:34 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-13-2019 12:32:34 ShowBase: __dev__ == False
+:11-13-2019 12:32:34 TTOffLauncher: setting panda error code to 11
+:11-13-2019 12:32:34 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-13-2019 12:32:34 Loader: starting bulk load of block 'init'
+:11-13-2019 12:32:34 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-13-2019 12:32:34 OTPClientRepository: Using connect method 'http'
+:11-13-2019 12:32:35 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-13-2019 12:32:35 TTOffLauncher: checking env
+:11-13-2019 12:32:35 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-13-2019 12:32:35 TTOffLauncher: checking env
+:11-13-2019 12:32:35 OTPClientRepository: reg_deployment=
+:11-13-2019 12:32:35 OTPClientRepository: required-login auto.
+:11-13-2019 12:32:35 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-13-2019 12:32:35 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-13-2019 12:32:35 Loader: At end of block 'init', expected 138, loaded 6, duration=1.39540023214
+:11-13-2019 12:32:35 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-13-2019 12:32:35 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-13-2019 12:32:35 TTOffLauncher: Stopping mini task manager.
+:11-13-2019 12:32:35 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-13-2019 12:32:35 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001C0ACEC8>}
+:11-13-2019 12:32:36 StateData: AvatarChooser.enter
+:11-13-2019 12:32:36 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-13-2019 12:32:36 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-13-2019 12:32:37 OTPClientRepository: ================
+:11-13-2019 12:32:37 OTPClientRepository: Chose avatar id: 100000001
+:11-13-2019 12:32:37 OTPClientRepository: Chose avatar name: Aeterna
+:11-13-2019 12:32:37 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 20, 0, 21, 20, 3, 11, 3, 11, 8, 27)
+:11-13-2019 12:32:37 OTPClientRepository: Chose avatar position: 1
+:11-13-2019 12:32:37 OTPClientRepository: isPaid: 1
+:11-13-2019 12:32:37 OTPClientRepository: freeTimeLeft: 0
+:11-13-2019 12:32:37 OTPClientRepository: allowSecretChat: True
+:11-13-2019 12:32:37 OTPClientRepository: ================
+:11-13-2019 12:32:38 Loader: starting bulk load of block 'localAvatarPlayGame'
+:11-13-2019 12:32:38 ToontownTimeManager(warning): error parsing date string=
+Traceback (most recent call last):
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 609, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 616, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1836, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1724, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 1051, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 351, in handleAvatarResponseMsg
+    dclass.receiveUpdateBroadcastRequiredOwner(localAvatar, di)
+  File "toontown\toon\DistributedToon.py", line 1279, in setEmoteAccess
+    messenger.send('emotesChanged')
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 333, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 418, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCEmoteMenu.py", line 23, in __emoteAccessChanged
+    self.append(SCEmoteTerminal(i))
+  File "otp\speedchat\SCEmoteTerminal.py", line 22, in __init__
+    self.text = EmoteList[self.emoteId]
+IndexError: list index out of range
+:11-13-2019 12:32:38 :task(error): Exception occurred in PythonTask readerPollTask-125401472
+:11-13-2019 12:32:38 TTOffLauncher: setting panda error code to 12
+:11-13-2019 12:32:38 TTOffLauncher(warning): Handling Python exception.
+:11-13-2019 12:32:38 OTPClientRepository: Sent disconnect message to server
+:11-13-2019 12:32:38 OTPClientRepository: Closing connection to server.
+:11-13-2019 12:32:38 TTOffLauncher: Exception exit.
+
+Traceback (most recent call last):
+  File "otp\launcher\LauncherBase.py", line 1081, in mainLoop
+    self._runTaskManager()
+  File "otp\launcher\LauncherBase.py", line 1052, in _runTaskManager
+    taskMgr.run()
+  File "C:\Panda3D-1.11.0-x64\direct\task\Task.py", line 528, in run
+    self.step()
+  File "C:\Panda3D-1.11.0-x64\direct\task\Task.py", line 482, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 609, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 616, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1836, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1724, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 1051, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 351, in handleAvatarResponseMsg
+    dclass.receiveUpdateBroadcastRequiredOwner(localAvatar, di)
+  File "toontown\toon\DistributedToon.py", line 1279, in setEmoteAccess
+    messenger.send('emotesChanged')
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 333, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 418, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCEmoteMenu.py", line 23, in __emoteAccessChanged
+    self.append(SCEmoteTerminal(i))
+  File "otp\speedchat\SCEmoteTerminal.py", line 22, in __init__
+    self.text = EmoteList[self.emoteId]
+IndexError: list index out of range

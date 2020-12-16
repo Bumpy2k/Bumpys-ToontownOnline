@@ -1,0 +1,664 @@
+
+
+Starting Toontown Online...
+Current time: Wed Nov 13 10:57:09 2019 Arabian Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\Users\\alyaz\\Documents\\GitHub\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMPUTERNAME': 'DESKTOP-5K6UCTT', 'USERDOMAIN': 'DESKTOP-5K6UCTT', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 94 Stepping 3, GenuineIntel', 'LOGONSERVER': '\\\\DESKTOP-5K6UCTT', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '5e03', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Panda3D-1.11.0-x64\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32;C:\\Users\\alyaz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\NSI\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\alyaz\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.11.0\\python;C:\\Panda3D-1.11.0\\python\\Scripts;C:\\Panda3D-1.11.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python\\Scripts;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\bin;F:\\Panda3D-1.10.4.1-x64\\python;F:\\Panda3D-1.10.4.1-x64\\python\\Scripts;F:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;F:\\PYTHON-3\\TOONTOWN-SOURCES\\CorporateClash-python3\\Panda3D-1.10.0-x64\\python;F:\\PYTHON-3', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\alyaz\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\alyaz', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-5K6UCTT', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'alyaz', 'TOONIVERSAL_P3D': 'C:\\Users\\alyaz\\Desktop\\Panda3D-1.11.0\\python\\ppython', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\alyaz\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ASL.LOG': 'Destination=file', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\alyaz\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\alyaz'}
+:11-13-2019 10:57:09 TTOffLauncher: isTestServer: 0
+:11-13-2019 10:57:09 TTOffLauncher: Game Server 127.0.0.1
+:11-13-2019 10:57:09 TTOffLauncher: Starting Toontown Online... 
+:11-13-2019 10:57:09 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-13-2019 10:57:09 TTOffLauncher: maybeStartGame: starting game
+:11-13-2019 10:57:09 TTOffLauncher: Starting Toontown Online...
+:11-13-2019 10:57:09 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-13-2019 10:57:10 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-13-2019 10:57:10 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-13-2019 10:57:10 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-13-2019 10:57:10 ShowBase: __dev__ == False
+:11-13-2019 10:57:10 TTOffLauncher: setting panda error code to 11
+:11-13-2019 10:57:10 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-13-2019 10:57:10 Loader: starting bulk load of block 'init'
+:11-13-2019 10:57:11 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-13-2019 10:57:11 OTPClientRepository: Using connect method 'http'
+:11-13-2019 10:57:12 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-13-2019 10:57:12 TTOffLauncher: checking env
+:11-13-2019 10:57:12 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-13-2019 10:57:12 TTOffLauncher: checking env
+:11-13-2019 10:57:12 OTPClientRepository: reg_deployment=
+:11-13-2019 10:57:12 OTPClientRepository: required-login auto.
+:11-13-2019 10:57:12 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-13-2019 10:57:12 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-13-2019 10:57:12 Loader: At end of block 'init', expected 138, loaded 8, duration=1.66510146736
+:11-13-2019 10:57:12 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-13-2019 10:57:12 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-13-2019 10:57:12 TTOffLauncher: Stopping mini task manager.
+:11-13-2019 10:57:12 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-13-2019 10:57:12 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001D4A3EC8>}
+:11-13-2019 10:57:13 StateData: AvatarChooser.enter
+:11-13-2019 10:57:13 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-13-2019 10:57:13 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-13-2019 10:57:23 OTPClientRepository: ================
+:11-13-2019 10:57:23 OTPClientRepository: Chose avatar id: 100000001
+:11-13-2019 10:57:23 OTPClientRepository: Chose avatar name: Aeterna
+:11-13-2019 10:57:23 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 20, 0, 21, 20, 3, 11, 3, 11, 8, 27)
+:11-13-2019 10:57:23 OTPClientRepository: Chose avatar position: 1
+:11-13-2019 10:57:23 OTPClientRepository: isPaid: 1
+:11-13-2019 10:57:23 OTPClientRepository: freeTimeLeft: 0
+:11-13-2019 10:57:23 OTPClientRepository: allowSecretChat: True
+:11-13-2019 10:57:23 OTPClientRepository: ================
+:11-13-2019 10:57:23 Loader: starting bulk load of block 'localAvatarPlayGame'
+:11-13-2019 10:57:23 ToontownTimeManager(warning): error parsing date string=
+local
+:11-13-2019 10:57:24 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:11-13-2019 10:57:24 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:11-13-2019 10:57:26 OTPClientRepository: Entering shard 401000001
+:11-13-2019 10:57:26 StreetSign: Street sign url is https://ttoffline.com/images/
+:11-13-2019 10:57:27 StreetSign: Street Sign is up to date
+:11-13-2019 10:57:27 TimeManager: Clock sync: TimeManager.announceGenerate
+:11-13-2019 10:57:27 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz|329443|0|2.701,2.701|4,8 cpus
+:11-13-2019 10:57:28 OTPClientRepository: No sync from TimeManager.
+:11-13-2019 10:57:28 OTPClientRepository: gotTimeSync
+:11-13-2019 10:57:28 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 13, duration=5.5586066202
+:11-13-2019 10:57:28 TimeManager: Clock sync roundtrip took 1261.058 ms
+:11-13-2019 10:57:28 TimeManager: AI time delta is -0:01 from server delta
+:11-13-2019 10:57:28 TimeManager: Local clock uncertainty +/- 0.631 s
+:11-13-2019 10:57:28 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:11-13-2019 10:57:28 Loader: starting bulk load of block 'hood'
+:11-13-2019 10:57:29 LawbotCogHQLoader: loadPlaceGeom: 13000
+:11-13-2019 10:57:29 DistributedObject: DistributedSuitPlanner 401002969: generating
+:11-13-2019 10:57:29 DistributedToon: calling LocalAvatar.startchat
+:11-13-2019 10:57:29 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-13-2019 10:57:30 Loader: At end of block 'hood', expected 2, loaded 4, duration=1.00813158549
+:11-13-2019 10:57:31 Teleport(debug): teleportInDone: walk
+:11-13-2019 10:57:31 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-13-2019 10:57:33 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 10:57:35 TTOffMagicWordManager: Run mode has been toggled.
+:11-13-2019 10:57:43 TTOffMagicWordManager: Presto!
+:11-13-2019 10:57:46 LawbotCogHQLoader: loadPlaceGeom: 13100
+:11-13-2019 10:57:46 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:11-13-2019 10:57:46 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:11-13-2019 10:57:46 DistributedObject: DistributedSuitPlanner 401002969: disabling
+:11-13-2019 10:57:46 DistributedToon: calling LocalAvatar.startchat
+:11-13-2019 10:57:46 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-13-2019 10:57:47 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-13-2019 10:57:59 LawbotCogHQLoader: loadPlaceGeom: 61000
+:11-13-2019 10:57:59 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-13-2019 10:57:59 CogHQLobby: Unloading Place (13100). Fsm in final
+:11-13-2019 10:57:59 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:11-13-2019 10:57:59 DistributedToon: calling LocalAvatar.startchat
+:11-13-2019 10:57:59 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:11-13-2019 10:58:04 TTOffMagicWordManager: Abracadabra!
+:11-13-2019 10:58:05 TTOffMagicWordManager: Voila!
+:11-13-2019 10:58:07 TTOffMagicWordManager: Alakazam!
+:11-13-2019 10:58:14 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:11-13-2019 10:58:31 TTOffMagicWordManager: Uh-oh! This Magic Word doesn't exist!
+Battle Event localtoon-battle-event-3
+:11-13-2019 10:58:43 TTOffMagicWordManager: Skipping current round...
+:11-13-2019 10:58:46 TTOffMagicWordManager: Run mode has been toggled.
+:11-13-2019 10:59:16 Actor(warning): no part named head-front*!
+:11-13-2019 10:59:47 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80.0105, 6.60001, 0)).
+:11-13-2019 10:59:47 Actor(warning): no part named head-front*!
+:11-13-2019 10:59:51 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80.0314, 6.60017, 0)).
+:11-13-2019 10:59:51 Actor(warning): no part named head-front*!
+:11-13-2019 10:59:57 Actor(warning): no part named head-front*!
+:11-13-2019 10:59:58 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80.0314, 6.60017, 0)).
+:11-13-2019 10:59:58 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:00 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:01 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80.2771, 6.61283, 0)).
+:11-13-2019 11:00:02 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:04 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:05 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80.593, 6.65918, 0)).
+:11-13-2019 11:00:05 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:08 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:09 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80.593, 6.65918, 0)).
+:11-13-2019 11:00:09 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:11 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:12 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80.35, 6.62048, 0)).
+:11-13-2019 11:00:12 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:15 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:16 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-80, 6.6, 0)).
+:11-13-2019 11:00:16 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:18 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:19 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-79.749, 6.61052, 0)).
+:11-13-2019 11:00:19 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:21 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:22 LawbotHQBossBattle(warning): fsm.request('crane') returned 0 (zone id 61000, avatar pos LPoint3f(-79.4636, 6.64835, 0)).
+:11-13-2019 11:00:22 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:25 Actor(warning): no part named head-front*!
+:11-13-2019 11:00:26 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(2.89089, 0.801708, 0)).
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:00:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:01:01 TTOffMagicWordManager: Gave Aeterna an infinite amount of pies
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:01:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:01:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:01:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:01:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:01:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:01:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:01:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:02:11 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 86.1 fps|0.005d|12 avs||315|316||0x0000|0x0000|701.9MB|787.7MB|32703.7MB|425|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:03:38 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:05:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:06:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+frame rate: 85.8 fps|0.002d|12 avs||615|616||0x0000|0x0000|728.7MB|814.4MB|32703.7MB|432|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:08:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:08:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:08:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:08:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:08:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:08:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:08:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:08:57 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:09:34 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 11:09:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:09:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:09:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:09:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:09:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:10:54 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:11:46 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:11:47 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 11:11:53 OTPClientRepository: Sending heartbeat mid-frame.
+frame rate: 86.9 fps|0.003d|12 avs||915|916||0x0000|0x0000|753.7MB|839.2MB|32703.7MB|439|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+frame rate: 96.7 fps|0.002d|12 avs||1215|1216||0x0000|0x0000|780.0MB|865.7MB|32703.7MB|446|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:19:27 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:19:27 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:19:27 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:19:27 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:20:17 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:20:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:21:39 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:21:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:22:19 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:22:19 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:22:19 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:22:19 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:22:19 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+frame rate: 87.9 fps|0.003d|12 avs||1515|1516||0x0000|0x0000|810.1MB|896.1MB|32703.7MB|454|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:22:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:23:09 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:24:26 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:24:26 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:24:26 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:24:26 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:24:26 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:24:26 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:24:26 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:26:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:26:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:26:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:26:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:26:31 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:27:26 TimeManager: Clock sync: timer
+:11-13-2019 11:27:26 TimeManager: Clock sync roundtrip took 38.025 ms
+:11-13-2019 11:27:26 TimeManager: AI time delta is -0:00 from server delta
+:11-13-2019 11:27:26 ClockDelta: previous delta at -0.895 s, +/- 1.130 s.
+:11-13-2019 11:27:26 ClockDelta: new delta at -1.494 s, +/- 0.019 s.
+:11-13-2019 11:27:26 ClockDelta: intersection at -1.494 s, +/- 0.019 s.
+:11-13-2019 11:27:26 TimeManager: Local clock uncertainty +/- 0.019 s
+frame rate: 84.5 fps|0.003d|12 avs||1815|1816||0x0000|0x0000|836.4MB|922.4MB|32703.7MB|461|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:27:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:28:22 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:28:22 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:28:22 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:28:22 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:28:22 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:28:56 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:28:56 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:28:56 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:28:56 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:31:43 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+frame rate: 93.5 fps|0.002d|12 avs||2115|2116||0x0000|0x0000|862.3MB|948.5MB|32703.7MB|468|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:33:24 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:34:14 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 11:34:25 OTPClientRepository: Sending heartbeat mid-frame.
+:11-13-2019 11:36:08 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:36:39 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+frame rate: 91.7 fps|0.003d|12 avs||2415|2416||0x0000|0x0000|889.3MB|975.5MB|32703.7MB|475|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:37:36 OTPClientRepository: Sending heartbeat mid-frame.
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:39:02 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:40:12 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:40:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:40:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:40:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:40:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:40:35 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+frame rate: 93.2 fps|0.002d|12 avs||2715|2716||0x0000|0x0000|916.9MB|1003.0MB|32703.7MB|482|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:43:01 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 11:43:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:43:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:43:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:43:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:43:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:43:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:44:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+frame rate: 81.3 fps|0.003d|12 avs||3015|3016||0x0000|0x0000|948.4MB|1034.5MB|32703.7MB|491|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:49:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:50:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+frame rate: 84.3 fps|0.003d|12 avs||3315|3316||0x0000|0x0000|978.2MB|1064.6MB|32703.7MB|498|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:52:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:53:50 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:53:50 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:53:50 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:53:50 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:53:50 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:53:50 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:53:50 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:54:06 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:54:36 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 11:54:53 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:55:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:55:37 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:56:00 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:56:18 OTPClientRepository: Sending heartbeat mid-frame.
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:57:16 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:57:26 TimeManager: Clock sync: timer
+frame rate: 79.7 fps|0.003d|12 avs||3615|3616||0x0000|0x0000|1008.7MB|1094.8MB|32703.7MB|506|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 11:57:26 TimeManager: Clock sync roundtrip took 68.007 ms
+:11-13-2019 11:57:26 TimeManager: AI time delta is -0:00 from server delta
+:11-13-2019 11:57:26 ClockDelta: previous delta at -1.494 s, +/- 0.519 s.
+:11-13-2019 11:57:26 ClockDelta: new delta at -1.470 s, +/- 0.034 s.
+:11-13-2019 11:57:26 ClockDelta: intersection at -1.470 s, +/- 0.034 s.
+:11-13-2019 11:57:26 TimeManager: Local clock uncertainty +/- 0.034 s
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:57:44 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:58:13 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:59:05 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:59:05 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:59:05 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:59:05 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:59:05 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 11:59:05 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 11:59:40 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 11:59:40 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 11:59:40 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:00:00 NewsManager: setHolidayId: Starting Holiday 7
+:11-13-2019 12:00:08 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:00:08 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:00:08 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:00:08 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:00:08 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:00:08 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:00:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:00:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:00:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:00:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:00:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:00:47 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+frame rate: 85.5 fps|0.003d|12 avs||3915|3916||0x0000|0x0000|1037.9MB|1124.3MB|32703.7MB|514|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:04:04 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:04:20 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:04:20 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:04:20 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:04:20 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:04:20 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:04:20 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:06:26 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 12:06:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:06:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:06:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:06:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:06:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:06:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+frame rate: 84.2 fps|0.003d|12 avs||4215|4216||0x0000|0x0000|1067.1MB|1153.4MB|32703.7MB|522|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 12:08:36 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:08:36 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:08:36 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:08:36 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:08:36 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:10:51 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:11:55 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+frame rate: 89.5 fps|0.003d|12 avs||4515|4516||0x0000|0x0000|1094.3MB|1180.8MB|32703.7MB|530|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 12:12:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:12:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:12:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:12:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:12:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:12:30 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:13:32 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:14:41 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:14:44 TTOffMagicWordManager: Aeterna's laff has been set to 137.
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:15:45 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:15:50 OTPClientRepository: Sending heartbeat mid-frame.
+:11-13-2019 12:16:01 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:16:01 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:16:01 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:16:01 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:16:01 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:16:01 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:17:18 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+:11-13-2019 12:17:18 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:17:18 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowProsecute
+frame rate: 83.1 fps|0.003d|12 avs||4815|4816||0x0000|0x0000|1127.5MB|1214.1MB|32703.7MB|539|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-13-2019 12:18:20 OTPClientRepository: Sending heartbeat mid-frame.
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:18:34 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowAttack to PreThrowProsecute
+:11-13-2019 12:19:21 ClassicFSM(warning): [DistributedLawbotBossSuit]: no transition exists from PostThrowProsecute to PreThrowAttack

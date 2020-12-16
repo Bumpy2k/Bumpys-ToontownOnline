@@ -1,0 +1,298 @@
+
+
+Starting Toontown Online...
+Current time: Fri Nov 22 18:27:54 2019 Arabian Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\Users\\alyaz\\Documents\\GitHub\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMPUTERNAME': 'DESKTOP-5K6UCTT', 'USERDOMAIN': 'DESKTOP-5K6UCTT', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 94 Stepping 3, GenuineIntel', 'LOGONSERVER': '\\\\DESKTOP-5K6UCTT', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '5e03', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Gpg4win\\..\\GnuPG\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Panda3D-1.11.0-x64\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Python\\Python37-32;C:\\Users\\alyaz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\NSI\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\alyaz\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\alyaz\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.11.0\\python;C:\\Panda3D-1.11.0\\python\\Scripts;C:\\Panda3D-1.11.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\python\\Scripts;F:\\Python3\\TTSH\\TTSH-py3\\Panda3D-1.11.0-x64\\bin;F:\\Panda3D-1.10.4.1-x64\\python;F:\\Panda3D-1.10.4.1-x64\\python\\Scripts;F:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;F:\\PYTHON-3\\TOONTOWN-SOURCES\\CorporateClash-python3\\Panda3D-1.10.0-x64\\python;F:\\PYTHON-3', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\alyaz\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\alyaz\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\alyaz', 'USERDOMAIN_ROAMINGPROFILE': 'DESKTOP-5K6UCTT', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'alyaz', 'TOONIVERSAL_P3D': 'C:\\Users\\alyaz\\Desktop\\Panda3D-1.11.0\\python\\ppython', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\alyaz\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ASL.LOG': 'Destination=file', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\alyaz\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\alyaz'}
+:11-22-2019 18:27:54 TTOffLauncher: isTestServer: 0
+:11-22-2019 18:27:54 TTOffLauncher: Game Server 127.0.0.1
+:11-22-2019 18:27:54 TTOffLauncher: Starting Toontown Online... 
+:11-22-2019 18:27:54 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:11-22-2019 18:27:54 TTOffLauncher: maybeStartGame: starting game
+:11-22-2019 18:27:54 TTOffLauncher: Starting Toontown Online...
+:11-22-2019 18:27:54 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:11-22-2019 18:27:54 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:11-22-2019 18:27:55 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:11-22-2019 18:27:55 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:11-22-2019 18:27:55 ShowBase: __dev__ == False
+:11-22-2019 18:27:55 TTOffLauncher: setting panda error code to 11
+:11-22-2019 18:27:55 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:11-22-2019 18:27:55 Loader: starting bulk load of block 'init'
+:11-22-2019 18:27:56 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:11-22-2019 18:27:56 OTPClientRepository: Using connect method 'http'
+:11-22-2019 18:27:57 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:11-22-2019 18:27:57 TTOffLauncher: checking env
+:11-22-2019 18:27:57 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:11-22-2019 18:27:57 TTOffLauncher: checking env
+:11-22-2019 18:27:57 OTPClientRepository: reg_deployment=
+:11-22-2019 18:27:57 OTPClientRepository: required-login auto.
+:11-22-2019 18:27:57 OTPClientRepository: loginInterface: LoginTTOffAccount
+:11-22-2019 18:27:57 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:11-22-2019 18:27:57 Loader: At end of block 'init', expected 138, loaded 8, duration=1.61867496538
+:11-22-2019 18:27:57 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:11-22-2019 18:27:57 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:11-22-2019 18:27:57 TTOffLauncher: Stopping mini task manager.
+:11-22-2019 18:27:57 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:11-22-2019 18:27:57 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001C360748>}
+:11-22-2019 18:27:58 StateData: AvatarChooser.enter
+:11-22-2019 18:27:58 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:11-22-2019 18:27:58 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:11-22-2019 18:28:04 OTPClientRepository: ================
+:11-22-2019 18:28:04 OTPClientRepository: Chose avatar id: 100000001
+:11-22-2019 18:28:04 OTPClientRepository: Chose avatar name: Aeterna
+:11-22-2019 18:28:04 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 26, 0, 21, 26, 3, 11, 3, 11, 8, 12)
+:11-22-2019 18:28:04 OTPClientRepository: Chose avatar position: 1
+:11-22-2019 18:28:04 OTPClientRepository: isPaid: 1
+:11-22-2019 18:28:04 OTPClientRepository: freeTimeLeft: 0
+:11-22-2019 18:28:04 OTPClientRepository: allowSecretChat: True
+:11-22-2019 18:28:04 OTPClientRepository: ================
+:11-22-2019 18:28:04 Loader: starting bulk load of block 'localAvatarPlayGame'
+:11-22-2019 18:28:05 ToontownTimeManager(warning): error parsing date string=
+local
+:11-22-2019 18:28:05 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:11-22-2019 18:28:05 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:11-22-2019 18:28:07 OTPClientRepository: Sending heartbeat mid-frame.
+:11-22-2019 18:28:07 OTPClientRepository: Entering shard 401000001
+:11-22-2019 18:28:07 StreetSign: Street sign url is https://ttoffline.com/images/
+:11-22-2019 18:28:09 StreetSign: Street Sign is up to date
+:11-22-2019 18:28:09 TimeManager: Clock sync: TimeManager.announceGenerate
+:11-22-2019 18:28:09 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz|329443|0|2.701,2.701|4,8 cpus
+:11-22-2019 18:28:10 OTPClientRepository: No sync from TimeManager.
+:11-22-2019 18:28:10 OTPClientRepository: gotTimeSync
+:11-22-2019 18:28:10 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 14, duration=5.91112026533
+:11-22-2019 18:28:10 TimeManager: Clock sync roundtrip took 1089.575 ms
+:11-22-2019 18:28:10 TimeManager: AI time delta is -0:01 from server delta
+:11-22-2019 18:28:10 TimeManager: Local clock uncertainty +/- 0.545 s
+:11-22-2019 18:28:10 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:11-22-2019 18:28:10 Loader: starting bulk load of block 'hood'
+:11-22-2019 18:28:11 LawbotCogHQLoader: loadPlaceGeom: 13000
+:11-22-2019 18:28:11 DistributedObject: DistributedSuitPlanner 401002975: generating
+:11-22-2019 18:28:11 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 18:28:11 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:28:11 Loader: At end of block 'hood', expected 2, loaded 4, duration=0.922351010631
+:11-22-2019 18:28:13 Teleport(debug): teleportInDone: walk
+:11-22-2019 18:28:13 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:28:14 TTOffMagicWordManager: Run mode has been toggled.
+:11-22-2019 18:28:20 TTOffMagicWordManager: Going ghost!
+:11-22-2019 18:28:23 TTOffMagicWordManager: Voila!
+:11-22-2019 18:28:25 LawbotCogHQLoader: loadPlaceGeom: 13100
+:11-22-2019 18:28:25 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:11-22-2019 18:28:25 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:11-22-2019 18:28:25 DistributedObject: DistributedSuitPlanner 401002975: disabling
+:11-22-2019 18:28:25 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 18:28:25 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:28:27 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/c/Users/alyaz/Documents/GitHub/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:11-22-2019 18:28:39 LawbotCogHQLoader: loadPlaceGeom: 61000
+:11-22-2019 18:28:39 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:11-22-2019 18:28:39 CogHQLobby: Unloading Place (13100). Fsm in final
+:11-22-2019 18:28:39 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:11-22-2019 18:28:39 DistributedToon: calling LocalAvatar.startchat
+:11-22-2019 18:28:39 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:11-22-2019 18:28:43 TTOffMagicWordManager: Restarting Scale Round
+:11-22-2019 18:28:56 TTOffMagicWordManager: Voila!
+:11-22-2019 18:28:57 TTOffMagicWordManager: Run mode has been toggled.
+:11-22-2019 18:29:08 TTOffMagicWordManager: LVecBase3f(181.608, 0, 0)
+:11-22-2019 18:29:16 TTOffMagicWordManager: This command takes at most 0 arguments!
+:11-22-2019 18:29:26 TTOffMagicWordManager: Presto!
+:11-22-2019 18:29:39 TTOffMagicWordManager: Gave Aeterna an infinite amount of pies
+:11-22-2019 18:30:25 TTOffMagicWordManager: Ta-da!
+:11-22-2019 18:30:31 TTOffMagicWordManager: LPoint3f(-3.37236, -0.125787, 13)
+:11-22-2019 18:30:41 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 18:30:49 TTOffMagicWordManager: Presto!
+LPoint3f(-2.91284, -3.45903, 13) LVecBase3f(178.229, -10, 0)
+:11-22-2019 18:31:13 TTOffMagicWordManager: Alakazam!
+LPoint3f(-2.91284, -3.45903, 13) LVecBase3f(178.229, -10, 0)
+LPoint3f(-2.91284, -3.45903, 13) LVecBase3f(178.229, -10, 0)
+LPoint3f(-2.91284, -3.45903, 13) LVecBase3f(178.229, -10, 0)
+LPoint3f(-2.9774, -5.54738, 13) LVecBase3f(178.229, -10, 0)
+LPoint3f(-3.04266, -7.65878, 13) LVecBase3f(178.229, -10, 0)
+LPoint3f(-3.10776, -9.76472, 13) LVecBase3f(178.229, -10, 0)
+LPoint3f(-3.17001, -11.7785, 13) LVecBase3f(178.229, -10, 0)
+LPoint3f(-3.27118, -13.9051, 13) LVecBase3f(173.265, -10, 0)
+LPoint3f(-3.70855, -15.9811, 13) LVecBase3f(162.243, -10, 0)
+LPoint3f(-4.52228, -17.912, 13) LVecBase3f(151.357, -10, 0)
+LPoint3f(-5.64247, -19.6034, 13) LVecBase3f(140.819, -10, 0)
+LPoint3f(-7.1101, -21.1075, 13) LVecBase3f(129.901, -10, 0)
+LPoint3f(-8.75312, -22.2597, 13) LVecBase3f(119.476, -10, 0)
+LPoint3f(-10.6832, -23.1322, 13) LVecBase3f(108.471, -10, 0)
+LPoint3f(-12.6687, -23.6112, 13) LVecBase3f(97.8617, -10, 0)
+LPoint3f(-14.7111, -23.7176, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-16.6683, -23.6687, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-18.7529, -23.6167, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-20.8209, -23.565, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-22.9101, -23.5129, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-24.9939, -23.4608, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-27.0458, -23.4096, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-29.0973, -23.3584, 13) LVecBase3f(88.5697, -10, 0)
+LPoint3f(-31.1496, -23.2682, 13) LVecBase3f(83.4264, -10, 0)
+LPoint3f(-33.13, -22.8657, 13) LVecBase3f(72.9281, -10, 0)
+LPoint3f(-35.1001, -22.0608, 13) LVecBase3f(61.8717, -10, 0)
+LPoint3f(-36.8629, -20.9073, 13) LVecBase3f(50.9264, -10, 0)
+LPoint3f(-38.3417, -19.4764, 13) LVecBase3f(40.2365, -10, 0)
+LPoint3f(-39.5103, -17.8288, 13) LVecBase3f(29.7437, -10, 0)
+LPoint3f(-40.3617, -15.9916, 13) LVecBase3f(19.2245, -10, 0)
+LPoint3f(-40.8753, -13.9514, 13) LVecBase3f(8.29392, -10, 0)
+LPoint3f(-41.1226, -11.9035, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-41.3686, -9.81237, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-41.6092, -7.76655, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-41.8489, -5.7286, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-42.0889, -3.68826, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-42.3267, -1.66674, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-42.5622, 0.335577, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-42.8074, 2.42033, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-43.0452, 4.44242, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-43.2832, 6.46602, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-43.5321, 8.58185, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-43.7691, 10.5963, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-44.0087, 12.6333, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-44.2455, 14.6466, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-44.4888, 16.7152, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-44.7323, 18.7856, 13) LVecBase3f(6.70839, -10, 0)
+LPoint3f(-44.8504, 20.8756, 13) LVecBase3f(-2.41358, -10, 0)
+LPoint3f(-44.5804, 22.9397, 13) LVecBase3f(-13.2283, -10, 0)
+LPoint3f(-43.9329, 24.9042, 13) LVecBase3f(-23.9742, -10, 0)
+LPoint3f(-42.9547, 26.7247, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-41.8821, 28.5545, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-40.87, 30.2811, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-39.7819, 32.1375, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-38.7088, 33.9681, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-37.6475, 35.7787, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-36.6039, 37.5589, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-35.5398, 39.3744, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-34.5269, 41.1024, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-33.4224, 42.9866, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-32.3347, 44.8421, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-31.3016, 46.6047, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-30.2872, 48.3351, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-29.2158, 50.1629, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-28.177, 51.9351, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-27.1577, 53.674, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-26.0824, 55.5085, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-25.0147, 57.33, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-24.0029, 59.056, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-22.9444, 60.8619, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-21.8994, 62.6446, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-20.8564, 64.424, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-19.8349, 66.1666, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-18.8146, 67.9071, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-17.812, 69.6176, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.7662, 71.4018, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+LPoint3f(-16.3009, 72.1955, 13) LVecBase3f(-30.3777, -10, 0)
+:11-22-2019 18:32:56 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 175.4 fps|0.003d|12 avs||312|313||0x0000|0x0000|619.9MB|712.8MB|32703.7MB|390|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 18:33:20 TTOffMagicWordManager: -2 -3 13 178 -10 0 is set as the starting point!
+adding timeout task
+adding timeout task
+:11-22-2019 18:36:45 TTOffMagicWordManager: -2 -3 13 178 -10 0 is set as the starting point!
+:11-22-2019 18:36:50 TTOffMagicWordManager: Point -3 -11 10 170 -8 0 with a duration of 0 was added!
+:11-22-2019 18:36:55 TTOffMagicWordManager: Point -3 -15 10 162 0 0 with a duration of 0 was added!
+:11-22-2019 18:36:59 TTOffMagicWordManager: Ta-da!
+:11-22-2019 18:37:02 TTOffMagicWordManager: Presto!
+:11-22-2019 18:37:05 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 18:37:08 TTOffMagicWordManager: Voila!
+:11-22-2019 18:38:00 TTOffMagicWordManager: Point -7 -21 10 130 -4 0 with a duration of 0 was added!
+frame rate: 174.3 fps|0.001d|12 avs||612|613||0x0000|0x0000|631.9MB|724.8MB|32703.7MB|393|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 18:38:08 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 18:38:33 TTOffMagicWordManager: -2 -3 13 178 -10 0 is set as the starting point!
+:11-22-2019 18:38:37 TTOffMagicWordManager: Point -3 -11 10 170 -8 0 with a duration of 0 was added!
+:11-22-2019 18:38:41 TTOffMagicWordManager: Point -3 -15 10 162 -6 0 with a duration of 0 was added!
+:11-22-2019 18:38:46 TTOffMagicWordManager: Point -7 -21 10 130 -4 0 with a duration of 0 was added!
+:11-22-2019 18:38:47 TTOffMagicWordManager: Voila!
+:11-22-2019 18:38:50 TTOffMagicWordManager: Ta-da!
+:11-22-2019 18:38:53 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 18:39:05 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 18:39:10 TTOffMagicWordManager: Point -3 -11 10 170 -8 0 with a duration of 0 was added!
+:11-22-2019 18:39:13 TTOffMagicWordManager: Point -3 -15 10 162 -6 0 with a duration of 0 was added!
+:11-22-2019 18:39:16 TTOffMagicWordManager: Point -7 -21 10 145 -4 0 with a duration of 0 was added!
+:11-22-2019 18:39:25 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:39:33 TTOffMagicWordManager: Presto!
+:11-22-2019 18:39:39 TTOffMagicWordManager: Voila!
+:11-22-2019 18:39:43 TTOffMagicWordManager: Ta-da!
+:11-22-2019 18:39:49 TTOffMagicWordManager: Voila!
+:11-22-2019 18:39:51 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 18:39:54 TTOffMagicWordManager: Presto!
+:11-22-2019 18:40:55 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean clearaccessories?
+:11-22-2019 18:41:00 TTOffMagicWordManager: -2 -3 13 178 -10 0 is set as the starting point!
+:11-22-2019 18:41:04 TTOffMagicWordManager: Point -3 -11 10 170 -8 0 with a duration of 0 was added!
+:11-22-2019 18:41:07 TTOffMagicWordManager: Point -3 -15 10 162 -6 0 with a duration of 0 was added!
+:11-22-2019 18:41:11 TTOffMagicWordManager: Point -7 -21 10 155 -4 0 with a duration of 0 was added!
+:11-22-2019 18:41:14 TTOffMagicWordManager: Presto!
+:11-22-2019 18:41:18 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean clearaccessories?
+:11-22-2019 18:41:20 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 18:41:25 TTOffMagicWordManager: -2 -3 13 178 -10 0 is set as the starting point!
+:11-22-2019 18:41:28 TTOffMagicWordManager: Point -3 -11 10 170 -8 0 with a duration of 0 was added!
+:11-22-2019 18:41:32 TTOffMagicWordManager: Point -3 -15 10 162 -6 0 with a duration of 0 was added!
+:11-22-2019 18:41:36 TTOffMagicWordManager: Point -7 -21 10 155 -4 0 with a duration of 0 was added!
+:11-22-2019 18:41:38 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:41:42 TTOffMagicWordManager: Voila!
+:11-22-2019 18:41:56 TTOffMagicWordManager: Presto!
+:11-22-2019 18:42:01 TTOffMagicWordManager: Successfully cleared all camera points!
+:11-22-2019 18:42:14 TTOffMagicWordManager: Voila!
+:11-22-2019 18:42:52 TTOffMagicWordManager: LPoint3f(-2.52551, 0.142459, 13)
+frame rate: 165.9 fps|0.001d|12 avs||912|913||0x0000|0x0000|645.1MB|719.3MB|32703.7MB|396|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 18:43:10 TTOffMagicWordManager: LPoint3f(-2.52551, 0.142459, 13)
+:11-22-2019 18:43:30 TTOffMagicWordManager: LPoint3f(-2.52551, 0.142459, 13)
+:11-22-2019 18:43:33 TTOffMagicWordManager: LPoint3f(-2.52551, 0.142459, 13)
+:11-22-2019 18:43:45 TTOffMagicWordManager: LVecBase3f(179.529, 0, 0)
+:11-22-2019 18:44:05 TTOffMagicWordManager: LVecBase3f(179.529, 0, 0)
+:11-22-2019 18:44:38 TTOffMagicWordManager: LPoint3f(-11.6266, -21.4629, 13)
+:11-22-2019 18:44:41 TTOffMagicWordManager: LPoint3f(-11.6266, -21.4629, 13)
+:11-22-2019 18:45:07 TTOffMagicWordManager: LVecBase3f(153.291, 0, 0)
+:11-22-2019 18:45:18 TTOffMagicWordManager: LVecBase3f(153.291, 0, 0)
+:11-22-2019 18:46:08 TTOffMagicWordManager: LPoint3f(-28.1484, -29.1431, 13)
+:11-22-2019 18:46:43 TTOffMagicWordManager: LVecBase3f(88.46, 0, 0)
+:11-22-2019 18:47:12 TTOffMagicWordManager: LPoint3f(-45.7, -23.4608, 13)
+:11-22-2019 18:47:30 TTOffMagicWordManager: LPoint3f(-43.6495, -25.3046, 13)
+:11-22-2019 18:47:33 TTOffMagicWordManager: LPoint3f(-43.6495, -25.3046, 13)
+:11-22-2019 18:47:51 TTOffMagicWordManager: LPoint3f(-43.6495, -25.3046, 13)
+frame rate: 173.8 fps|0.001d|12 avs||1212|1213||0x0000|0x0000|657.0MB|731.2MB|32703.7MB|399|nt.2.6.2|2.701,2.701|4,8 cpus|OpenGL
+:11-22-2019 18:49:07 TTOffMagicWordManager: LPoint3f(-50.975, -8.98493, 13)
+:11-22-2019 18:50:21 TTOffMagicWordManager: -2 0 15 180 -10 0 is set as the starting point!
+:11-22-2019 18:50:24 TTOffMagicWordManager: Point -11 -21 12 135 -6 0 with a duration of 0 was added!
+:11-22-2019 18:50:26 TTOffMagicWordManager: Point -28 -29 9 90 -2 0 with a duration of 0 was added!
+:11-22-2019 18:50:29 TTOffMagicWordManager: Point -43 -25 6 45 2 0 with a duration of 0 was added!
+:11-22-2019 18:50:32 TTOffMagicWordManager: Point -51 -9 6 0 6 0 with a duration of 0 was added!
+:11-22-2019 18:50:36 TTOffMagicWordManager: Voila!
+:11-22-2019 18:50:40 TTOffMagicWordManager: Voila!
+:11-22-2019 18:50:44 TTOffMagicWordManager: Voila!
+:11-22-2019 18:50:47 TTOffMagicWordManager: Abracadabra!
+:11-22-2019 18:50:51 TTOffMagicWordManager: Alakazam!
+:11-22-2019 18:50:56 TTOffMagicWordManager: Presto!
+:11-22-2019 18:50:59 TTOffMagicWordManager: Voila!
+:11-22-2019 18:51:03 TTOffMagicWordManager: Alakazam!

@@ -1,0 +1,454 @@
+
+
+Starting Toontown Online...
+Current time: Mon Dec  2 22:48:28 2019 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NGX;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:12-02-2019 22:48:28 TTOffLauncher: isTestServer: 0
+:12-02-2019 22:48:28 TTOffLauncher: Game Server 127.0.0.1
+:12-02-2019 22:48:28 TTOffLauncher: Starting Toontown Online... 
+:12-02-2019 22:48:28 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:12-02-2019 22:48:28 TTOffLauncher: maybeStartGame: starting game
+:12-02-2019 22:48:28 TTOffLauncher: Starting Toontown Online...
+:12-02-2019 22:48:28 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:12-02-2019 22:48:28 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:12-02-2019 22:48:28 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:12-02-2019 22:48:28 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:12-02-2019 22:48:28 ShowBase: __dev__ == False
+:12-02-2019 22:48:28 TTOffLauncher: setting panda error code to 11
+:12-02-2019 22:48:28 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:12-02-2019 22:48:28 Loader: starting bulk load of block 'init'
+:12-02-2019 22:48:29 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:12-02-2019 22:48:29 OTPClientRepository: Using connect method 'http'
+:12-02-2019 22:48:29 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:12-02-2019 22:48:29 TTOffLauncher: checking env
+:12-02-2019 22:48:29 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:12-02-2019 22:48:29 TTOffLauncher: checking env
+:12-02-2019 22:48:29 OTPClientRepository: reg_deployment=
+:12-02-2019 22:48:29 OTPClientRepository: required-login auto.
+:12-02-2019 22:48:29 OTPClientRepository: loginInterface: LoginTTOffAccount
+:12-02-2019 22:48:29 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:12-02-2019 22:48:29 Loader: At end of block 'init', expected 138, loaded 5, duration=1.0465635
+:12-02-2019 22:48:29 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:12-02-2019 22:48:29 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:12-02-2019 22:48:29 TTOffLauncher: Stopping mini task manager.
+:12-02-2019 22:48:29 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:12-02-2019 22:48:29 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001D3EE748>}
+:12-02-2019 22:48:30 StateData: AvatarChooser.enter
+:12-02-2019 22:48:30 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-02-2019 22:48:30 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-02-2019 22:48:35 OTPClientRepository: ================
+:12-02-2019 22:48:35 OTPClientRepository: Chose avatar id: 100000007
+:12-02-2019 22:48:35 OTPClientRepository: Chose avatar name: Super Melody Jeeperbump
+:12-02-2019 22:48:35 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'l', 'f', 3, 0, 3, 3, 0, 25, 0, 25, 5, 21)
+:12-02-2019 22:48:35 OTPClientRepository: Chose avatar position: 3
+:12-02-2019 22:48:35 OTPClientRepository: isPaid: 1
+:12-02-2019 22:48:35 OTPClientRepository: freeTimeLeft: 0
+:12-02-2019 22:48:35 OTPClientRepository: allowSecretChat: True
+:12-02-2019 22:48:35 OTPClientRepository: ================
+:12-02-2019 22:48:35 AvatarChoice: QA-REGRESSION: DELETEATOON: Deleting A Toon
+:12-02-2019 22:48:36 StateData: AvatarChooser.enter
+:12-02-2019 22:48:36 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-02-2019 22:48:36 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-02-2019 22:48:38 MakeAToon: QA-REGRESSION: MAKEATOON: Starting Make A Toon
+:12-02-2019 22:48:42 Actor(warning): no part named head-front*!
+:12-02-2019 22:48:42 Actor(warning): no part named eyes*!
+:12-02-2019 22:48:42 Actor(warning): no part named head-front*!
+:12-02-2019 22:48:42 Actor(warning): no part named eyes*!
+:12-02-2019 22:48:42 Actor(warning): no part named head-front*!
+:12-02-2019 22:48:42 Actor(warning): no part named eyes*!
+:12-02-2019 22:48:49 Actor(warning): no part named head-front*!
+:12-02-2019 22:48:49 Actor(warning): no part named eyes*!
+:12-02-2019 22:48:49 Actor(warning): no part named head-front*!
+:12-02-2019 22:48:49 Actor(warning): no part named eyes*!
+:12-02-2019 22:48:49 Actor(warning): no part named head-front*!
+:12-02-2019 22:48:49 Actor(warning): no part named eyes*!
+:12-02-2019 22:49:25 NameShop: QA-REGRESSION: SKIPTUTORIAL: Skip Tutorial
+:12-02-2019 22:49:25 NameShop(warning): No dislId, using 0
+:12-02-2019 22:49:26 MakeAToon: QA-REGRESSION: MAKEATOON: Creating A Toon
+:12-02-2019 22:49:26 Loader: starting bulk load of block 'localAvatarPlayGame'
+:12-02-2019 22:49:26 ToontownTimeManager(warning): error parsing date string=
+local
+:12-02-2019 22:49:27 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:12-02-2019 22:49:27 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:12-02-2019 22:49:28 OTPClientRepository: Entering shard 401000001
+:12-02-2019 22:49:28 StreetSign: Street sign url is https://ttoffline.com/images/
+:12-02-2019 22:49:29 StreetSign: Street Sign is up to date
+:12-02-2019 22:49:29 TimeManager: Clock sync: TimeManager.announceGenerate
+:12-02-2019 22:49:29 NewsManager: setHolidayId: Starting Holiday 14
+:12-02-2019 22:49:29 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:12-02-2019 22:49:30 OTPClientRepository: No sync from TimeManager.
+:12-02-2019 22:49:30 OTPClientRepository: gotTimeSync
+:12-02-2019 22:49:30 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 7, duration=3.6956946
+:12-02-2019 22:49:30 OTPClientRepository: Sending heartbeat mid-frame.
+:12-02-2019 22:49:30 TimeManager: Clock sync roundtrip took 1069.596 ms
+:12-02-2019 22:49:30 TimeManager: AI time delta is -0:01 from server delta
+:12-02-2019 22:49:30 TimeManager: Local clock uncertainty +/- 0.535 s
+:12-02-2019 22:49:30 Loader(warning): Tried to end a block ('localAvatarPlayGame'), but not in one
+:12-02-2019 22:49:30 QuietZoneState: Requesting AI redirect from zone 0.
+:12-02-2019 22:49:30 QuietZoneState: Redirecting to zone 22000.
+:12-02-2019 22:49:30 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:12-02-2019 22:49:30 Loader: starting bulk load of block 'hood'
+:12-02-2019 22:49:31 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:49:31 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:49:31 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:49:31 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:49:31 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:49:31 DistributedToon: calling LocalAvatar.startchat
+:12-02-2019 22:49:31 Loader: At end of block 'hood', expected 8, loaded 6, duration=1.3644355
+:12-02-2019 22:49:33 Teleport(debug): teleportInDone: popup
+local
+:12-02-2019 22:50:27 TTOffMagicWordManager: Changed Duke Preciousteeth's name to holly!
+:12-02-2019 22:50:30 TTOffMagicWordManager: Set holly's nametag style successfully.
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:12-02-2019 22:50:35 :text(warning): No definition in Ironwork.egg for character U+0033 ('3')
+:12-02-2019 22:50:35 TTOffMagicWordManager: Changed holly's name to Hollybae!
+:12-02-2019 22:50:39 TTOffMagicWordManager: Set Hollybae's nametag style successfully.
+:12-02-2019 22:50:51 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:50:54 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:50:56 TTOffMagicWordManager: Voila!
+:12-02-2019 22:51:00 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:51:02 TTOffMagicWordManager: Presto!
+:12-02-2019 22:51:08 TTOffMagicWordManager: Presto!
+:12-02-2019 22:51:13 TTOffMagicWordManager: Presto!
+:12-02-2019 22:51:15 TTOffMagicWordManager: Voila!
+:12-02-2019 22:51:19 TTOffMagicWordManager: Presto!
+:12-02-2019 22:51:45 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+:12-02-2019 22:51:46 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:12-02-2019 22:51:52 TimeManager: Client disconnect reason 1.
+:12-02-2019 22:51:52 Playground: Unloading Place (22000). Fsm in final
+:12-02-2019 22:51:52 OTPClientRepository: Exiting shard
+ignoring InputState-forward
+:12-02-2019 22:51:52 OTPClientRepository: sending clientLogout
+:12-02-2019 22:51:52 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:12-02-2019 22:51:52 OTPClientRepository(warning): Disable failed. DistObj 100000013 is not in dictionary, ownerView=True
+:12-02-2019 22:51:53 StateData: AvatarChooser.enter
+:12-02-2019 22:51:53 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-02-2019 22:51:53 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-02-2019 22:51:58 OTPClientRepository: ================
+:12-02-2019 22:51:58 OTPClientRepository: Chose avatar id: 100000013
+:12-02-2019 22:51:58 OTPClientRepository: Chose avatar name: Hollybae
+:12-02-2019 22:51:58 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 26, 1, 12, 0, 6)
+:12-02-2019 22:51:58 OTPClientRepository: Chose avatar position: 5
+:12-02-2019 22:51:58 OTPClientRepository: isPaid: 1
+:12-02-2019 22:51:58 OTPClientRepository: freeTimeLeft: 0
+:12-02-2019 22:51:58 OTPClientRepository: allowSecretChat: True
+:12-02-2019 22:51:58 OTPClientRepository: ================
+:12-02-2019 22:51:58 Loader: starting bulk load of block 'localAvatarPlayGame'
+local
+:12-02-2019 22:51:59 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:12-02-2019 22:51:59 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:12-02-2019 22:52:00 OTPClientRepository: Entering shard 401000001
+:12-02-2019 22:52:00 TimeManager: Clock sync: TimeManager.announceGenerate
+:12-02-2019 22:52:00 NewsManager: setHolidayId: Starting Holiday 14
+:12-02-2019 22:52:00 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:12-02-2019 22:52:00 OTPClientRepository: No sync from TimeManager.
+:12-02-2019 22:52:00 OTPClientRepository: gotTimeSync
+:12-02-2019 22:52:00 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 6, duration=1.4968375
+:12-02-2019 22:52:00 QuietZoneState: Requesting AI redirect from zone 22000.
+:12-02-2019 22:52:00 TimeManager: Clock sync roundtrip took 63.159 ms
+:12-02-2019 22:52:00 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2019 22:52:00 ClockDelta: previous delta at -0.939 s, +/- 0.577 s.
+:12-02-2019 22:52:00 ClockDelta: new delta at -1.465 s, +/- 0.032 s.
+:12-02-2019 22:52:00 ClockDelta: intersection at -1.465 s, +/- 0.032 s.
+:12-02-2019 22:52:00 TimeManager: Local clock uncertainty +/- 0.032 s
+:12-02-2019 22:52:00 QuietZoneState: Redirecting to zone 22000.
+:12-02-2019 22:52:00 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:12-02-2019 22:52:00 Loader: starting bulk load of block 'hood'
+:12-02-2019 22:52:00 OTPClientRepository: Sending heartbeat mid-frame.
+:12-02-2019 22:52:01 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:52:01 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:52:01 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:52:01 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:52:01 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:52:01 DistributedToon: calling LocalAvatar.startchat
+:12-02-2019 22:52:01 Loader: At end of block 'hood', expected 8, loaded 3, duration=0.8172152
+:12-02-2019 22:52:02 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+:12-02-2019 22:52:03 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:12-02-2019 22:52:06 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:52:08 TimeManager: Client disconnect reason 1.
+:12-02-2019 22:52:08 Playground: Unloading Place (22000). Fsm in final
+:12-02-2019 22:52:09 OTPClientRepository: Exiting shard
+ignoring InputState-forward
+:12-02-2019 22:52:09 OTPClientRepository: sending clientLogout
+:12-02-2019 22:52:09 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:12-02-2019 22:52:09 OTPClientRepository(warning): Disable failed. DistObj 100000013 is not in dictionary, ownerView=True
+:12-02-2019 22:52:09 StateData: AvatarChooser.enter
+:12-02-2019 22:52:09 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-02-2019 22:52:09 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-02-2019 22:52:14 OTPClientRepository: ================
+:12-02-2019 22:52:14 OTPClientRepository: Chose avatar id: 100000013
+:12-02-2019 22:52:14 OTPClientRepository: Chose avatar name: Hollybae
+:12-02-2019 22:52:14 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 26, 1, 12, 0, 6)
+:12-02-2019 22:52:14 OTPClientRepository: Chose avatar position: 5
+:12-02-2019 22:52:14 OTPClientRepository: isPaid: 1
+:12-02-2019 22:52:14 OTPClientRepository: freeTimeLeft: 0
+:12-02-2019 22:52:14 OTPClientRepository: allowSecretChat: True
+:12-02-2019 22:52:14 OTPClientRepository: ================
+:12-02-2019 22:52:14 AvatarChoice: QA-REGRESSION: DELETEATOON: Deleting A Toon
+:12-02-2019 22:52:15 StateData: AvatarChooser.enter
+:12-02-2019 22:52:15 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-02-2019 22:52:15 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-02-2019 22:52:16 MakeAToon: QA-REGRESSION: MAKEATOON: Starting Make A Toon
+:12-02-2019 22:52:23 Actor(warning): no part named head-front*!
+:12-02-2019 22:52:23 Actor(warning): no part named eyes*!
+:12-02-2019 22:52:23 Actor(warning): no part named head-front*!
+:12-02-2019 22:52:23 Actor(warning): no part named eyes*!
+:12-02-2019 22:52:23 Actor(warning): no part named head-front*!
+:12-02-2019 22:52:23 Actor(warning): no part named eyes*!
+:12-02-2019 22:52:25 Actor(warning): no part named head-front*!
+:12-02-2019 22:53:28 GarbageCollect(warning): garbage found, reverting gc threshold
+:12-02-2019 22:54:21 NameCheck: checking name ""...
+:12-02-2019 22:54:21 NameCheck: name is too short
+:12-02-2019 22:54:25 NameCheck: checking name "Gay"...
+:12-02-2019 22:55:24 NameShop: QA-REGRESSION: SKIPTUTORIAL: Skip Tutorial
+:12-02-2019 22:55:25 NameShop(warning): No dislId, using 0
+:12-02-2019 22:55:25 MakeAToon: QA-REGRESSION: MAKEATOON: Creating A Toon
+:12-02-2019 22:55:26 Loader: starting bulk load of block 'localAvatarPlayGame'
+local
+:12-02-2019 22:55:26 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:12-02-2019 22:55:26 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:12-02-2019 22:55:27 OTPClientRepository: Entering shard 401000001
+:12-02-2019 22:55:27 TimeManager: Clock sync: TimeManager.announceGenerate
+:12-02-2019 22:55:27 NewsManager: setHolidayId: Starting Holiday 14
+:12-02-2019 22:55:27 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:12-02-2019 22:55:27 OTPClientRepository: No sync from TimeManager.
+:12-02-2019 22:55:27 OTPClientRepository: gotTimeSync
+:12-02-2019 22:55:27 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 6, duration=1.4970118
+:12-02-2019 22:55:27 TimeManager: Clock sync roundtrip took 50.811 ms
+:12-02-2019 22:55:27 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2019 22:55:27 ClockDelta: previous delta at -1.465 s, +/- 0.089 s.
+:12-02-2019 22:55:27 ClockDelta: new delta at -1.444 s, +/- 0.025 s.
+:12-02-2019 22:55:27 ClockDelta: intersection at -1.444 s, +/- 0.025 s.
+:12-02-2019 22:55:27 TimeManager: Local clock uncertainty +/- 0.025 s
+:12-02-2019 22:55:27 Loader(warning): Tried to end a block ('localAvatarPlayGame'), but not in one
+:12-02-2019 22:55:27 QuietZoneState: Requesting AI redirect from zone 0.
+:12-02-2019 22:55:27 QuietZoneState: Redirecting to zone 22000.
+:12-02-2019 22:55:27 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:12-02-2019 22:55:27 Loader: starting bulk load of block 'hood'
+:12-02-2019 22:55:28 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:55:28 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:55:28 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:55:28 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:55:28 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-02-2019 22:55:28 DistributedToon: calling LocalAvatar.startchat
+:12-02-2019 22:55:28 Loader: At end of block 'hood', expected 8, loaded 3, duration=0.8152379
+local
+:12-02-2019 22:56:13 TTOffMagicWordManager: Changed Super Snuffy Kookygadget's name to marinasoemthing!
+:12-02-2019 22:57:12 TTOffMagicWordManager: Voila!
+:12-02-2019 22:57:14 TTOffMagicWordManager: Alakazam!
+:12-02-2019 22:57:17 TTOffMagicWordManager: Voila!
+:12-02-2019 22:57:23 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:57:28 TTOffMagicWordManager: Presto!
+:12-02-2019 22:57:34 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:57:40 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:57:40 OTPClientRepository: Sending heartbeat mid-frame.
+:12-02-2019 22:57:44 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:57:51 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:57:54 TTOffMagicWordManager: Presto!
+:12-02-2019 22:58:01 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:58:13 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:58:18 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:58:21 TTOffMagicWordManager: Alakazam!
+:12-02-2019 22:58:27 TTOffMagicWordManager: Voila!
+:12-02-2019 22:58:33 TTOffMagicWordManager: Invalid shirt color specified!
+:12-02-2019 22:58:37 TTOffMagicWordManager: Alakazam!
+:12-02-2019 22:58:40 TTOffMagicWordManager: Presto!
+:12-02-2019 22:58:58 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:00 TTOffMagicWordManager: Presto!
+:12-02-2019 22:59:02 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:03 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:03 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:04 TTOffMagicWordManager: This command takes at least 1 argument!
+:12-02-2019 22:59:05 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:06 TTOffMagicWordManager: Alakazam!
+:12-02-2019 22:59:07 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:08 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:09 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:59:10 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:11 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:11 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:59:12 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:13 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:14 TTOffMagicWordManager: Presto!
+:12-02-2019 22:59:14 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:15 TTOffMagicWordManager: These arguments are of the wrong type!
+:12-02-2019 22:59:16 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:18 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:19 TTOffMagicWordManager: Alakazam!
+:12-02-2019 22:59:20 TTOffMagicWordManager: Presto!
+:12-02-2019 22:59:21 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:22 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 22:59:23 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:24 TTOffMagicWordManager: Alakazam!
+:12-02-2019 22:59:27 TTOffMagicWordManager: Presto!
+:12-02-2019 22:59:28 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:28 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:29 TTOffMagicWordManager: Voila!
+:12-02-2019 22:59:30 TTOffMagicWordManager: Ta-da!
+:12-02-2019 22:59:32 TTOffMagicWordManager: Ta-da!
+frame rate: 280.0 fps|0.001d|4 avs||718|719||0x0000|0x0000|1984.7MB|2056.5MB|16235.6MB|1112|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:12-02-2019 23:03:07 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:03:19 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:21 TTOffMagicWordManager: Voila!
+:12-02-2019 23:03:22 TTOffMagicWordManager: Presto!
+:12-02-2019 23:03:23 TTOffMagicWordManager: Presto!
+:12-02-2019 23:03:24 TTOffMagicWordManager: Voila!
+:12-02-2019 23:03:25 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:03:26 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:27 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:28 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:03:32 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:33 TTOffMagicWordManager: Presto!
+:12-02-2019 23:03:34 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:35 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:36 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:03:37 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:39 TTOffMagicWordManager: Voila!
+:12-02-2019 23:03:40 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:41 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:03:42 TTOffMagicWordManager: Presto!
+:12-02-2019 23:03:44 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:03:45 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:03:54 TTOffMagicWordManager: Voila!
+:12-02-2019 23:03:56 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:03:57 TTOffMagicWordManager: Voila!
+:12-02-2019 23:03:57 TTOffMagicWordManager: Voila!
+:12-02-2019 23:03:58 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:03:59 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:03:59 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:04:00 TTOffMagicWordManager: This command takes at least 1 argument!
+:12-02-2019 23:04:01 TTOffMagicWordManager: Presto!
+:12-02-2019 23:04:02 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:04:04 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:04:05 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:04:06 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:04:07 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:04:09 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:04:10 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:04:11 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:04:12 TTOffMagicWordManager: Voila!
+:12-02-2019 23:04:14 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:04:15 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:04:16 TTOffMagicWordManager: Voila!
+:12-02-2019 23:04:18 TTOffMagicWordManager: Voila!
+:12-02-2019 23:04:19 TTOffMagicWordManager: Presto!
+:12-02-2019 23:04:20 TTOffMagicWordManager: Presto!
+:12-02-2019 23:04:21 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:04:22 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:04:24 TTOffMagicWordManager: Presto!
+:12-02-2019 23:04:25 TTOffMagicWordManager: Presto!
+:12-02-2019 23:04:26 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:04:27 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:04:29 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean setsleevescolor?
+:12-02-2019 23:04:34 TTOffMagicWordManager: Abracadabra!
+:12-02-2019 23:04:36 TTOffMagicWordManager: Invalid sleeves color specified!
+:12-02-2019 23:04:37 TTOffMagicWordManager: Voila!
+:12-02-2019 23:04:38 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:04:39 TTOffMagicWordManager: Presto!
+:12-02-2019 23:04:40 TTOffMagicWordManager: Voila!
+:12-02-2019 23:04:42 TTOffMagicWordManager: Presto!
+:12-02-2019 23:04:43 TTOffMagicWordManager: Alakazam!
+:12-02-2019 23:04:44 TTOffMagicWordManager: Voila!
+:12-02-2019 23:04:45 TTOffMagicWordManager: Invalid sleeves color specified!
+:12-02-2019 23:04:46 TTOffMagicWordManager: Invalid sleeves color specified!
+:12-02-2019 23:04:48 TTOffMagicWordManager: Invalid sleeves color specified!
+:12-02-2019 23:04:49 TTOffMagicWordManager: Ta-da!
+:12-02-2019 23:05:17 TTOffMagicWordManager: Changed marinasoemthing's name to victorito!
+:12-02-2019 23:05:20 TTOffMagicWordManager: Set victorito's nametag style successfully.
+frame rate: 245.2 fps|0.001d|4 avs||1018|1019||0x0000|0x0000|2377.3MB|2449.8MB|16235.6MB|1238|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:12-02-2019 23:05:45 :text(warning): No definition in Ironwork.egg for character U+0034 ('4')
+:12-02-2019 23:05:45 TTOffMagicWordManager: Changed victorito's name to michelle will u marry me!
+:12-02-2019 23:05:49 TTOffMagicWordManager: Invalid nametag name entered.
+:12-02-2019 23:05:52 TTOffMagicWordManager: Set michelle will u marry me's nametag style successfully.
+:12-02-2019 23:05:55 ToontownChatManager: QA-REGRESSION: CHAT: Speedchat
+Traceback (most recent call last):
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\EventManager.py", line 49, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\EventManager.py", line 43, in doEvents
+    processFunc(dequeueFunc())
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\EventManager.py", line 99, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 333, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 418, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCTerminal.py", line 90, in onMouseClick
+    self.handleSelect(displayType)
+  File "otp\speedchat\SCEmoteTerminal.py", line 97, in handleSelect
+    messenger.send(self.getEventName(SCEmoteMsgEvent), [self.emoteId, displayType])
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 333, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 418, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+TypeError: handleEmoteMsg() takes exactly 2 arguments (3 given)
+:12-02-2019 23:05:56 :task(error): Exception occurred in PythonTask eventManager
+:12-02-2019 23:05:56 TTOffLauncher: setting panda error code to 12
+:12-02-2019 23:05:56 TTOffLauncher(warning): Handling Python exception.
+:12-02-2019 23:05:56 TimeManager: Client disconnect reason 3.
+:12-02-2019 23:05:56 TimeManager: Client exception: direct.showbase.Messenger:420, direct.showbase.Messenger:335, otp.speedchat.SCEmoteTerminal:97, otp.speedchat.SCTerminal:90, TypeError: handleEmoteMsg() takes exactly 2 arguments (3 given)
+:12-02-2019 23:05:56 OTPClientRepository: Sent disconnect message to server
+:12-02-2019 23:05:56 OTPClientRepository: Closing connection to server.
+:12-02-2019 23:05:56 TTOffLauncher: Exception exit.
+
+Traceback (most recent call last):
+  File "otp\launcher\LauncherBase.py", line 1081, in mainLoop
+    self._runTaskManager()
+  File "otp\launcher\LauncherBase.py", line 1052, in _runTaskManager
+    taskMgr.run()
+  File "C:\Panda3D-1.11.0-x64\direct\task\Task.py", line 528, in run
+    self.step()
+  File "C:\Panda3D-1.11.0-x64\direct\task\Task.py", line 482, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\EventManager.py", line 49, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\EventManager.py", line 43, in doEvents
+    processFunc(dequeueFunc())
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\EventManager.py", line 99, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 333, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 418, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCTerminal.py", line 90, in onMouseClick
+    self.handleSelect(displayType)
+  File "otp\speedchat\SCEmoteTerminal.py", line 97, in handleSelect
+    messenger.send(self.getEventName(SCEmoteMsgEvent), [self.emoteId, displayType])
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 333, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.11.0-x64\direct\showbase\Messenger.py", line 418, in __dispatch
+    result = method (*(extraArgs + sentArgs))
+TypeError: handleEmoteMsg() takes exactly 2 arguments (3 given)

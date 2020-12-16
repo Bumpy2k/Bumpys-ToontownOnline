@@ -1,0 +1,161 @@
+
+
+Starting Toontown Online...
+Current time: Sat Mar 21 18:05:30 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NGX;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ONEDRIVECOMMERCIAL': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR': 'C:\\Program Files\\Red Giant\\RGFX', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:03-21-2020 18:05:30 TTOffLauncher: isTestServer: 0
+:03-21-2020 18:05:30 TTOffLauncher: Game Server 127.0.0.1
+:03-21-2020 18:05:30 TTOffLauncher: Starting Toontown Online... 
+:03-21-2020 18:05:30 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:03-21-2020 18:05:30 TTOffLauncher: maybeStartGame: starting game
+:03-21-2020 18:05:30 TTOffLauncher: Starting Toontown Online...
+:03-21-2020 18:05:30 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:03-21-2020 18:05:31 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:03-21-2020 18:05:31 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:03-21-2020 18:05:32 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:03-21-2020 18:05:32 ShowBase: __dev__ == False
+:03-21-2020 18:05:32 TTOffLauncher: setting panda error code to 11
+:03-21-2020 18:05:32 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:03-21-2020 18:05:32 Loader: starting bulk load of block 'init'
+:03-21-2020 18:05:40 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:03-21-2020 18:05:40 OTPClientRepository: Using connect method 'http'
+:03-21-2020 18:05:44 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:03-21-2020 18:05:44 TTOffLauncher: checking env
+:03-21-2020 18:05:44 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:03-21-2020 18:05:44 TTOffLauncher: checking env
+:03-21-2020 18:05:44 OTPClientRepository: reg_deployment=
+:03-21-2020 18:05:44 OTPClientRepository: required-login auto.
+:03-21-2020 18:05:44 OTPClientRepository: loginInterface: LoginTTOffAccount
+:03-21-2020 18:05:44 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:03-21-2020 18:05:44 Loader: At end of block 'init', expected 138, loaded 14, duration=12.3269557
+:03-21-2020 18:05:44 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:03-21-2020 18:05:44 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:03-21-2020 18:05:44 TTOffLauncher: Stopping mini task manager.
+:03-21-2020 18:05:44 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:03-21-2020 18:05:44 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001D66C808>}
+:03-21-2020 18:05:46 StateData: AvatarChooser.enter
+:03-21-2020 18:05:46 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:03-21-2020 18:05:46 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:03-21-2020 18:05:47 OTPClientRepository: ================
+:03-21-2020 18:05:47 OTPClientRepository: Chose avatar id: 100000014
+:03-21-2020 18:05:47 OTPClientRepository: Chose avatar name: Justice Eats Ass
+:03-21-2020 18:05:47 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 18, 27, 7, 21)
+:03-21-2020 18:05:47 OTPClientRepository: Chose avatar position: 5
+:03-21-2020 18:05:47 OTPClientRepository: isPaid: 1
+:03-21-2020 18:05:47 OTPClientRepository: freeTimeLeft: 0
+:03-21-2020 18:05:47 OTPClientRepository: allowSecretChat: True
+:03-21-2020 18:05:47 OTPClientRepository: ================
+:03-21-2020 18:05:48 Loader: starting bulk load of block 'localAvatarPlayGame'
+:03-21-2020 18:05:48 ToontownTimeManager(warning): error parsing date string=
+local
+:03-21-2020 18:05:49 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:03-21-2020 18:05:49 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:03-21-2020 18:05:52 OTPClientRepository: Entering shard 401000001
+:03-21-2020 18:05:52 StreetSign: Street sign url is https://ttoffline.com/images/
+:03-21-2020 18:05:53 StreetSign: Street Sign is up to date
+:03-21-2020 18:05:53 TimeManager: Clock sync: TimeManager.announceGenerate
+:03-21-2020 18:05:53 NewsManager: setHolidayId: Starting Holiday 20
+:03-21-2020 18:05:53 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:03-21-2020 18:05:55 OTPClientRepository: No sync from TimeManager.
+:03-21-2020 18:05:55 OTPClientRepository: gotTimeSync
+:03-21-2020 18:05:55 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 23, duration=7.6744624
+:03-21-2020 18:05:55 OTPClientRepository: Sending heartbeat mid-frame.
+:03-21-2020 18:05:55 TimeManager: Clock sync roundtrip took 1821.756 ms
+:03-21-2020 18:05:55 TimeManager: AI time delta is -0:02 from server delta
+:03-21-2020 18:05:55 TimeManager: Local clock uncertainty +/- 0.911 s
+:03-21-2020 18:05:55 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:03-21-2020 18:05:55 Loader: starting bulk load of block 'hood'
+:03-21-2020 18:05:58 LawbotCogHQLoader: loadPlaceGeom: 13000
+:03-21-2020 18:05:58 DistributedObject: DistributedSuitPlanner 401002972: generating
+:03-21-2020 18:05:59 DistributedToon: calling LocalAvatar.startchat
+:03-21-2020 18:05:59 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-21-2020 18:05:59 Loader: At end of block 'hood', expected 2, loaded 16, duration=3.4972814
+:03-21-2020 18:06:00 Teleport(debug): teleportInDone: walk
+:03-21-2020 18:06:00 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0031 ('1')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0030 ('0')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0030 ('0')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0030 ('0')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0030 ('0')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0030 ('0')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0030 ('0')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0031 ('1')
+:03-21-2020 18:06:12 :text(warning): No definition in JiggeryPokery.egg for character U+0034 ('4')
+:03-21-2020 18:06:12 TTOffMagicWordManager: Changed Justice Eats Ass's name to Timogay!
+:03-21-2020 18:06:18 TTOffMagicWordManager: Invalid nametag name entered.
+:03-21-2020 18:06:22 TTOffMagicWordManager: Set Timogay's nametag style successfully.
+:03-21-2020 18:06:25 TTOffMagicWordManager: Run mode has been toggled.
+:03-21-2020 18:06:30 TTOffMagicWordManager: Alakazam!
+:03-21-2020 18:06:31 LawbotCogHQLoader: loadPlaceGeom: 13100
+:03-21-2020 18:06:31 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:03-21-2020 18:06:31 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:03-21-2020 18:06:31 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:03-21-2020 18:06:31 DistributedToon: calling LocalAvatar.startchat
+:03-21-2020 18:06:31 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-21-2020 18:06:32 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:03-21-2020 18:06:38 TTOffMagicWordManager: Gave Timogay an infinite amount of pies
+:03-21-2020 18:06:40 TTOffMagicWordManager: Run mode has been toggled.
+:03-21-2020 18:06:44 LawbotCogHQLoader: loadPlaceGeom: 61000
+:03-21-2020 18:06:44 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:03-21-2020 18:06:44 CogHQLobby: Unloading Place (13100). Fsm in final
+:03-21-2020 18:06:45 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:03-21-2020 18:06:45 DistributedToon: calling LocalAvatar.startchat
+:03-21-2020 18:06:45 OTPClientRepository: Sending heartbeat mid-frame.
+:03-21-2020 18:06:45 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:03-21-2020 18:07:00 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 Actor(warning): called actor.removeNode() on actor without calling cleanup()
+:03-21-2020 18:07:21 TTOffMagicWordManager: Restarting Scale Round
+:03-21-2020 18:07:22 :linmath(warning): Tried to invert singular LMatrix3.
+adding timeout task
+adding timeout task
+:03-21-2020 18:10:33 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 243.8 fps|0.001d|12 avs||320|322||0x0000|0x0000|969.0MB|1076.4MB|16235.6MB|549|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 270.0 fps|0.001d|12 avs||620|622||0x0000|0x0000|1289.0MB|1397.1MB|16235.6MB|653|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 241.8 fps|0.001d|12 avs||920|922||0x0000|0x0000|1589.5MB|1698.0MB|16235.6MB|754|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 273.9 fps|0.001d|12 avs||1220|1222||0x0000|0x0000|1898.5MB|2007.8MB|16235.6MB|883|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0031 ('1')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0030 ('0')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0030 ('0')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0030 ('0')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0030 ('0')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0030 ('0')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0030 ('0')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0031 ('1')
+:03-21-2020 18:30:13 :text(warning): No definition in Musicals.egg for character U+0034 ('4')
+:03-21-2020 18:30:13 TTOffMagicWordManager: Changed Timogay's name to Holland!
+:03-21-2020 18:30:17 TTOffMagicWordManager: Set Holland's nametag style successfully.
+frame rate: 240.1 fps|0.001d|12 avs||1520|1522||0x0000|0x0000|2185.6MB|2295.3MB|16235.6MB|979|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task

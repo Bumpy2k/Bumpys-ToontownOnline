@@ -1,0 +1,307 @@
+
+
+Starting Toontown Online...
+Current time: Sun Apr  5 10:14:11 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NGX;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ONEDRIVECOMMERCIAL': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR': 'C:\\Program Files\\Red Giant\\RGFX', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:04-05-2020 10:14:11 TTOffLauncher: isTestServer: 0
+:04-05-2020 10:14:11 TTOffLauncher: Game Server 127.0.0.1
+:04-05-2020 10:14:11 TTOffLauncher: Starting Toontown Online... 
+:04-05-2020 10:14:11 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:04-05-2020 10:14:11 TTOffLauncher: maybeStartGame: starting game
+:04-05-2020 10:14:11 TTOffLauncher: Starting Toontown Online...
+:04-05-2020 10:14:11 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:04-05-2020 10:14:11 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:04-05-2020 10:14:11 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:04-05-2020 10:14:12 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:04-05-2020 10:14:12 ShowBase: __dev__ == False
+:04-05-2020 10:14:12 TTOffLauncher: setting panda error code to 11
+:04-05-2020 10:14:12 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:04-05-2020 10:14:12 Loader: starting bulk load of block 'init'
+:04-05-2020 10:14:20 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:04-05-2020 10:14:20 OTPClientRepository: Using connect method 'http'
+:04-05-2020 10:14:24 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:04-05-2020 10:14:24 TTOffLauncher: checking env
+:04-05-2020 10:14:24 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:04-05-2020 10:14:24 TTOffLauncher: checking env
+:04-05-2020 10:14:24 OTPClientRepository: reg_deployment=
+:04-05-2020 10:14:24 OTPClientRepository: required-login auto.
+:04-05-2020 10:14:24 OTPClientRepository: loginInterface: LoginTTOffAccount
+:04-05-2020 10:14:24 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:04-05-2020 10:14:25 Loader: At end of block 'init', expected 138, loaded 13, duration=12.1392483
+:04-05-2020 10:14:25 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:04-05-2020 10:14:25 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:04-05-2020 10:14:25 TTOffLauncher: Stopping mini task manager.
+:04-05-2020 10:14:25 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:04-05-2020 10:14:25 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001CDFF788>}
+:04-05-2020 10:14:26 StateData: AvatarChooser.enter
+:04-05-2020 10:14:26 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:04-05-2020 10:14:26 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:04-05-2020 10:14:31 OTPClientRepository: ================
+:04-05-2020 10:14:31 OTPClientRepository: Chose avatar id: 100000006
+:04-05-2020 10:14:31 OTPClientRepository: Chose avatar name: Harmony
+:04-05-2020 10:14:31 OTPClientRepository: Chose avatar dna: ('css', 'md', 'l', 'f', 24, 0, 24, 24, 0, 27, 0, 27, 3, 27)
+:04-05-2020 10:14:31 OTPClientRepository: Chose avatar position: 4
+:04-05-2020 10:14:31 OTPClientRepository: isPaid: 1
+:04-05-2020 10:14:31 OTPClientRepository: freeTimeLeft: 0
+:04-05-2020 10:14:31 OTPClientRepository: allowSecretChat: True
+:04-05-2020 10:14:31 OTPClientRepository: ================
+:04-05-2020 10:14:32 Loader: starting bulk load of block 'localAvatarPlayGame'
+:04-05-2020 10:14:32 ToontownTimeManager(warning): error parsing date string=
+local
+:04-05-2020 10:14:33 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:04-05-2020 10:14:33 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:04-05-2020 10:14:35 OTPClientRepository: Sending heartbeat mid-frame.
+:04-05-2020 10:14:35 OTPClientRepository: Entering shard 401000001
+:04-05-2020 10:14:35 StreetSign: Street sign url is https://ttoffline.com/images/
+:04-05-2020 10:14:37 StreetSign: Street Sign is up to date
+:04-05-2020 10:14:37 TimeManager: Clock sync: TimeManager.announceGenerate
+:04-05-2020 10:14:37 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:04-05-2020 10:14:39 OTPClientRepository: No sync from TimeManager.
+:04-05-2020 10:14:39 OTPClientRepository: gotTimeSync
+:04-05-2020 10:14:39 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 19, duration=7.7640423
+:04-05-2020 10:14:39 TimeManager: Clock sync roundtrip took 2016.091 ms
+:04-05-2020 10:14:39 TimeManager: AI time delta is -0:02 from server delta
+:04-05-2020 10:14:39 TimeManager: Local clock uncertainty +/- 1.008 s
+:04-05-2020 10:14:39 TimeManager: Uncertainty is too high, trying again.
+:04-05-2020 10:14:39 QuietZoneState: Requesting AI redirect from zone 22000.
+:04-05-2020 10:14:39 TimeManager: Clock sync roundtrip took 87.720 ms
+:04-05-2020 10:14:39 TimeManager: AI time delta is -0:00 from server delta
+:04-05-2020 10:14:39 ClockDelta: previous delta at 0.276 s, +/- 1.008 s.
+:04-05-2020 10:14:39 ClockDelta: new delta at -0.712 s, +/- 0.044 s.
+:04-05-2020 10:14:39 ClockDelta: intersection at -0.700 s, +/- 0.032 s.
+:04-05-2020 10:14:39 TimeManager: Local clock uncertainty +/- 0.033 s
+:04-05-2020 10:14:39 QuietZoneState: Redirecting to zone 22000.
+:04-05-2020 10:14:39 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:04-05-2020 10:14:39 Loader: starting bulk load of block 'hood'
+:04-05-2020 10:14:44 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:14:44 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:14:44 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:14:44 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:14:44 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:14:44 DistributedToon: calling LocalAvatar.startchat
+:04-05-2020 10:14:44 Loader: At end of block 'hood', expected 8, loaded 22, duration=4.6359279
+:04-05-2020 10:14:45 Teleport(debug): teleportInDone: popup
+local
+:04-05-2020 10:14:50 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+:04-05-2020 10:14:52 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:04-05-2020 10:14:57 TimeManager: Client disconnect reason 1.
+:04-05-2020 10:14:57 Playground: Unloading Place (22000). Fsm in final
+:04-05-2020 10:14:57 OTPClientRepository: Exiting shard
+ignoring InputState-forward
+:04-05-2020 10:14:58 OTPClientRepository: sending clientLogout
+:04-05-2020 10:14:58 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:04-05-2020 10:14:58 OTPClientRepository(warning): Disable failed. DistObj 100000006 is not in dictionary, ownerView=True
+:04-05-2020 10:14:58 StateData: AvatarChooser.enter
+:04-05-2020 10:14:58 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:04-05-2020 10:14:58 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:04-05-2020 10:15:05 OTPClientRepository: ================
+:04-05-2020 10:15:05 OTPClientRepository: Chose avatar id: 100000006
+:04-05-2020 10:15:05 OTPClientRepository: Chose avatar name: Harmony
+:04-05-2020 10:15:05 OTPClientRepository: Chose avatar dna: ('css', 'md', 'l', 'f', 24, 0, 24, 24, 0, 27, 0, 27, 3, 27)
+:04-05-2020 10:15:05 OTPClientRepository: Chose avatar position: 4
+:04-05-2020 10:15:05 OTPClientRepository: isPaid: 1
+:04-05-2020 10:15:05 OTPClientRepository: freeTimeLeft: 0
+:04-05-2020 10:15:05 OTPClientRepository: allowSecretChat: True
+:04-05-2020 10:15:05 OTPClientRepository: ================
+:04-05-2020 10:15:05 AvatarChoice: QA-REGRESSION: DELETEATOON: Deleting A Toon
+:04-05-2020 10:15:06 StateData: AvatarChooser.enter
+:04-05-2020 10:15:06 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:04-05-2020 10:15:06 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:04-05-2020 10:15:08 MakeAToon: QA-REGRESSION: MAKEATOON: Starting Make A Toon
+:04-05-2020 10:15:11 Actor(warning): no part named head-front*!
+:04-05-2020 10:15:43 NameShop: QA-REGRESSION: SKIPTUTORIAL: Skip Tutorial
+:04-05-2020 10:15:43 NameShop(warning): No dislId, using 0
+:04-05-2020 10:15:43 MakeAToon: QA-REGRESSION: MAKEATOON: Creating A Toon
+:04-05-2020 10:15:44 Loader: starting bulk load of block 'localAvatarPlayGame'
+local
+:04-05-2020 10:15:44 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:04-05-2020 10:15:45 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:04-05-2020 10:15:45 OTPClientRepository: Sending heartbeat mid-frame.
+:04-05-2020 10:15:45 OTPClientRepository: Entering shard 401000001
+:04-05-2020 10:15:45 TimeManager: Clock sync: TimeManager.announceGenerate
+:04-05-2020 10:15:45 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:04-05-2020 10:15:45 OTPClientRepository: No sync from TimeManager.
+:04-05-2020 10:15:45 OTPClientRepository: gotTimeSync
+:04-05-2020 10:15:45 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 6, duration=1.4294339
+:04-05-2020 10:15:45 TimeManager: Clock sync roundtrip took 50.448 ms
+:04-05-2020 10:15:45 TimeManager: AI time delta is -0:00 from server delta
+:04-05-2020 10:15:45 ClockDelta: previous delta at -0.700 s, +/- 0.051 s.
+:04-05-2020 10:15:45 ClockDelta: new delta at -0.695 s, +/- 0.025 s.
+:04-05-2020 10:15:45 ClockDelta: intersection at -0.695 s, +/- 0.025 s.
+:04-05-2020 10:15:45 TimeManager: Local clock uncertainty +/- 0.025 s
+:04-05-2020 10:15:46 Loader(warning): Tried to end a block ('localAvatarPlayGame'), but not in one
+:04-05-2020 10:15:46 QuietZoneState: Requesting AI redirect from zone 0.
+:04-05-2020 10:15:46 QuietZoneState: Redirecting to zone 22000.
+:04-05-2020 10:15:46 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:04-05-2020 10:15:46 Loader: starting bulk load of block 'hood'
+:04-05-2020 10:15:46 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:15:46 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:15:46 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:15:46 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:15:46 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:15:46 DistributedToon: calling LocalAvatar.startchat
+:04-05-2020 10:15:46 Loader: At end of block 'hood', expected 8, loaded 3, duration=0.8376853
+:04-05-2020 10:15:48 Teleport(debug): teleportInDone: popup
+local
+:04-05-2020 10:15:56 TTOffMagicWordManager: Changed Slumpy's name to JUSTICE FYB!
+:04-05-2020 10:15:59 TTOffMagicWordManager: Set JUSTICE FYB's nametag style successfully.
+:04-05-2020 10:16:05 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:04-05-2020 10:16:06 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Browse tabs Spellbook
+:04-05-2020 10:16:21 TTOffMagicWordManager: Alakazam!
+:04-05-2020 10:16:22 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:04-05-2020 10:16:24 TTOffMagicWordManager: Presto!
+:04-05-2020 10:16:29 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:04-05-2020 10:16:31 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Browse tabs Spellbook
+:04-05-2020 10:17:49 TTOffMagicWordManager: Presto!
+:04-05-2020 10:17:55 TTOffMagicWordManager: Alakazam!
+:04-05-2020 10:19:13 GarbageCollect(warning): garbage found, reverting gc threshold
+:04-05-2020 10:19:35 TTOffMagicWordManager: Alakazam!
+:04-05-2020 10:19:38 TTOffMagicWordManager: Voila!
+:04-05-2020 10:20:08 TTOffMagicWordManager: Ta-da!
+:04-05-2020 10:20:12 TTOffMagicWordManager: Voila!
+:04-05-2020 10:20:12 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:04-05-2020 10:20:18 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+:04-05-2020 10:20:19 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:04-05-2020 10:20:25 TimeManager: Client disconnect reason 1.
+:04-05-2020 10:20:25 Playground: Unloading Place (22000). Fsm in final
+:04-05-2020 10:20:25 OTPClientRepository: Exiting shard
+:04-05-2020 10:20:25 OTPClientRepository: Sending heartbeat mid-frame.
+ignoring InputState-forward
+:04-05-2020 10:20:25 OTPClientRepository: sending clientLogout
+:04-05-2020 10:20:25 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:04-05-2020 10:20:25 OTPClientRepository(warning): Disable failed. DistObj 100000040 is not in dictionary, ownerView=True
+:04-05-2020 10:20:26 StateData: AvatarChooser.enter
+:04-05-2020 10:20:26 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:04-05-2020 10:20:26 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:04-05-2020 10:20:27 OTPClientRepository: ================
+:04-05-2020 10:20:27 OTPClientRepository: Chose avatar id: 100000040
+:04-05-2020 10:20:27 OTPClientRepository: Chose avatar name: JUSTICE FYB
+:04-05-2020 10:20:27 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 22, 0, 17, 22, 86, 27, 75, 27, 28, 28)
+:04-05-2020 10:20:27 OTPClientRepository: Chose avatar position: 4
+:04-05-2020 10:20:27 OTPClientRepository: isPaid: 1
+:04-05-2020 10:20:27 OTPClientRepository: freeTimeLeft: 0
+:04-05-2020 10:20:27 OTPClientRepository: allowSecretChat: True
+:04-05-2020 10:20:27 OTPClientRepository: ================
+:04-05-2020 10:20:27 Loader: starting bulk load of block 'localAvatarPlayGame'
+local
+:04-05-2020 10:20:28 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:04-05-2020 10:20:28 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:04-05-2020 10:20:29 OTPClientRepository: Entering shard 401000001
+:04-05-2020 10:20:29 TimeManager: Clock sync: TimeManager.announceGenerate
+:04-05-2020 10:20:29 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:04-05-2020 10:20:29 OTPClientRepository: No sync from TimeManager.
+:04-05-2020 10:20:29 OTPClientRepository: gotTimeSync
+:04-05-2020 10:20:29 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 6, duration=1.4223378
+:04-05-2020 10:20:29 TimeManager: Clock sync roundtrip took 47.779 ms
+:04-05-2020 10:20:29 TimeManager: AI time delta is -0:00 from server delta
+:04-05-2020 10:20:29 ClockDelta: previous delta at -0.695 s, +/- 0.104 s.
+:04-05-2020 10:20:29 ClockDelta: new delta at -0.690 s, +/- 0.024 s.
+:04-05-2020 10:20:29 ClockDelta: intersection at -0.690 s, +/- 0.024 s.
+:04-05-2020 10:20:29 TimeManager: Local clock uncertainty +/- 0.024 s
+:04-05-2020 10:20:29 QuietZoneState: Requesting AI redirect from zone 22000.
+:04-05-2020 10:20:29 QuietZoneState: Redirecting to zone 22000.
+:04-05-2020 10:20:29 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:04-05-2020 10:20:29 Loader: starting bulk load of block 'hood'
+:04-05-2020 10:20:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:29 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:29 DistributedToon: calling LocalAvatar.startchat
+:04-05-2020 10:20:29 Loader: At end of block 'hood', expected 8, loaded 3, duration=0.7722123
+:04-05-2020 10:20:37 TTOffMagicWordManager: Abracadabra!
+:04-05-2020 10:20:39 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+:04-05-2020 10:20:40 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:04-05-2020 10:20:46 TimeManager: Client disconnect reason 1.
+:04-05-2020 10:20:46 Playground: Unloading Place (22000). Fsm in final
+:04-05-2020 10:20:46 OTPClientRepository: Exiting shard
+ignoring InputState-forward
+:04-05-2020 10:20:46 OTPClientRepository: sending clientLogout
+:04-05-2020 10:20:46 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:04-05-2020 10:20:46 OTPClientRepository(warning): Disable failed. DistObj 100000040 is not in dictionary, ownerView=True
+:04-05-2020 10:20:47 StateData: AvatarChooser.enter
+:04-05-2020 10:20:47 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:04-05-2020 10:20:47 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:04-05-2020 10:20:48 OTPClientRepository: ================
+:04-05-2020 10:20:48 OTPClientRepository: Chose avatar id: 100000040
+:04-05-2020 10:20:48 OTPClientRepository: Chose avatar name: JUSTICE FYB
+:04-05-2020 10:20:48 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'f', 22, 0, 17, 22, 86, 27, 75, 27, 28, 27)
+:04-05-2020 10:20:48 OTPClientRepository: Chose avatar position: 4
+:04-05-2020 10:20:48 OTPClientRepository: isPaid: 1
+:04-05-2020 10:20:48 OTPClientRepository: freeTimeLeft: 0
+:04-05-2020 10:20:48 OTPClientRepository: allowSecretChat: True
+:04-05-2020 10:20:48 OTPClientRepository: ================
+:04-05-2020 10:20:48 Loader: starting bulk load of block 'localAvatarPlayGame'
+local
+:04-05-2020 10:20:48 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:04-05-2020 10:20:48 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:04-05-2020 10:20:49 OTPClientRepository: Entering shard 401000001
+:04-05-2020 10:20:49 TimeManager: Clock sync: TimeManager.announceGenerate
+:04-05-2020 10:20:49 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:04-05-2020 10:20:49 OTPClientRepository: No sync from TimeManager.
+:04-05-2020 10:20:49 OTPClientRepository: gotTimeSync
+:04-05-2020 10:20:49 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 6, duration=1.4181424
+:04-05-2020 10:20:49 QuietZoneState: Requesting AI redirect from zone 22000.
+:04-05-2020 10:20:49 TimeManager: Clock sync roundtrip took 59.550 ms
+:04-05-2020 10:20:49 TimeManager: AI time delta is -0:00 from server delta
+:04-05-2020 10:20:49 ClockDelta: previous delta at -0.690 s, +/- 0.030 s.
+:04-05-2020 10:20:49 ClockDelta: new delta at -0.702 s, +/- 0.030 s.
+:04-05-2020 10:20:49 ClockDelta: intersection at -0.696 s, +/- 0.024 s.
+:04-05-2020 10:20:49 TimeManager: Local clock uncertainty +/- 0.024 s
+:04-05-2020 10:20:49 QuietZoneState: Redirecting to zone 22000.
+:04-05-2020 10:20:49 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:04-05-2020 10:20:49 Loader: starting bulk load of block 'hood'
+:04-05-2020 10:20:50 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:50 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:50 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:50 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:50 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:04-05-2020 10:20:50 DistributedToon: calling LocalAvatar.startchat
+:04-05-2020 10:20:50 Loader: At end of block 'hood', expected 8, loaded 3, duration=0.7759464
+:04-05-2020 10:21:05 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:04-05-2020 10:21:13 TTOffMagicWordManager: Maxed out JUSTICE FYB's stats.
+:04-05-2020 10:21:16 TTOffMagicWordManager: JUSTICE FYB's max laff has been set to 137.
+:04-05-2020 10:21:17 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:04-05-2020 10:21:32 ToonBase: User closed main window.
+:04-05-2020 10:21:32 TimeManager: Client disconnect reason 2.
+:04-05-2020 10:21:32 Playground: Unloading Place (22000). Fsm in final
+:04-05-2020 10:21:33 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:04-05-2020 10:21:33 OTPClientRepository: sending clientLogout
+:04-05-2020 10:21:33 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:04-05-2020 10:21:33 OTPClientRepository: Sent disconnect message to server
+:04-05-2020 10:21:33 OTPClientRepository: Closing connection to server.
+:04-05-2020 10:21:33 OTPClientRepository: Exiting cleanly
+:04-05-2020 10:21:33 ToonBase: Exiting Toontown: errorCode = None
+:04-05-2020 10:21:33 TTOffLauncher: setting panda error code to 0
+:04-05-2020 10:21:33 TTOffLauncher: Normal exit.

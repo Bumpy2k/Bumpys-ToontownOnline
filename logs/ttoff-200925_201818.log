@@ -1,0 +1,145 @@
+
+
+Starting Toontown Online...
+Current time: Fri Sep 25 20:18:18 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'ONEDRIVECONSUMER': 'C:\\Users\\holla\\OneDrive', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:09-25-2020 20:18:18 TTOffLauncher: isTestServer: 0
+:09-25-2020 20:18:18 TTOffLauncher: Game Server 127.0.0.1
+:09-25-2020 20:18:18 TTOffLauncher: Starting Toontown Online... 
+:09-25-2020 20:18:18 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:09-25-2020 20:18:18 TTOffLauncher: maybeStartGame: starting game
+:09-25-2020 20:18:18 TTOffLauncher: Starting Toontown Online...
+:09-25-2020 20:18:18 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:09-25-2020 20:18:18 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:09-25-2020 20:18:18 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:09-25-2020 20:18:18 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:09-25-2020 20:18:18 ShowBase: __dev__ == False
+:09-25-2020 20:18:18 TTOffLauncher: setting panda error code to 11
+:09-25-2020 20:18:18 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:09-25-2020 20:18:18 Loader: starting bulk load of block 'init'
+:09-25-2020 20:18:19 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:09-25-2020 20:18:19 OTPClientRepository: Using connect method 'http'
+:09-25-2020 20:18:20 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:09-25-2020 20:18:20 TTOffLauncher: checking env
+:09-25-2020 20:18:20 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:09-25-2020 20:18:20 TTOffLauncher: checking env
+:09-25-2020 20:18:20 OTPClientRepository: reg_deployment=
+:09-25-2020 20:18:20 OTPClientRepository: required-login auto.
+:09-25-2020 20:18:20 OTPClientRepository: loginInterface: LoginTTOffAccount
+:09-25-2020 20:18:20 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:09-25-2020 20:18:20 Loader: At end of block 'init', expected 138, loaded 7, duration=1.4168225
+:09-25-2020 20:18:20 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:09-25-2020 20:18:20 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:09-25-2020 20:18:20 TTOffLauncher: Stopping mini task manager.
+:09-25-2020 20:18:20 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:09-25-2020 20:18:20 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x0000000019E94788>}
+:09-25-2020 20:18:21 StateData: AvatarChooser.enter
+:09-25-2020 20:18:21 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:09-25-2020 20:18:21 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:09-25-2020 20:18:24 OTPClientRepository: ================
+:09-25-2020 20:18:24 OTPClientRepository: Chose avatar id: 100000044
+:09-25-2020 20:18:24 OTPClientRepository: Chose avatar name: Food
+:09-25-2020 20:18:24 OTPClientRepository: Chose avatar dna: ('mss', 'md', 's', 'f', 19, 0, 21, 19, 0, 22, 0, 22, 0, 27)
+:09-25-2020 20:18:24 OTPClientRepository: Chose avatar position: 4
+:09-25-2020 20:18:24 OTPClientRepository: isPaid: 1
+:09-25-2020 20:18:24 OTPClientRepository: freeTimeLeft: 0
+:09-25-2020 20:18:24 OTPClientRepository: allowSecretChat: True
+:09-25-2020 20:18:24 OTPClientRepository: ================
+:09-25-2020 20:18:24 Loader: starting bulk load of block 'localAvatarPlayGame'
+:09-25-2020 20:18:24 ToontownTimeManager(warning): error parsing date string=
+local
+:09-25-2020 20:18:24 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:09-25-2020 20:18:25 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:09-25-2020 20:18:26 OTPClientRepository: Entering shard 401000001
+:09-25-2020 20:18:26 StreetSign: Street sign url is https://ttoffline.com/images/
+:09-25-2020 20:18:27 StreetSign: Street Sign is up to date
+:09-25-2020 20:18:27 TimeManager: Clock sync: TimeManager.announceGenerate
+:09-25-2020 20:18:27 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.696,3.696|6,12 cpus
+:09-25-2020 20:18:28 OTPClientRepository: No sync from TimeManager.
+:09-25-2020 20:18:28 OTPClientRepository: gotTimeSync
+:09-25-2020 20:18:28 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 9, duration=4.1971065
+:09-25-2020 20:18:28 TimeManager: Clock sync roundtrip took 1094.875 ms
+:09-25-2020 20:18:28 TimeManager: AI time delta is -0:01 from server delta
+:09-25-2020 20:18:28 TimeManager: Local clock uncertainty +/- 0.548 s
+:09-25-2020 20:18:28 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:09-25-2020 20:18:28 Loader: starting bulk load of block 'hood'
+:09-25-2020 20:18:29 LawbotCogHQLoader: loadPlaceGeom: 13000
+:09-25-2020 20:18:29 DistributedObject: DistributedSuitPlanner 401002972: generating
+:09-25-2020 20:18:29 DistributedToon: calling LocalAvatar.startchat
+:09-25-2020 20:18:29 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:09-25-2020 20:18:29 Loader: At end of block 'hood', expected 2, loaded 2, duration=0.5522521
+:09-25-2020 20:18:30 Teleport(debug): teleportInDone: walk
+:09-25-2020 20:18:30 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:09-25-2020 20:18:33 TTOffMagicWordManager: God mode enabled for Food!
+:09-25-2020 20:18:40 LawbotCogHQLoader: loadPlaceGeom: 13100
+:09-25-2020 20:18:40 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:09-25-2020 20:18:40 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:09-25-2020 20:18:40 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:09-25-2020 20:18:40 DistributedToon: calling LocalAvatar.startchat
+:09-25-2020 20:18:40 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:09-25-2020 20:18:41 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:09-25-2020 20:19:22 TTOffMagicWordManager: Run mode has been toggled.
+:09-25-2020 20:19:26 TTOffMagicWordManager: Gave Food an infinite amount of pies
+:09-25-2020 20:19:30 LawbotCogHQLoader: loadPlaceGeom: 61000
+:09-25-2020 20:19:30 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:09-25-2020 20:19:30 CogHQLobby: Unloading Place (13100). Fsm in final
+:09-25-2020 20:19:30 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:09-25-2020 20:19:30 DistributedToon: calling LocalAvatar.startchat
+:09-25-2020 20:19:30 OTPClientRepository: Sending heartbeat mid-frame.
+:09-25-2020 20:19:30 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:09-25-2020 20:19:32 TTOffMagicWordManager: Restarting Scale Round
+:09-25-2020 20:21:02 :linmath(warning): Tried to invert singular LMatrix3.
+:09-25-2020 20:23:19 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 172.0 fps|0.002d|13 avs||307|308||0x0000|0x0000|632.1MB|749.4MB|32619.6MB|442|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+frame rate: 178.6 fps|0.001d|13 avs||607|608||0x0000|0x0000|674.7MB|792.0MB|32619.6MB|492|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:09-25-2020 20:31:44 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-54.3441, -6.2509, -0.000323147)).
+:09-25-2020 20:31:44 TTOffMagicWordManager: Restarting Scale Round
+:09-25-2020 20:31:53 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-68.0528, 0.183322, 0)).
+:09-25-2020 20:31:53 TTOffMagicWordManager: Restarting Scale Round
+frame rate: 175.6 fps|0.001d|13 avs||907|908||0x0000|0x0000|715.6MB|833.2MB|32619.6MB|531|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+frame rate: 177.0 fps|0.001d|13 avs||1207|1208||0x0000|0x0000|744.0MB|861.7MB|32619.6MB|538|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:09-25-2020 20:41:32 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-50.6049, 21.9969, -0.000306972)).
+:09-25-2020 20:41:32 TTOffMagicWordManager: Restarting Scale Round
+frame rate: 174.2 fps|0.001d|13 avs||1507|1508||0x0000|0x0000|776.7MB|894.5MB|32619.6MB|565|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:09-25-2020 20:43:42 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-48.8195, 23.1382, 0.000162593)).
+:09-25-2020 20:43:42 TTOffMagicWordManager: Restarting Scale Round
+:09-25-2020 20:48:26 TimeManager: Clock sync: timer
+frame rate: 175.5 fps|0.001d|13 avs||1807|1808||0x0000|0x0000|811.5MB|929.3MB|32619.6MB|574|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:09-25-2020 20:48:26 TimeManager: Clock sync roundtrip took 95.608 ms
+:09-25-2020 20:48:26 TimeManager: AI time delta is -0:00 from server delta
+:09-25-2020 20:48:26 ClockDelta: previous delta at -0.984 s, +/- 1.047 s.
+:09-25-2020 20:48:26 ClockDelta: new delta at -1.484 s, +/- 0.048 s.
+:09-25-2020 20:48:26 ClockDelta: intersection at -1.484 s, +/- 0.048 s.
+:09-25-2020 20:48:26 TimeManager: Local clock uncertainty +/- 0.048 s
+:09-25-2020 20:52:52 :linmath(warning): Tried to invert singular LMatrix3.
+frame rate: 175.8 fps|0.001d|13 avs||2107|2108||0x0000|0x0000|846.4MB|964.3MB|32619.6MB|583|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+frame rate: 172.9 fps|0.001d|13 avs||2407|2408||0x0000|0x0000|882.8MB|1000.6MB|32619.6MB|592|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+frame rate: 177.7 fps|0.001d|13 avs||2707|2708||0x0000|0x0000|917.9MB|1036.0MB|32619.6MB|630|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:09-25-2020 21:06:25 ToonBase: User closed main window.
+:09-25-2020 21:06:25 TimeManager: Client disconnect reason 2.
+:09-25-2020 21:06:25 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:09-25-2020 21:06:25 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:09-25-2020 21:06:25 OTPClientRepository: sending clientLogout
+:09-25-2020 21:06:25 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:09-25-2020 21:06:25 OTPClientRepository: Sent disconnect message to server
+:09-25-2020 21:06:25 OTPClientRepository: Closing connection to server.
+:09-25-2020 21:06:25 OTPClientRepository: Exiting cleanly
+:09-25-2020 21:06:25 ToonBase: Exiting Toontown: errorCode = None
+:09-25-2020 21:06:25 TTOffLauncher: setting panda error code to 0
+:09-25-2020 21:06:25 TTOffLauncher: Normal exit.

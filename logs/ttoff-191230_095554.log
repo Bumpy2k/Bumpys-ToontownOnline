@@ -1,0 +1,246 @@
+
+
+Starting Toontown Online...
+Current time: Mon Dec 30 09:55:54 2019 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NGX;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:12-30-2019 09:55:54 TTOffLauncher: isTestServer: 0
+:12-30-2019 09:55:54 TTOffLauncher: Game Server 127.0.0.1
+:12-30-2019 09:55:54 TTOffLauncher: Starting Toontown Online... 
+:12-30-2019 09:55:54 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:12-30-2019 09:55:54 TTOffLauncher: maybeStartGame: starting game
+:12-30-2019 09:55:54 TTOffLauncher: Starting Toontown Online...
+:12-30-2019 09:55:54 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:12-30-2019 09:55:54 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:12-30-2019 09:55:54 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:12-30-2019 09:55:55 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:12-30-2019 09:55:55 ShowBase: __dev__ == False
+:12-30-2019 09:55:55 TTOffLauncher: setting panda error code to 11
+:12-30-2019 09:55:55 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:12-30-2019 09:55:55 Loader: starting bulk load of block 'init'
+:12-30-2019 09:55:59 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:12-30-2019 09:55:59 OTPClientRepository: Using connect method 'http'
+:12-30-2019 09:56:03 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:12-30-2019 09:56:03 TTOffLauncher: checking env
+:12-30-2019 09:56:03 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:12-30-2019 09:56:03 TTOffLauncher: checking env
+:12-30-2019 09:56:03 OTPClientRepository: reg_deployment=
+:12-30-2019 09:56:03 OTPClientRepository: required-login auto.
+:12-30-2019 09:56:03 OTPClientRepository: loginInterface: LoginTTOffAccount
+:12-30-2019 09:56:03 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:12-30-2019 09:56:03 Loader: At end of block 'init', expected 138, loaded 10, duration=8.3325071
+:12-30-2019 09:56:03 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:12-30-2019 09:56:03 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:12-30-2019 09:56:03 TTOffLauncher: Stopping mini task manager.
+:12-30-2019 09:56:03 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:12-30-2019 09:56:03 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001D5AF708>}
+:12-30-2019 09:56:04 StateData: AvatarChooser.enter
+:12-30-2019 09:56:04 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-30-2019 09:56:04 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-30-2019 09:56:08 OTPClientRepository: ================
+:12-30-2019 09:56:08 OTPClientRepository: Chose avatar id: 100000014
+:12-30-2019 09:56:08 OTPClientRepository: Chose avatar name: Hollybae
+:12-30-2019 09:56:08 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 18, 27, 7, 21)
+:12-30-2019 09:56:08 OTPClientRepository: Chose avatar position: 5
+:12-30-2019 09:56:08 OTPClientRepository: isPaid: 1
+:12-30-2019 09:56:08 OTPClientRepository: freeTimeLeft: 0
+:12-30-2019 09:56:08 OTPClientRepository: allowSecretChat: True
+:12-30-2019 09:56:08 OTPClientRepository: ================
+:12-30-2019 09:56:08 Loader: starting bulk load of block 'localAvatarPlayGame'
+:12-30-2019 09:56:08 ToontownTimeManager(warning): error parsing date string=
+local
+:12-30-2019 09:56:09 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:12-30-2019 09:56:09 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:12-30-2019 09:56:11 OTPClientRepository: Entering shard 401000001
+:12-30-2019 09:56:11 StreetSign: Street sign url is https://ttoffline.com/images/
+:12-30-2019 09:56:12 StreetSign: Street Sign is up to date
+:12-30-2019 09:56:12 TimeManager: Clock sync: TimeManager.announceGenerate
+:12-30-2019 09:56:12 NewsManager: setHolidayId: Starting Holiday 14
+:12-30-2019 09:56:12 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:12-30-2019 09:56:14 OTPClientRepository: No sync from TimeManager.
+:12-30-2019 09:56:14 OTPClientRepository: gotTimeSync
+:12-30-2019 09:56:14 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 14, duration=6.3239254
+:12-30-2019 09:56:14 OTPClientRepository: Sending heartbeat mid-frame.
+:12-30-2019 09:56:14 TimeManager: Clock sync roundtrip took 1798.351 ms
+:12-30-2019 09:56:14 TimeManager: AI time delta is -0:02 from server delta
+:12-30-2019 09:56:14 TimeManager: Local clock uncertainty +/- 0.899 s
+:12-30-2019 09:56:14 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:12-30-2019 09:56:14 Loader: starting bulk load of block 'hood'
+:12-30-2019 09:56:16 LawbotCogHQLoader: loadPlaceGeom: 13000
+:12-30-2019 09:56:16 DistributedObject: DistributedSuitPlanner 401002972: generating
+:12-30-2019 09:56:16 DistributedToon: calling LocalAvatar.startchat
+:12-30-2019 09:56:16 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-30-2019 09:56:17 Loader: At end of block 'hood', expected 2, loaded 11, duration=2.2868547
+:12-30-2019 09:56:18 Teleport(debug): teleportInDone: walk
+:12-30-2019 09:56:18 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-30-2019 09:56:31 TTOffMagicWordManager: Run mode has been toggled.
+:12-30-2019 09:56:37 LawbotCogHQLoader: loadPlaceGeom: 13100
+:12-30-2019 09:56:37 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:12-30-2019 09:56:37 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:12-30-2019 09:56:37 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:12-30-2019 09:56:37 DistributedToon: calling LocalAvatar.startchat
+:12-30-2019 09:56:37 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-30-2019 09:56:38 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-30-2019 09:56:43 TTOffMagicWordManager: Run mode has been toggled.
+:12-30-2019 09:56:46 TTOffMagicWordManager: Alakazam!
+:12-30-2019 09:56:48 TTOffMagicWordManager: Gave Hollybae an infinite amount of pies
+:12-30-2019 09:56:51 LawbotCogHQLoader: loadPlaceGeom: 61000
+:12-30-2019 09:56:51 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:12-30-2019 09:56:51 CogHQLobby: Unloading Place (13100). Fsm in final
+:12-30-2019 09:56:52 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:12-30-2019 09:56:52 DistributedToon: calling LocalAvatar.startchat
+:12-30-2019 09:56:52 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:12-30-2019 09:56:54 TTOffMagicWordManager: Restarting Scale Round
+:12-30-2019 09:56:58 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-9.13812, 13.7277, 0)).
+:12-30-2019 09:56:58 TTOffMagicWordManager: Restarting Scale Round
+:12-30-2019 09:57:02 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-49.2581, 20.2086, 0)).
+:12-30-2019 09:57:02 TTOffMagicWordManager: Restarting Scale Round
+:12-30-2019 09:57:09 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-56.2137, 56.6922, 0)).
+:12-30-2019 09:57:09 TTOffMagicWordManager: Restarting Scale Round
+:12-30-2019 09:57:18 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-52.8497, 51.6157, 0)).
+:12-30-2019 09:57:18 TTOffMagicWordManager: Restarting Scale Round
+:12-30-2019 09:57:27 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-56.0525, 56.7347, 0)).
+:12-30-2019 09:57:27 TTOffMagicWordManager: Restarting Scale Round
+:12-30-2019 09:59:53 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:00:38 TTOffMagicWordManager: Voila!
+:12-30-2019 10:00:56 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 232.9 fps|0.001d|13 avs||316|316||0x0000|0x0000|973.4MB|1143.7MB|16235.6MB|564|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-30-2019 10:01:20 TTOffMagicWordManager: Voila!
+:12-30-2019 10:01:33 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:01:43 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:01:50 :linmath(warning): Tried to invert singular LMatrix3.
+:12-30-2019 10:01:53 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:02:01 TTOffMagicWordManager: Voila!
+:12-30-2019 10:02:12 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:02:29 TTOffMagicWordManager: Voila!
+:12-30-2019 10:02:45 TTOffMagicWordManager: Presto!
+:12-30-2019 10:02:54 TTOffMagicWordManager: Presto!
+:12-30-2019 10:03:00 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:03:09 TTOffMagicWordManager: Voila!
+:12-30-2019 10:03:19 TTOffMagicWordManager: Voila!
+:12-30-2019 10:03:28 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:03:40 TTOffMagicWordManager: Presto!
+:12-30-2019 10:03:52 TTOffMagicWordManager: Presto!
+:12-30-2019 10:04:01 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:04:17 TTOffMagicWordManager: Presto!
+:12-30-2019 10:04:33 TTOffMagicWordManager: Voila!
+:12-30-2019 10:04:44 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:04:52 TTOffMagicWordManager: Voila!
+:12-30-2019 10:05:04 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:05:17 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:05:33 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:05:44 TTOffMagicWordManager: Presto!
+:12-30-2019 10:05:55 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:06:04 TTOffMagicWordManager: Voila!
+frame rate: 204.8 fps|0.001d|13 avs||616|616||0x0000|0x0000|1299.1MB|1470.0MB|16235.6MB|648|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-30-2019 10:06:11 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:06:26 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:06:33 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:06:43 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:07:15 TTOffMagicWordManager: Presto!
+:12-30-2019 10:07:26 TTOffMagicWordManager: Voila!
+:12-30-2019 10:07:28 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:07:38 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:07:48 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:08:00 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:08:06 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:08:16 TTOffMagicWordManager: Voila!
+:12-30-2019 10:08:29 TTOffMagicWordManager: Presto!
+:12-30-2019 10:08:39 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:08:48 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:08:58 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:09:06 TTOffMagicWordManager: Voila!
+:12-30-2019 10:09:16 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:09:21 TTOffMagicWordManager: Presto!
+:12-30-2019 10:09:35 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:09:47 TTOffMagicWordManager: Voila!
+:12-30-2019 10:10:05 TTOffMagicWordManager: Voila!
+:12-30-2019 10:10:19 TTOffMagicWordManager: Presto!
+:12-30-2019 10:10:32 TTOffMagicWordManager: Voila!
+:12-30-2019 10:10:41 TTOffMagicWordManager: Presto!
+:12-30-2019 10:10:46 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:10:53 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:11:04 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:11:11 TTOffMagicWordManager: Alakazam!
+frame rate: 207.2 fps|0.001d|13 avs||916|916||0x0000|0x0000|1619.9MB|1791.6MB|16235.6MB|754|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-30-2019 10:11:20 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:11:33 TTOffMagicWordManager: Presto!
+:12-30-2019 10:11:43 TTOffMagicWordManager: Presto!
+:12-30-2019 10:11:52 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:12:02 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:12:13 TTOffMagicWordManager: Presto!
+:12-30-2019 10:12:24 TTOffMagicWordManager: Voila!
+:12-30-2019 10:12:34 TTOffMagicWordManager: Voila!
+:12-30-2019 10:13:07 TTOffMagicWordManager: Voila!
+:12-30-2019 10:13:16 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:13:25 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:13:38 TTOffMagicWordManager: Presto!
+:12-30-2019 10:13:48 TTOffMagicWordManager: Alakazam!
+:12-30-2019 10:14:03 TTOffMagicWordManager: Abracadabra!
+:12-30-2019 10:14:15 TTOffMagicWordManager: Voila!
+:12-30-2019 10:14:31 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:15:03 TTOffMagicWordManager: Alakazam!
+frame rate: 236.1 fps|0.001d|13 avs||1216|1216||0x0000|0x0000|1934.0MB|2106.3MB|16235.6MB|858|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-30-2019 10:16:26 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:16:43 TTOffMagicWordManager: Presto!
+:12-30-2019 10:16:50 TTOffMagicWordManager: Ta-da!
+:12-30-2019 10:16:58 TTOffMagicWordManager: Alakazam!
+adding timeout task
+adding timeout task
+:12-30-2019 10:19:11 TTOffMagicWordManager: Alakazam!
+frame rate: 210.0 fps|0.001d|13 avs||1516|1516||0x0000|0x0000|2238.1MB|2434.3MB|16235.6MB|1295|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:12-30-2019 10:26:11 TimeManager: Clock sync: timer
+frame rate: 248.3 fps|0.000d|13 avs||1816|1816||0x0000|0x0000|2534.1MB|2730.9MB|16235.6MB|1394|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-30-2019 10:26:11 TimeManager: Clock sync roundtrip took 25.225 ms
+:12-30-2019 10:26:11 TimeManager: AI time delta is -0:00 from server delta
+:12-30-2019 10:26:11 ClockDelta: previous delta at -0.436 s, +/- 1.398 s.
+:12-30-2019 10:26:11 ClockDelta: new delta at -1.336 s, +/- 0.013 s.
+:12-30-2019 10:26:11 ClockDelta: intersection at -1.336 s, +/- 0.013 s.
+:12-30-2019 10:26:11 TimeManager: Local clock uncertainty +/- 0.013 s
+:12-30-2019 10:27:09 TTOffMagicWordManager: Hollybae's laff has been set to 917.
+frame rate: 265.2 fps|0.000d|13 avs||2116|2116||0x0000|0x0000|2862.4MB|3060.1MB|16235.6MB|1501|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 224.3 fps|0.001d|13 avs||2416|2416||0x0000|0x0000|2945.0MB|3379.5MB|16235.6MB|1612|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 274.6 fps|0.000d|13 avs||2716|2716||0x0000|0x0000|3054.0MB|3724.1MB|16235.6MB|1723|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 258.7 fps|0.001d|13 avs||3016|3016||0x0000|0x0000|3320.9MB|3996.9MB|16235.6MB|1829|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 231.4 fps|0.001d|13 avs||3316|3316||0x0000|0x0000|3599.7MB|4278.9MB|16235.6MB|1937|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-30-2019 10:56:11 TimeManager: Clock sync: timer
+frame rate: 222.6 fps|0.001d|13 avs||3616|3616||0x0000|0x0000|3593.4MB|4585.8MB|16235.6MB|2039|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-30-2019 10:56:11 TimeManager: Clock sync roundtrip took 30.747 ms
+:12-30-2019 10:56:11 TimeManager: AI time delta is -0:00 from server delta
+:12-30-2019 10:56:11 ClockDelta: previous delta at -1.336 s, +/- 0.513 s.
+:12-30-2019 10:56:11 ClockDelta: new delta at -1.339 s, +/- 0.015 s.
+:12-30-2019 10:56:11 ClockDelta: intersection at -1.339 s, +/- 0.015 s.
+:12-30-2019 10:56:11 TimeManager: Local clock uncertainty +/- 0.015 s
+frame rate: 258.3 fps|0.000d|13 avs||3916|3916||0x0000|0x0000|3580.5MB|4919.7MB|16235.6MB|2148|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+adding timeout task
+adding timeout task
+frame rate: 245.5 fps|0.000d|13 avs||4216|4216||0x0000|0x0000|3510.7MB|5236.4MB|16235.6MB|2252|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 243.9 fps|0.000d|13 avs||4516|4516||0x0000|0x0000|3411.7MB|5550.0MB|16235.6MB|2355|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 225.0 fps|0.001d|13 avs||4816|4816||0x0000|0x0000|3362.4MB|5847.2MB|16235.6MB|2454|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 222.0 fps|0.001d|13 avs||5116|5116||0x0000|0x0000|3339.5MB|6150.4MB|16235.6MB|2579|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL

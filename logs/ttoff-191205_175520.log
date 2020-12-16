@@ -1,0 +1,224 @@
+
+
+Starting Toontown Online...
+Current time: Thu Dec  5 17:55:20 2019 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NGX;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:12-05-2019 17:55:20 TTOffLauncher: isTestServer: 0
+:12-05-2019 17:55:20 TTOffLauncher: Game Server 127.0.0.1
+:12-05-2019 17:55:20 TTOffLauncher: Starting Toontown Online... 
+:12-05-2019 17:55:20 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:12-05-2019 17:55:20 TTOffLauncher: maybeStartGame: starting game
+:12-05-2019 17:55:20 TTOffLauncher: Starting Toontown Online...
+:12-05-2019 17:55:20 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:12-05-2019 17:55:21 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:12-05-2019 17:55:22 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:12-05-2019 17:55:22 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:12-05-2019 17:55:23 ShowBase: __dev__ == False
+:12-05-2019 17:55:23 TTOffLauncher: setting panda error code to 11
+:12-05-2019 17:55:23 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:12-05-2019 17:55:23 Loader: starting bulk load of block 'init'
+:12-05-2019 17:55:32 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:12-05-2019 17:55:32 OTPClientRepository: Using connect method 'http'
+:12-05-2019 17:55:37 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:12-05-2019 17:55:37 TTOffLauncher: checking env
+:12-05-2019 17:55:37 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:12-05-2019 17:55:37 TTOffLauncher: checking env
+:12-05-2019 17:55:37 OTPClientRepository: reg_deployment=
+:12-05-2019 17:55:37 OTPClientRepository: required-login auto.
+:12-05-2019 17:55:37 OTPClientRepository: loginInterface: LoginTTOffAccount
+:12-05-2019 17:55:37 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:12-05-2019 17:55:37 Loader: At end of block 'init', expected 138, loaded 14, duration=13.7856746
+:12-05-2019 17:55:37 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:12-05-2019 17:55:37 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:12-05-2019 17:55:37 TTOffLauncher: Stopping mini task manager.
+:12-05-2019 17:55:37 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:12-05-2019 17:55:37 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001FE2F808>}
+:12-05-2019 17:55:39 StateData: AvatarChooser.enter
+:12-05-2019 17:55:39 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-05-2019 17:55:39 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-05-2019 17:55:40 OTPClientRepository: ================
+:12-05-2019 17:55:40 OTPClientRepository: Chose avatar id: 100000014
+:12-05-2019 17:55:40 OTPClientRepository: Chose avatar name: Hollybae
+:12-05-2019 17:55:40 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 18, 27, 7, 21)
+:12-05-2019 17:55:40 OTPClientRepository: Chose avatar position: 5
+:12-05-2019 17:55:40 OTPClientRepository: isPaid: 1
+:12-05-2019 17:55:40 OTPClientRepository: freeTimeLeft: 0
+:12-05-2019 17:55:40 OTPClientRepository: allowSecretChat: True
+:12-05-2019 17:55:40 OTPClientRepository: ================
+:12-05-2019 17:55:41 Loader: starting bulk load of block 'localAvatarPlayGame'
+:12-05-2019 17:55:42 ToontownTimeManager(warning): error parsing date string=
+local
+:12-05-2019 17:55:42 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:12-05-2019 17:55:43 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:12-05-2019 17:55:45 OTPClientRepository: Entering shard 401000001
+:12-05-2019 17:55:45 StreetSign: Street sign url is https://ttoffline.com/images/
+:12-05-2019 17:55:47 StreetSign: Street Sign is up to date
+:12-05-2019 17:55:47 TimeManager: Clock sync: TimeManager.announceGenerate
+:12-05-2019 17:55:47 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:12-05-2019 17:55:50 OTPClientRepository: No sync from TimeManager.
+:12-05-2019 17:55:50 OTPClientRepository: gotTimeSync
+:12-05-2019 17:55:50 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 23, duration=9.2412595
+:12-05-2019 17:55:50 OTPClientRepository: Sending heartbeat mid-frame.
+:12-05-2019 17:55:50 TimeManager: Clock sync roundtrip took 2756.124 ms
+:12-05-2019 17:55:50 TimeManager: AI time delta is -0:03 from server delta
+:12-05-2019 17:55:50 TimeManager: Local clock uncertainty +/- 1.378 s
+:12-05-2019 17:55:50 TimeManager: Uncertainty is too high, trying again.
+:12-05-2019 17:55:50 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:12-05-2019 17:55:50 Loader: starting bulk load of block 'hood'
+:12-05-2019 17:55:52 LawbotCogHQLoader: loadPlaceGeom: 13000
+:12-05-2019 17:55:52 TimeManager: Clock sync roundtrip took 2643.989 ms
+:12-05-2019 17:55:52 TimeManager: AI time delta is -0:02 from server delta
+:12-05-2019 17:55:52 ClockDelta: previous delta at 1.361 s, +/- 1.379 s.
+:12-05-2019 17:55:52 ClockDelta: new delta at 1.192 s, +/- 1.322 s.
+:12-05-2019 17:55:52 ClockDelta: intersection at 1.248 s, +/- 1.266 s.
+:12-05-2019 17:55:52 TimeManager: Local clock uncertainty +/- 1.267 s
+:12-05-2019 17:55:52 TimeManager: Uncertainty is too high, trying again.
+:12-05-2019 17:55:52 DistributedObject: DistributedSuitPlanner 401002972: generating
+:12-05-2019 17:55:53 DistributedToon: calling LocalAvatar.startchat
+:12-05-2019 17:55:53 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-05-2019 17:55:53 Loader: At end of block 'hood', expected 2, loaded 15, duration=3.1268847
+:12-05-2019 17:55:53 TimeManager: Clock sync roundtrip took 481.669 ms
+:12-05-2019 17:55:53 TimeManager: AI time delta is -0:00 from server delta
+:12-05-2019 17:55:53 ClockDelta: previous delta at 1.248 s, +/- 1.267 s.
+:12-05-2019 17:55:53 ClockDelta: new delta at 0.207 s, +/- 0.241 s.
+:12-05-2019 17:55:53 ClockDelta: intersection at 0.214 s, +/- 0.233 s.
+:12-05-2019 17:55:53 TimeManager: Local clock uncertainty +/- 0.233 s
+:12-05-2019 17:55:54 Teleport(debug): teleportInDone: walk
+:12-05-2019 17:55:55 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-05-2019 17:57:05 TTOffMagicWordManager: Run mode has been toggled.
+:12-05-2019 17:57:10 TTOffMagicWordManager: Run mode has been toggled.
+:12-05-2019 17:57:10 LawbotCogHQLoader: loadPlaceGeom: 13100
+:12-05-2019 17:57:10 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:12-05-2019 17:57:10 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:12-05-2019 17:57:10 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:12-05-2019 17:57:11 DistributedToon: calling LocalAvatar.startchat
+:12-05-2019 17:57:11 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-05-2019 17:57:12 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-05-2019 17:57:15 TTOffMagicWordManager: Gave Hollybae an infinite amount of pies
+:12-05-2019 17:57:17 TTOffMagicWordManager: Run mode has been toggled.
+:12-05-2019 17:57:23 TTOffMagicWordManager: Run mode has been toggled.
+:12-05-2019 17:57:29 LawbotCogHQLoader: loadPlaceGeom: 61000
+:12-05-2019 17:57:29 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:12-05-2019 17:57:29 CogHQLobby: Unloading Place (13100). Fsm in final
+:12-05-2019 17:57:30 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:12-05-2019 17:57:30 DistributedToon: calling LocalAvatar.startchat
+:12-05-2019 17:57:30 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:12-05-2019 17:57:32 TTOffMagicWordManager: Restarting Scale Round
+:12-05-2019 17:57:44 TTOffMagicWordManager: Hollybae's laff has been set to 1200.
+:12-05-2019 17:58:45 TTOffMagicWordManager: Hollybae's laff has been set to 1200.
+:12-05-2019 18:00:25 GarbageCollect(warning): garbage found, reverting gc threshold
+:12-05-2019 18:00:29 TTOffMagicWordManager: Abracadabra!
+frame rate: 242.2 fps|0.006d|13 avs||322|325||0x0000|0x0000|988.9MB|1167.9MB|16235.6MB|557|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 217.6 fps|0.001d|13 avs||622|625||0x0000|0x0000|1309.5MB|1489.1MB|16235.6MB|639|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-05-2019 18:07:15 :linmath(warning): Tried to invert singular LMatrix3.
+frame rate: 180.1 fps|0.001d|13 avs||922|925||0x0000|0x0000|1674.7MB|1861.0MB|16235.6MB|813|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 185.2 fps|0.001d|13 avs||1222|1225||0x0000|0x0000|1483.9MB|2211.3MB|16235.6MB|957|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 245.5 fps|0.001d|13 avs||1522|1525||0x0000|0x0000|1479.9MB|2528.5MB|16235.6MB|1039|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:12-05-2019 18:25:45 TimeManager: Clock sync: timer
+frame rate: 286.7 fps|0.000d|13 avs||1822|1825||0x0000|0x0000|1631.1MB|2853.3MB|16235.6MB|1146|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-05-2019 18:25:45 TimeManager: Clock sync roundtrip took 37.408 ms
+:12-05-2019 18:25:45 TimeManager: AI time delta is -0:00 from server delta
+:12-05-2019 18:25:45 ClockDelta: previous delta at 0.214 s, +/- 0.731 s.
+:12-05-2019 18:25:45 ClockDelta: new delta at -0.034 s, +/- 0.019 s.
+:12-05-2019 18:25:45 ClockDelta: intersection at -0.034 s, +/- 0.019 s.
+:12-05-2019 18:25:45 TimeManager: Local clock uncertainty +/- 0.019 s
+adding timeout task
+adding timeout task
+frame rate: 219.6 fps|0.001d|13 avs||2122|2125||0x0000|0x0000|1933.7MB|3162.9MB|16235.6MB|1636|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 247.6 fps|0.001d|13 avs||2422|2425||0x0000|0x0000|2249.0MB|3487.5MB|16235.6MB|1767|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 241.2 fps|0.001d|13 avs||2722|2725||0x0000|0x0000|2571.5MB|3815.8MB|16235.6MB|1874|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 214.5 fps|0.001d|13 avs||3022|3025||0x0000|0x0000|2854.8MB|4104.1MB|16235.6MB|1972|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 220.4 fps|0.001d|13 avs||3322|3325||0x0000|0x0000|3162.0MB|4411.9MB|16235.6MB|2076|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:12-05-2019 18:53:12 TTOffMagicWordManager: Hollybae's laff has been set to 1200.
+:12-05-2019 18:55:45 TimeManager: Clock sync: timer
+frame rate: 284.3 fps|0.000d|13 avs||3622|3625||0x0000|0x0000|3515.8MB|4759.7MB|16235.6MB|2191|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-05-2019 18:55:45 TimeManager: Clock sync roundtrip took 39.239 ms
+:12-05-2019 18:55:45 TimeManager: AI time delta is -0:00 from server delta
+:12-05-2019 18:55:45 ClockDelta: previous delta at -0.034 s, +/- 0.519 s.
+:12-05-2019 18:55:45 ClockDelta: new delta at -0.030 s, +/- 0.020 s.
+:12-05-2019 18:55:45 ClockDelta: intersection at -0.030 s, +/- 0.020 s.
+:12-05-2019 18:55:45 TimeManager: Local clock uncertainty +/- 0.020 s
+adding timeout task
+adding timeout task
+frame rate: 217.1 fps|0.001d|13 avs||3922|3925||0x0000|0x0000|3596.0MB|5132.9MB|16235.6MB|2311|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:12-05-2019 19:04:13 OTPClientRepository: Sending heartbeat mid-frame.
+frame rate: 202.8 fps|0.001d|13 avs||4222|4225||0x0000|0x0000|3570.8MB|5472.5MB|16235.6MB|2437|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 230.0 fps|0.001d|13 avs||4522|4525||0x0000|0x0000|3789.0MB|5865.6MB|16235.6MB|2561|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 213.3 fps|0.001d|13 avs||4822|4825||0x0000|0x0000|3876.9MB|6250.9MB|16235.6MB|2716|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 221.1 fps|0.001d|13 avs||5122|5125||0x0000|0x0000|3834.0MB|6671.0MB|16235.6MB|2849|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-05-2019 19:24:54 OTPClientRepository: Sending heartbeat mid-frame.
+:12-05-2019 19:25:45 TimeManager: Clock sync: timer
+frame rate: 206.7 fps|0.001d|13 avs||5422|5425||0x0000|0x0000|3822.4MB|7093.8MB|16235.6MB|2983|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-05-2019 19:25:45 TimeManager: Clock sync roundtrip took 51.103 ms
+:12-05-2019 19:25:45 TimeManager: AI time delta is -0:00 from server delta
+:12-05-2019 19:25:45 ClockDelta: previous delta at -0.030 s, +/- 0.520 s.
+:12-05-2019 19:25:45 ClockDelta: new delta at -0.000 s, +/- 0.026 s.
+:12-05-2019 19:25:45 ClockDelta: intersection at -0.000 s, +/- 0.026 s.
+:12-05-2019 19:25:45 TimeManager: Local clock uncertainty +/- 0.026 s
+frame rate: 214.5 fps|0.001d|13 avs||5722|5725||0x0000|0x0000|3869.3MB|7529.1MB|16235.6MB|3119|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 261.5 fps|0.001d|13 avs||6022|6025||0x0000|0x0000|3484.5MB|7930.5MB|16235.6MB|3245|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 214.3 fps|0.001d|13 avs||6322|6325||0x0000|0x0000|3232.2MB|8312.9MB|16235.6MB|3368|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-05-2019 19:43:15 TTOffMagicWordManager: Hollybae's laff has been set to 1200.
+frame rate: 217.6 fps|0.001d|13 avs||6622|6625||0x0000|0x0000|3892.1MB|8725.2MB|16235.6MB|4179|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 276.8 fps|0.000d|13 avs||6922|6925||0x0000|0x0000|4309.2MB|9143.8MB|16235.6MB|4332|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+:12-05-2019 19:55:45 TimeManager: Clock sync: timer
+:12-05-2019 19:55:45 TimeManager: Clock sync roundtrip took 102.217 ms
+:12-05-2019 19:55:45 TimeManager: AI time delta is -0:00 from server delta
+:12-05-2019 19:55:45 ClockDelta: previous delta at -0.000 s, +/- 0.526 s.
+:12-05-2019 19:55:45 ClockDelta: new delta at 0.021 s, +/- 0.051 s.
+:12-05-2019 19:55:45 ClockDelta: intersection at 0.021 s, +/- 0.051 s.
+:12-05-2019 19:55:45 TimeManager: Local clock uncertainty +/- 0.051 s
+frame rate: 9.8 fps|0.001d|13 avs||7222|7225||0x0000|0x0000|4154.5MB|9373.6MB|16235.6MB|4392|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 9.8 fps|0.001d|13 avs||7522|7525||0x0000|0x0000|3366.6MB|9385.4MB|16235.6MB|4395|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:12-05-2019 20:03:19 TTOffMagicWordManager: Hollybae's laff has been set to 1200.
+:12-05-2019 20:03:33 TTOffMagicWordManager: Hollybae's laff has been set to 100.
+:12-05-2019 20:03:35 TTOffMagicWordManager: Hollybae's laff has been set to 1.
+:12-05-2019 20:04:02 TTOffMagicWordManager: Hollybae's laff has been set to 1200.
+:12-05-2019 20:05:25 ToonBase: User closed main window.
+:12-05-2019 20:05:25 TimeManager: Client disconnect reason 2.
+:12-05-2019 20:05:25 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:12-05-2019 20:05:26 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:12-05-2019 20:05:26 OTPClientRepository: sending clientLogout
+:12-05-2019 20:05:26 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:12-05-2019 20:05:26 OTPClientRepository: Sent disconnect message to server
+:12-05-2019 20:05:26 OTPClientRepository: Closing connection to server.
+:12-05-2019 20:05:26 OTPClientRepository: Exiting cleanly
+:12-05-2019 20:05:26 ToonBase: Exiting Toontown: errorCode = None
+:12-05-2019 20:05:26 TTOffLauncher: setting panda error code to 0
+:12-05-2019 20:05:26 TTOffLauncher: Normal exit.

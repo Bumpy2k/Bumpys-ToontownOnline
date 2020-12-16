@@ -1,0 +1,278 @@
+
+
+Starting Toontown Online...
+Current time: Fri Oct  2 13:54:27 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'ONEDRIVECONSUMER': 'C:\\Users\\holla\\OneDrive', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:10-02-2020 13:54:27 TTOffLauncher: isTestServer: 0
+:10-02-2020 13:54:27 TTOffLauncher: Game Server 127.0.0.1
+:10-02-2020 13:54:27 TTOffLauncher: Starting Toontown Online... 
+:10-02-2020 13:54:27 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:10-02-2020 13:54:27 TTOffLauncher: maybeStartGame: starting game
+:10-02-2020 13:54:27 TTOffLauncher: Starting Toontown Online...
+:10-02-2020 13:54:27 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:10-02-2020 13:54:27 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:10-02-2020 13:54:27 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:10-02-2020 13:54:27 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:10-02-2020 13:54:27 ShowBase: __dev__ == False
+:10-02-2020 13:54:27 TTOffLauncher: setting panda error code to 11
+:10-02-2020 13:54:27 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:10-02-2020 13:54:27 Loader: starting bulk load of block 'init'
+:10-02-2020 13:54:28 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:10-02-2020 13:54:28 OTPClientRepository: Using connect method 'http'
+:10-02-2020 13:54:28 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:10-02-2020 13:54:28 TTOffLauncher: checking env
+:10-02-2020 13:54:28 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:10-02-2020 13:54:28 TTOffLauncher: checking env
+:10-02-2020 13:54:28 OTPClientRepository: reg_deployment=
+:10-02-2020 13:54:28 OTPClientRepository: required-login auto.
+:10-02-2020 13:54:28 OTPClientRepository: loginInterface: LoginTTOffAccount
+:10-02-2020 13:54:28 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:10-02-2020 13:54:28 Loader: At end of block 'init', expected 138, loaded 6, duration=1.2108199
+:10-02-2020 13:54:28 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:10-02-2020 13:54:28 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:10-02-2020 13:54:28 TTOffLauncher: Stopping mini task manager.
+:10-02-2020 13:54:28 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:10-02-2020 13:54:28 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x0000000019C7D748>}
+:10-02-2020 13:54:29 StateData: AvatarChooser.enter
+:10-02-2020 13:54:29 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:10-02-2020 13:54:29 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:10-02-2020 13:54:57 OTPClientRepository: ================
+:10-02-2020 13:54:57 OTPClientRepository: Chose avatar id: 100000014
+:10-02-2020 13:54:57 OTPClientRepository: Chose avatar name: Holland
+:10-02-2020 13:54:57 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 99, 27, 7, 21)
+:10-02-2020 13:54:57 OTPClientRepository: Chose avatar position: 5
+:10-02-2020 13:54:57 OTPClientRepository: isPaid: 1
+:10-02-2020 13:54:57 OTPClientRepository: freeTimeLeft: 0
+:10-02-2020 13:54:57 OTPClientRepository: allowSecretChat: True
+:10-02-2020 13:54:57 OTPClientRepository: ================
+:10-02-2020 13:54:58 Loader: starting bulk load of block 'localAvatarPlayGame'
+:10-02-2020 13:54:58 ToontownTimeManager(warning): error parsing date string=
+local
+:10-02-2020 13:54:58 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:10-02-2020 13:54:58 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:10-02-2020 13:54:58 OTPClientRepository: Sending heartbeat mid-frame.
+:10-02-2020 13:54:59 OTPClientRepository: Entering shard 401000001
+:10-02-2020 13:54:59 StreetSign: Street sign url is https://ttoffline.com/images/
+:10-02-2020 13:55:01 StreetSign: Street Sign is up to date
+:10-02-2020 13:55:01 TimeManager: Clock sync: TimeManager.announceGenerate
+:10-02-2020 13:55:01 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.696,3.696|6,12 cpus
+:10-02-2020 13:55:02 OTPClientRepository: No sync from TimeManager.
+:10-02-2020 13:55:02 OTPClientRepository: gotTimeSync
+:10-02-2020 13:55:02 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 8, duration=4.0100037
+:10-02-2020 13:55:02 TimeManager: Clock sync roundtrip took 1100.873 ms
+:10-02-2020 13:55:02 TimeManager: AI time delta is -0:01 from server delta
+:10-02-2020 13:55:02 TimeManager: Local clock uncertainty +/- 0.551 s
+:10-02-2020 13:55:02 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:10-02-2020 13:55:02 Loader: starting bulk load of block 'hood'
+:10-02-2020 13:55:02 LawbotCogHQLoader: loadPlaceGeom: 13000
+:10-02-2020 13:55:02 DistributedObject: DistributedSuitPlanner 401002972: generating
+:10-02-2020 13:55:02 DistributedToon: calling LocalAvatar.startchat
+:10-02-2020 13:55:02 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 13:55:03 Loader: At end of block 'hood', expected 2, loaded 4, duration=0.8869263
+:10-02-2020 13:55:04 Teleport(debug): teleportInDone: walk
+:10-02-2020 13:55:04 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 13:55:15 TTOffMagicWordManager: God mode enabled for Holland!
+:10-02-2020 13:55:21 LawbotCogHQLoader: loadPlaceGeom: 13100
+:10-02-2020 13:55:21 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:10-02-2020 13:55:22 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:10-02-2020 13:55:22 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:10-02-2020 13:55:22 DistributedToon: calling LocalAvatar.startchat
+:10-02-2020 13:55:22 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 13:55:23 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 13:55:29 TTOffMagicWordManager: Run mode has been toggled.
+:10-02-2020 13:55:32 TTOffMagicWordManager: Gave Holland an infinite amount of pies
+:10-02-2020 13:55:35 LawbotCogHQLoader: loadPlaceGeom: 61000
+:10-02-2020 13:55:35 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:10-02-2020 13:55:35 CogHQLobby: Unloading Place (13100). Fsm in final
+:10-02-2020 13:55:35 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:10-02-2020 13:55:35 DistributedToon: calling LocalAvatar.startchat
+:10-02-2020 13:55:35 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:10-02-2020 13:55:43 TTOffMagicWordManager: Restarting Scale Round
+:10-02-2020 13:59:27 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 245.6 fps|0.000d|12 avs||332|332||0x0000|0x0000|635.9MB|740.5MB|32619.6MB|426|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 232.9 fps|0.000d|12 avs||632|632||0x0000|0x0000|664.0MB|768.7MB|32619.6MB|450|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+frame rate: 233.8 fps|0.000d|12 avs||932|932||0x0000|0x0000|693.8MB|798.6MB|32619.6MB|481|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+handling timeout
+:10-02-2020 14:13:25 DistributedToon: closing shard...
+:10-02-2020 14:13:25 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:10-02-2020 14:13:25 OTPClientRepository: Exiting shard
+ignoring InputState-forward
+:10-02-2020 14:13:25 OTPClientRepository: sending clientLogout
+:10-02-2020 14:13:25 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:10-02-2020 14:13:25 OTPClientRepository(warning): Disable failed. DistObj 100000014 is not in dictionary, ownerView=True
+:10-02-2020 14:15:21 StateData: AvatarChooser.enter
+:10-02-2020 14:15:21 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:10-02-2020 14:15:21 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:10-02-2020 14:15:36 OTPClientRepository: ================
+:10-02-2020 14:15:36 OTPClientRepository: Chose avatar id: 100000014
+:10-02-2020 14:15:36 OTPClientRepository: Chose avatar name: Holland
+:10-02-2020 14:15:36 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 99, 27, 7, 21)
+:10-02-2020 14:15:36 OTPClientRepository: Chose avatar position: 5
+:10-02-2020 14:15:36 OTPClientRepository: isPaid: 1
+:10-02-2020 14:15:36 OTPClientRepository: freeTimeLeft: 0
+:10-02-2020 14:15:36 OTPClientRepository: allowSecretChat: True
+:10-02-2020 14:15:36 OTPClientRepository: ================
+:10-02-2020 14:15:36 Loader: starting bulk load of block 'localAvatarPlayGame'
+local
+:10-02-2020 14:15:36 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:10-02-2020 14:15:37 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:10-02-2020 14:15:38 OTPClientRepository: Entering shard 401000001
+:10-02-2020 14:15:38 TimeManager: Clock sync: TimeManager.announceGenerate
+:10-02-2020 14:15:38 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.696,3.696|6,12 cpus
+:10-02-2020 14:15:38 OTPClientRepository: No sync from TimeManager.
+:10-02-2020 14:15:38 OTPClientRepository: gotTimeSync
+:10-02-2020 14:15:38 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 8, duration=1.7794847
+:10-02-2020 14:15:38 TimeManager: Clock sync roundtrip took 61.060 ms
+:10-02-2020 14:15:38 TimeManager: AI time delta is -0:00 from server delta
+:10-02-2020 14:15:38 ClockDelta: previous delta at -0.976 s, +/- 0.894 s.
+:10-02-2020 14:15:38 ClockDelta: new delta at -1.468 s, +/- 0.031 s.
+:10-02-2020 14:15:38 ClockDelta: intersection at -1.468 s, +/- 0.031 s.
+:10-02-2020 14:15:38 TimeManager: Local clock uncertainty +/- 0.031 s
+:10-02-2020 14:15:38 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:10-02-2020 14:15:38 Loader: starting bulk load of block 'hood'
+:10-02-2020 14:15:38 LawbotCogHQLoader: loadPlaceGeom: 13000
+:10-02-2020 14:15:38 DistributedObject: DistributedSuitPlanner 401002972: generating
+:10-02-2020 14:15:39 DistributedToon: calling LocalAvatar.startchat
+:10-02-2020 14:15:39 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 14:15:39 Loader: At end of block 'hood', expected 2, loaded 3, duration=0.7140966
+:10-02-2020 14:15:40 Teleport(debug): teleportInDone: walk
+:10-02-2020 14:15:40 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 14:16:14 LawbotCogHQLoader: loadPlaceGeom: 13100
+:10-02-2020 14:16:15 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:10-02-2020 14:16:15 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:10-02-2020 14:16:15 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:10-02-2020 14:16:15 DistributedToon: calling LocalAvatar.startchat
+:10-02-2020 14:16:15 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 14:16:16 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:10-02-2020 14:16:17 TTOffMagicWordManager: God mode enabled for Holland!
+:10-02-2020 14:16:21 TTOffMagicWordManager: Run mode has been toggled.
+:10-02-2020 14:16:23 TTOffMagicWordManager: Gave Holland an infinite amount of pies
+:10-02-2020 14:16:29 LawbotCogHQLoader: loadPlaceGeom: 61001
+:10-02-2020 14:16:29 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:10-02-2020 14:16:29 CogHQLobby: Unloading Place (13100). Fsm in final
+:10-02-2020 14:16:29 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:10-02-2020 14:16:29 DistributedToon: calling LocalAvatar.startchat
+:10-02-2020 14:16:29 OTPClientRepository: Sending heartbeat mid-frame.
+:10-02-2020 14:16:29 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61001, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:10-02-2020 14:16:32 TTOffMagicWordManager: Restarting Scale Round
+:10-02-2020 14:16:41 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(-35.8215, 14.7355, 0)).
+:10-02-2020 14:16:41 TTOffMagicWordManager: Restarting Scale Round
+frame rate: 179.1 fps|0.001d|12 avs||1570|1571||0x0000|0x0000|783.5MB|890.6MB|32619.6MB|635|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 14:22:38 :linmath(warning): Tried to invert singular LMatrix3.
+frame rate: 182.2 fps|0.001d|12 avs||1870|1871||0x0000|0x0000|817.9MB|924.7MB|32619.6MB|644|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+frame rate: 173.5 fps|0.001d|12 avs||2170|2171||0x0000|0x0000|859.1MB|966.3MB|32619.6MB|670|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 14:31:21 :linmath(warning): Tried to invert singular LMatrix3.
+frame rate: 185.9 fps|0.001d|12 avs||2470|2471||0x0000|0x0000|898.3MB|1005.3MB|32619.6MB|688|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 14:36:36 TTOffMagicWordManager: Can't set Holland's laff to 55! Specify a value between -1 and Holland's max laff (15).
+:10-02-2020 14:36:39 TTOffMagicWordManager: Holland's max laff has been set to 55.
+:10-02-2020 14:36:44 TTOffMagicWordManager: Holland's laff has been set to 5.
+frame rate: 170.6 fps|0.001d|12 avs||2770|2771||0x0000|0x0000|935.1MB|1042.3MB|32619.6MB|721|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 14:41:27 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:43:51 OTPClientRepository: Sending heartbeat mid-frame.
+:10-02-2020 14:45:38 TimeManager: Clock sync: timer
+:10-02-2020 14:45:38 TimeManager: Clock sync roundtrip took 13.812 ms
+:10-02-2020 14:45:38 TimeManager: AI time delta is -0:00 from server delta
+:10-02-2020 14:45:38 ClockDelta: previous delta at -1.468 s, +/- 0.531 s.
+:10-02-2020 14:45:38 ClockDelta: new delta at -1.478 s, +/- 0.007 s.
+:10-02-2020 14:45:38 ClockDelta: intersection at -1.478 s, +/- 0.007 s.
+:10-02-2020 14:45:38 TimeManager: Local clock uncertainty +/- 0.007 s
+frame rate: 195.4 fps|0.001d|12 avs||3070|3071||0x0000|0x0000|974.3MB|1081.7MB|32619.6MB|754|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 14:46:26 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:47:12 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:49:58 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:50:26 TTOffMagicWordManager: Holland's laff has been set to 5.
+frame rate: 175.9 fps|0.001d|12 avs||3370|3371||0x0000|0x0000|1013.7MB|1121.2MB|32619.6MB|788|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 14:51:00 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean setmaxhp?
+:10-02-2020 14:51:01 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:51:44 TTOffMagicWordManager: Can't set Holland's laff to 56! Specify a value between -1 and Holland's max laff (55).
+:10-02-2020 14:51:46 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:53:12 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:53:27 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:53:48 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:54:56 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:55:32 TTOffMagicWordManager: Holland's laff has been set to 5.
+frame rate: 178.5 fps|0.001d|12 avs||3670|3671||0x0000|0x0000|1054.2MB|1161.8MB|32619.6MB|799|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 14:56:13 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:57:38 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:58:49 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:59:10 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:59:22 TTOffMagicWordManager: Holland's laff has been set to 6.
+:10-02-2020 14:59:24 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 14:59:46 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:00:12 TTOffMagicWordManager: Can't set Holland's laff to 56! Specify a value between -1 and Holland's max laff (55).
+:10-02-2020 15:00:13 TTOffMagicWordManager: Holland's laff has been set to 5.
+frame rate: 170.7 fps|0.001d|12 avs||3970|3971||0x0000|0x0000|1096.8MB|1204.5MB|32619.6MB|825|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 15:00:39 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:01:15 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:01:49 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:02:45 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:03:23 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:04:31 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:04:51 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:05:15 TTOffMagicWordManager: Holland's laff has been set to 5.
+frame rate: 168.3 fps|0.001d|12 avs||4270|4271||0x0000|0x0000|1135.7MB|1243.4MB|32619.6MB|835|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 15:06:01 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:06:21 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:06:49 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:07:18 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:07:56 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:08:12 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:08:31 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:09:02 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:10:15 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:10:21 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61001, avatar pos LPoint3f(-47.0255, 9.96786, -0.000339514)).
+:10-02-2020 15:10:21 TTOffMagicWordManager: Restarting Scale Round
+frame rate: 193.9 fps|0.002d|12 avs||4570|4571||0x0000|0x0000|1176.4MB|1284.4MB|32619.6MB|846|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 15:10:47 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:11:13 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:11:25 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:12:09 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:12:33 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:12:53 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:13:14 TTOffMagicWordManager: Holland's laff has been set to 6.
+:10-02-2020 15:13:16 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:13:39 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:13:53 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:14:14 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:14:40 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:15:06 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:15:27 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:15:38 TimeManager: Clock sync: timer
+frame rate: 173.3 fps|0.001d|12 avs||4870|4871||0x0000|0x0000|1215.9MB|1323.8MB|32619.6MB|856|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+:10-02-2020 15:15:38 TimeManager: Clock sync roundtrip took 79.882 ms
+:10-02-2020 15:15:38 TimeManager: AI time delta is -0:00 from server delta
+:10-02-2020 15:15:38 ClockDelta: previous delta at -1.478 s, +/- 0.507 s.
+:10-02-2020 15:15:38 ClockDelta: new delta at -1.464 s, +/- 0.040 s.
+:10-02-2020 15:15:38 ClockDelta: intersection at -1.464 s, +/- 0.040 s.
+:10-02-2020 15:15:38 TimeManager: Local clock uncertainty +/- 0.040 s
+:10-02-2020 15:16:06 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:16:42 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:17:13 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:17:16 TTOffMagicWordManager: Can't set Holland's laff to 56! Specify a value between -1 and Holland's max laff (55).
+:10-02-2020 15:17:18 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:17:47 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:18:18 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:18:45 TTOffMagicWordManager: Holland's laff has been set to 5.
+:10-02-2020 15:19:16 TTOffMagicWordManager: This Magic Word doesn't exist! Did you mean setmaxhp?
+:10-02-2020 15:19:17 TTOffMagicWordManager: Holland's laff has been set to 5.
+frame rate: 214.6 fps|0.001d|12 avs||5170|5171||0x0000|0x0000|1247.5MB|1355.6MB|32619.6MB|864|nt.2.6.2|3.696,3.696|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task

@@ -1,0 +1,1544 @@
+
+
+Starting Toontown Online...
+Current time: Sat Jun 13 14:58:58 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['D:\\hollybae\\Aly\\Toontown-School-House\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMPUTERNAME': 'HOLLYBAES-PC', 'USERDOMAIN': 'HOLLYBAES-PC', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '9e0a', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\hollybae\\ffmpeg-4.1.3-win64-static\\ffmpeg-4.1.3-win64-static\\bin;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\holla\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Panda3D-1.10.4.1-x64\\python;C:\\Panda3D-1.10.4.1-x64\\python\\Scripts;C:\\Panda3D-1.10.4.1-x64\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'SYSTEMROOT': 'C:\\WINDOWS', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\holla\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\holla\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\holla', 'USERDOMAIN_ROAMINGPROFILE': 'HOLLYBAES-PC', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'holla', 'LOGONSERVER': '\\\\HOLLYBAES-PC', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'ONEDRIVE': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'ONEDRIVECOMMERCIAL': 'C:\\Users\\holla\\OneDrive - University of Guelph', 'WINDIR': 'C:\\WINDOWS', 'APPDATA': 'C:\\Users\\holla\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '12', 'PROCESSOR_LEVEL': '6', 'RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR': 'C:\\Program Files\\Red Giant\\RGFX', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\holla'}
+:06-13-2020 14:58:58 TTOffLauncher: isTestServer: 0
+:06-13-2020 14:58:58 TTOffLauncher: Game Server 127.0.0.1
+:06-13-2020 14:58:58 TTOffLauncher: Starting Toontown Online... 
+:06-13-2020 14:58:58 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:06-13-2020 14:58:58 TTOffLauncher: maybeStartGame: starting game
+:06-13-2020 14:58:58 TTOffLauncher: Starting Toontown Online...
+:06-13-2020 14:58:58 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:06-13-2020 14:58:58 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:06-13-2020 14:58:58 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:06-13-2020 14:58:58 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:06-13-2020 14:58:58 ShowBase: __dev__ == False
+:06-13-2020 14:58:58 TTOffLauncher: setting panda error code to 11
+:06-13-2020 14:58:58 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:06-13-2020 14:58:58 Loader: starting bulk load of block 'init'
+:06-13-2020 14:58:59 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:06-13-2020 14:58:59 OTPClientRepository: Using connect method 'http'
+:06-13-2020 14:59:00 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:06-13-2020 14:59:00 TTOffLauncher: checking env
+:06-13-2020 14:59:00 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:06-13-2020 14:59:00 TTOffLauncher: checking env
+:06-13-2020 14:59:00 OTPClientRepository: reg_deployment=
+:06-13-2020 14:59:00 OTPClientRepository: required-login auto.
+:06-13-2020 14:59:00 OTPClientRepository: loginInterface: LoginTTOffAccount
+:06-13-2020 14:59:00 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:06-13-2020 14:59:00 Loader: At end of block 'init', expected 138, loaded 6, duration=1.2856045
+:06-13-2020 14:59:00 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:06-13-2020 14:59:00 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:06-13-2020 14:59:00 TTOffLauncher: Stopping mini task manager.
+:06-13-2020 14:59:00 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:06-13-2020 14:59:00 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x000000001D691748>}
+:06-13-2020 14:59:01 StateData: AvatarChooser.enter
+:06-13-2020 14:59:01 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:06-13-2020 14:59:01 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:06-13-2020 14:59:11 OTPClientRepository: ================
+:06-13-2020 14:59:11 OTPClientRepository: Chose avatar id: 100000014
+:06-13-2020 14:59:11 OTPClientRepository: Chose avatar name: Hollybae
+:06-13-2020 14:59:11 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 16, 0, 16, 16, 113, 27, 99, 27, 7, 21)
+:06-13-2020 14:59:11 OTPClientRepository: Chose avatar position: 5
+:06-13-2020 14:59:11 OTPClientRepository: isPaid: 1
+:06-13-2020 14:59:11 OTPClientRepository: freeTimeLeft: 0
+:06-13-2020 14:59:11 OTPClientRepository: allowSecretChat: True
+:06-13-2020 14:59:11 OTPClientRepository: ================
+:06-13-2020 14:59:11 Loader: starting bulk load of block 'localAvatarPlayGame'
+:06-13-2020 14:59:11 ToontownTimeManager(warning): error parsing date string=
+local
+:06-13-2020 14:59:11 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:06-13-2020 14:59:11 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:06-13-2020 14:59:13 OTPClientRepository: Entering shard 401000001
+:06-13-2020 14:59:13 StreetSign: Street sign url is https://ttoffline.com/images/
+:06-13-2020 14:59:15 StreetSign: Street Sign is up to date
+:06-13-2020 14:59:15 TimeManager: Clock sync: TimeManager.announceGenerate
+:06-13-2020 14:59:15 NewsManager: setHolidayId: Starting Holiday 20
+:06-13-2020 14:59:15 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz|591594|0|3.701,3.701|6,12 cpus
+:06-13-2020 14:59:16 OTPClientRepository: No sync from TimeManager.
+:06-13-2020 14:59:16 OTPClientRepository: gotTimeSync
+:06-13-2020 14:59:16 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 12, duration=4.9107952
+:06-13-2020 14:59:16 TimeManager: Clock sync roundtrip took 1075.357 ms
+:06-13-2020 14:59:16 TimeManager: AI time delta is -0:01 from server delta
+:06-13-2020 14:59:16 TimeManager: Local clock uncertainty +/- 0.538 s
+:06-13-2020 14:59:16 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Lawbot HQ
+:06-13-2020 14:59:16 Loader: starting bulk load of block 'hood'
+:06-13-2020 14:59:16 LawbotCogHQLoader: loadPlaceGeom: 13000
+:06-13-2020 14:59:17 DistributedObject: DistributedSuitPlanner 401002972: generating
+:06-13-2020 14:59:17 DistributedToon: calling LocalAvatar.startchat
+:06-13-2020 14:59:17 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:06-13-2020 14:59:17 Loader: At end of block 'hood', expected 2, loaded 4, duration=0.9359989
+:06-13-2020 14:59:18 Teleport(debug): teleportInDone: walk
+:06-13-2020 14:59:18 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:06-13-2020 14:59:23 TTOffMagicWordManager: Run mode has been toggled.
+:06-13-2020 14:59:29 LawbotCogHQLoader: loadPlaceGeom: 13100
+:06-13-2020 14:59:29 LawbotCogHQLoader: QA-REGRESSION: COGHQ: Visit LawbotLobby
+:06-13-2020 14:59:29 LawbotHQExterior: Unloading Place (13000). Fsm in final
+:06-13-2020 14:59:29 DistributedObject: DistributedSuitPlanner 401002972: disabling
+:06-13-2020 14:59:29 DistributedToon: calling LocalAvatar.startchat
+:06-13-2020 14:59:29 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:06-13-2020 14:59:30 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_lawbot_maps.bam: not found on model path (currently: "/;/d/hollybae/Aly/Toontown-School-House/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:06-13-2020 14:59:35 TTOffMagicWordManager: Run mode has been toggled.
+:06-13-2020 14:59:37 TTOffMagicWordManager: Gave Hollybae an infinite amount of pies
+:06-13-2020 14:59:38 TTOffMagicWordManager: Alakazam!
+:06-13-2020 14:59:43 LawbotCogHQLoader: loadPlaceGeom: 61000
+:06-13-2020 14:59:43 LawbotCogHQLoader(warning): loadPlaceGeom: unclassified zone 61000
+:06-13-2020 14:59:43 CogHQLobby: Unloading Place (13100). Fsm in final
+:06-13-2020 14:59:43 DistributedLawbotBoss(warning): Not a collision node: LawbotCourtroom3.egg/-PandaNode/CR3/interior/CR3_Floor
+:06-13-2020 14:59:43 DistributedToon: calling LocalAvatar.startchat
+:06-13-2020 14:59:43 LawbotHQBossBattle(warning): fsm.request('movie') returned 0 (zone id 61000, avatar pos LPoint3f(-0.363562, -126.204, 0.193903)).
+:06-13-2020 14:59:46 TTOffMagicWordManager: Restarting Scale Round
+:06-13-2020 14:59:49 LawbotHQBossBattle(warning): fsm.request('finalBattle') returned 0 (zone id 61000, avatar pos LPoint3f(-29.0716, -2.44212, -0.000317067)).
+:06-13-2020 14:59:49 TTOffMagicWordManager: Restarting Scale Round
+:06-13-2020 15:00:00 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:00:00 NewsManager: setHolidayId: Ending Holiday 20
+:06-13-2020 15:00:05 NewsManager: setHolidayId: Starting Holiday 19
+:06-13-2020 15:00:48 :linmath(warning): Tried to invert singular LMatrix3.
+:06-13-2020 15:00:59 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:01:10 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:01:24 TTOffMagicWordManager: Voila!
+:06-13-2020 15:01:42 TTOffMagicWordManager: Voila!
+:06-13-2020 15:01:52 TTOffMagicWordManager: Presto!
+:06-13-2020 15:02:04 TTOffMagicWordManager: Voila!
+:06-13-2020 15:02:14 TTOffMagicWordManager: Presto!
+:06-13-2020 15:02:19 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:02:36 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:02:46 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:02:57 TTOffMagicWordManager: Presto!
+:06-13-2020 15:03:07 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:03:19 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:03:39 TTOffMagicWordManager: Voila!
+:06-13-2020 15:03:55 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:03:59 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 142.5 fps|0.002d|12 avs||314|315||0x0000|0x0000|879.4MB|1054.7MB|16235.6MB|472|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:04:18 TTOffMagicWordManager: Voila!
+:06-13-2020 15:04:29 TTOffMagicWordManager: Voila!
+:06-13-2020 15:04:54 TTOffMagicWordManager: Voila!
+:06-13-2020 15:05:20 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:05:30 TTOffMagicWordManager: Voila!
+:06-13-2020 15:05:40 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:05:52 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:06:06 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:06:18 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:06:20 TTOffMagicWordManager: Presto!
+:06-13-2020 15:06:29 TTOffMagicWordManager: Presto!
+:06-13-2020 15:06:51 TTOffMagicWordManager: Presto!
+:06-13-2020 15:07:05 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:07:23 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:07:36 TTOffMagicWordManager: Voila!
+:06-13-2020 15:08:01 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:08:20 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:08:36 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:08:41 TTOffMagicWordManager: Presto!
+:06-13-2020 15:08:51 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:09:02 TTOffMagicWordManager: Voila!
+frame rate: 170.1 fps|0.001d|12 avs||614|615||0x0000|0x0000|1136.8MB|1312.5MB|16235.6MB|538|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:09:14 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:09:25 TTOffMagicWordManager: Voila!
+:06-13-2020 15:09:32 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:09:45 TTOffMagicWordManager: Voila!
+:06-13-2020 15:09:57 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:10:13 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:10:25 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:10:35 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:10:45 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:10:57 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:11:07 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:11:18 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:11:28 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:11:39 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:11:57 TTOffMagicWordManager: Presto!
+:06-13-2020 15:12:09 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:13:58 TTOffMagicWordManager: Presto!
+:06-13-2020 15:14:09 TTOffMagicWordManager: Presto!
+frame rate: 182.4 fps|0.001d|12 avs||914|915||0x0000|0x0000|1400.2MB|1576.6MB|16235.6MB|628|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:14:29 TTOffMagicWordManager: Voila!
+:06-13-2020 15:14:43 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:14:54 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:15:06 TTOffMagicWordManager: Presto!
+:06-13-2020 15:15:21 TTOffMagicWordManager: Presto!
+:06-13-2020 15:15:36 TTOffMagicWordManager: Presto!
+:06-13-2020 15:15:45 TTOffMagicWordManager: Voila!
+:06-13-2020 15:15:57 TTOffMagicWordManager: Presto!
+:06-13-2020 15:16:21 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:16:32 TTOffMagicWordManager: Voila!
+:06-13-2020 15:16:43 TTOffMagicWordManager: Voila!
+:06-13-2020 15:16:54 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:17:20 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:17:29 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:17:39 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:17:53 TTOffMagicWordManager: Presto!
+:06-13-2020 15:18:05 TTOffMagicWordManager: Presto!
+:06-13-2020 15:18:11 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:18:27 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:18:54 TTOffMagicWordManager: Abracadabra!
+frame rate: 143.0 fps|0.001d|12 avs||1214|1215||0x0000|0x0000|1653.9MB|1830.9MB|16235.6MB|693|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:19:46 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:19:57 TTOffMagicWordManager: Voila!
+:06-13-2020 15:20:13 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:20:24 TTOffMagicWordManager: Voila!
+:06-13-2020 15:20:34 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:20:46 TTOffMagicWordManager: Presto!
+:06-13-2020 15:20:55 TTOffMagicWordManager: Voila!
+:06-13-2020 15:21:05 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:21:22 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:21:34 TTOffMagicWordManager: Voila!
+:06-13-2020 15:21:45 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:22:02 TTOffMagicWordManager: Presto!
+:06-13-2020 15:22:16 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:22:28 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:22:38 TTOffMagicWordManager: Voila!
+:06-13-2020 15:22:50 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:23:02 TTOffMagicWordManager: Voila!
+:06-13-2020 15:23:07 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:23:18 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:23:27 TTOffMagicWordManager: Voila!
+:06-13-2020 15:23:36 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:23:55 TTOffMagicWordManager: Abracadabra!
+frame rate: 143.0 fps|0.001d|12 avs||1514|1515||0x0000|0x0000|1909.0MB|2086.5MB|16235.6MB|780|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:24:26 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:24:36 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:24:45 TTOffMagicWordManager: Presto!
+:06-13-2020 15:25:01 TTOffMagicWordManager: Voila!
+:06-13-2020 15:25:13 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:25:39 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:25:52 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:26:12 TTOffMagicWordManager: Presto!
+:06-13-2020 15:26:30 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:26:41 TTOffMagicWordManager: Voila!
+:06-13-2020 15:26:53 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:27:02 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:27:12 :linmath(warning): Tried to invert singular LMatrix3.
+:06-13-2020 15:27:14 TTOffMagicWordManager: Presto!
+:06-13-2020 15:27:23 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:27:45 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:27:54 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:28:07 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:28:21 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:28:34 TTOffMagicWordManager: Presto!
+:06-13-2020 15:28:40 TTOffMagicWordManager: Presto!
+:06-13-2020 15:28:50 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:29:11 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:29:13 TimeManager: Clock sync: timer
+frame rate: 161.5 fps|0.001d|12 avs||1814|1815||0x0000|0x0000|2169.3MB|2347.6MB|16235.6MB|869|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:29:13 TimeManager: Clock sync roundtrip took 34.832 ms
+:06-13-2020 15:29:13 TimeManager: AI time delta is -0:00 from server delta
+:06-13-2020 15:29:13 ClockDelta: previous delta at -0.957 s, +/- 1.037 s.
+:06-13-2020 15:29:13 ClockDelta: new delta at -1.499 s, +/- 0.017 s.
+:06-13-2020 15:29:13 ClockDelta: intersection at -1.499 s, +/- 0.017 s.
+:06-13-2020 15:29:13 TimeManager: Local clock uncertainty +/- 0.017 s
+:06-13-2020 15:29:23 TTOffMagicWordManager: Presto!
+:06-13-2020 15:29:36 TTOffMagicWordManager: Presto!
+:06-13-2020 15:29:45 TTOffMagicWordManager: Presto!
+:06-13-2020 15:30:03 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:30:28 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:30:38 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:30:43 TTOffMagicWordManager: Voila!
+:06-13-2020 15:30:53 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:31:06 TTOffMagicWordManager: Presto!
+:06-13-2020 15:31:16 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:31:25 TTOffMagicWordManager: Voila!
+:06-13-2020 15:31:34 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:32:07 TTOffMagicWordManager: Presto!
+:06-13-2020 15:32:13 TTOffMagicWordManager: Presto!
+:06-13-2020 15:32:19 TTOffMagicWordManager: Voila!
+:06-13-2020 15:32:28 TTOffMagicWordManager: Presto!
+:06-13-2020 15:32:40 TTOffMagicWordManager: Presto!
+:06-13-2020 15:32:50 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:33:02 TTOffMagicWordManager: Presto!
+:06-13-2020 15:33:19 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:33:32 TTOffMagicWordManager: Voila!
+:06-13-2020 15:33:43 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:33:55 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:34:07 TTOffMagicWordManager: Presto!
+frame rate: 143.0 fps|0.001d|12 avs||2114|2115||0x0000|0x0000|1896.2MB|2610.6MB|16235.6MB|959|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:34:21 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:34:32 TTOffMagicWordManager: Voila!
+:06-13-2020 15:34:51 TTOffMagicWordManager: Presto!
+:06-13-2020 15:35:01 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:35:18 TTOffMagicWordManager: Presto!
+:06-13-2020 15:35:35 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:35:54 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:36:14 TTOffMagicWordManager: Hollybae's laff has been set to 5.
+:06-13-2020 15:36:15 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:36:25 TTOffMagicWordManager: Presto!
+:06-13-2020 15:36:34 TTOffMagicWordManager: Presto!
+:06-13-2020 15:37:39 TTOffMagicWordManager: Voila!
+:06-13-2020 15:37:51 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:38:01 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:38:15 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:38:28 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:38:40 TTOffMagicWordManager: Presto!
+:06-13-2020 15:38:47 TTOffMagicWordManager: Presto!
+:06-13-2020 15:38:54 TTOffMagicWordManager: Ta-da!
+frame rate: 142.7 fps|0.001d|12 avs||2414|2415||0x0000|0x0000|1642.8MB|2856.1MB|16235.6MB|1066|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:40:18 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:40:28 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:40:42 TTOffMagicWordManager: Voila!
+:06-13-2020 15:40:52 TTOffMagicWordManager: Voila!
+:06-13-2020 15:41:13 TTOffMagicWordManager: Voila!
+:06-13-2020 15:41:31 TTOffMagicWordManager: Voila!
+:06-13-2020 15:41:43 TTOffMagicWordManager: Presto!
+:06-13-2020 15:41:54 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:42:04 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:42:16 TTOffMagicWordManager: Presto!
+:06-13-2020 15:43:11 TTOffMagicWordManager: Voila!
+:06-13-2020 15:43:20 TTOffMagicWordManager: Voila!
+:06-13-2020 15:43:33 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:43:43 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:43:56 TTOffMagicWordManager: Ta-da!
+frame rate: 143.0 fps|0.001d|12 avs||2714|2715||0x0000|0x0000|1880.0MB|3092.2MB|16235.6MB|1155|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:44:13 TTOffMagicWordManager: Presto!
+:06-13-2020 15:44:23 TTOffMagicWordManager: Presto!
+:06-13-2020 15:44:30 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:44:52 TTOffMagicWordManager: Voila!
+:06-13-2020 15:45:01 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:45:10 TTOffMagicWordManager: Presto!
+:06-13-2020 15:45:19 TTOffMagicWordManager: Presto!
+:06-13-2020 15:45:32 TTOffMagicWordManager: Presto!
+:06-13-2020 15:45:42 TTOffMagicWordManager: Voila!
+:06-13-2020 15:45:59 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:46:15 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:46:24 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:46:41 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:46:51 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:47:08 TTOffMagicWordManager: Presto!
+:06-13-2020 15:47:27 TTOffMagicWordManager: Presto!
+:06-13-2020 15:47:36 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:47:47 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:48:11 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:48:28 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:48:37 TTOffMagicWordManager: Presto!
+:06-13-2020 15:48:48 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:48:57 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:49:09 TTOffMagicWordManager: Ta-da!
+frame rate: 143.0 fps|0.001d|12 avs||3014|3015||0x0000|0x0000|1765.1MB|3355.8MB|16235.6MB|1246|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:49:26 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:49:36 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:49:43 TTOffMagicWordManager: Voila!
+:06-13-2020 15:49:54 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:50:06 TTOffMagicWordManager: This command takes at least 1 argument!
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0030 ('0')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0031 ('1')
+:06-13-2020 15:50:09 :text(warning): No definition in Ironwork.egg for character U+0034 ('4')
+:06-13-2020 15:50:09 TTOffMagicWordManager: Changed Hollybae's name to Holland!
+:06-13-2020 15:50:13 TTOffMagicWordManager: Set Holland's nametag style successfully.
+:06-13-2020 15:50:14 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:50:21 TTOffMagicWordManager: Presto!
+:06-13-2020 15:50:31 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:50:43 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:50:57 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:51:08 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:51:17 TTOffMagicWordManager: Presto!
+:06-13-2020 15:51:27 TTOffMagicWordManager: Voila!
+:06-13-2020 15:51:37 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:51:49 TTOffMagicWordManager: Voila!
+:06-13-2020 15:52:06 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:52:18 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:52:28 TTOffMagicWordManager: Voila!
+:06-13-2020 15:52:47 TTOffMagicWordManager: Presto!
+:06-13-2020 15:52:58 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:53:09 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:53:29 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:53:42 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:53:51 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:54:04 TTOffMagicWordManager: Abracadabra!
+frame rate: 143.0 fps|0.001d|12 avs||3314|3315||0x0000|0x0000|1739.7MB|3618.7MB|16235.6MB|1336|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:54:14 TTOffMagicWordManager: Presto!
+:06-13-2020 15:54:24 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:54:43 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:54:53 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:55:10 TTOffMagicWordManager: Holland's laff has been set to 5.
+:06-13-2020 15:55:11 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:55:21 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:55:35 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:55:49 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:55:59 TTOffMagicWordManager: Voila!
+:06-13-2020 15:56:08 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:56:19 TTOffMagicWordManager: Voila!
+:06-13-2020 15:56:25 TTOffMagicWordManager: Voila!
+:06-13-2020 15:56:34 TTOffMagicWordManager: Presto!
+:06-13-2020 15:56:41 TTOffMagicWordManager: Presto!
+:06-13-2020 15:56:45 TTOffMagicWordManager: Voila!
+:06-13-2020 15:57:02 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:57:11 TTOffMagicWordManager: Presto!
+:06-13-2020 15:57:20 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:57:36 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:57:47 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:57:57 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:58:05 TTOffMagicWordManager: Voila!
+:06-13-2020 15:58:09 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:58:13 OTPClientRepository: Sending heartbeat mid-frame.
+:06-13-2020 15:58:20 TTOffMagicWordManager: Presto!
+:06-13-2020 15:58:30 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:58:40 TTOffMagicWordManager: Ta-da!
+:06-13-2020 15:58:47 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:59:01 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 15:59:08 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:59:13 TimeManager: Clock sync: timer
+:06-13-2020 15:59:13 TimeManager: Clock sync roundtrip took 27.882 ms
+:06-13-2020 15:59:13 TimeManager: AI time delta is -0:00 from server delta
+:06-13-2020 15:59:13 ClockDelta: previous delta at -1.499 s, +/- 0.517 s.
+:06-13-2020 15:59:13 ClockDelta: new delta at -1.486 s, +/- 0.014 s.
+:06-13-2020 15:59:13 ClockDelta: intersection at -1.486 s, +/- 0.014 s.
+:06-13-2020 15:59:13 TimeManager: Local clock uncertainty +/- 0.014 s
+frame rate: 143.0 fps|0.001d|12 avs||3614|3615||0x0000|0x0000|1699.0MB|3898.4MB|16235.6MB|1430|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 15:59:29 TTOffMagicWordManager: Alakazam!
+:06-13-2020 15:59:41 TTOffMagicWordManager: Presto!
+:06-13-2020 15:59:51 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:00:03 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:00:16 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:00:26 TTOffMagicWordManager: Presto!
+:06-13-2020 16:00:30 TTOffMagicWordManager: Voila!
+:06-13-2020 16:00:41 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:00:58 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:01:08 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:01:26 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:01:45 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:01:54 TTOffMagicWordManager: Presto!
+:06-13-2020 16:02:06 TTOffMagicWordManager: Presto!
+:06-13-2020 16:02:17 TTOffMagicWordManager: Presto!
+:06-13-2020 16:02:27 TTOffMagicWordManager: Presto!
+:06-13-2020 16:02:53 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:03:03 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:03:16 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:03:21 TTOffMagicWordManager: Voila!
+:06-13-2020 16:03:29 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:03:41 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:03:50 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:04:01 TTOffMagicWordManager: Ta-da!
+frame rate: 143.0 fps|0.001d|12 avs||3914|3915||0x0000|0x0000|1874.5MB|4187.1MB|16235.6MB|1527|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 16:04:15 TTOffMagicWordManager: Presto!
+:06-13-2020 16:05:59 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:06:05 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:06:18 TTOffMagicWordManager: Voila!
+:06-13-2020 16:06:30 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:06:42 TTOffMagicWordManager: Voila!
+:06-13-2020 16:06:56 TTOffMagicWordManager: Voila!
+:06-13-2020 16:07:13 TTOffMagicWordManager: Holland's laff has been set to 5.
+:06-13-2020 16:07:13 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:07:20 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:07:30 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:07:37 TTOffMagicWordManager: Voila!
+:06-13-2020 16:07:43 TTOffMagicWordManager: Voila!
+:06-13-2020 16:08:19 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:08:25 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:09:00 TTOffMagicWordManager: Presto!
+frame rate: 177.2 fps|0.001d|12 avs||4214|4215||0x0000|0x0000|1899.4MB|4444.1MB|16235.6MB|2046|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 16:09:22 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:09:38 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:10:01 TTOffMagicWordManager: Presto!
+:06-13-2020 16:10:07 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:10:16 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:10:23 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:10:39 TTOffMagicWordManager: Holland's laff has been set to 5.
+:06-13-2020 16:10:41 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:10:51 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:10:53 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:11:03 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:11:19 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:11:24 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:11:43 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:11:54 TTOffMagicWordManager: Voila!
+:06-13-2020 16:12:04 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:12:17 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:12:30 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:12:40 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:12:48 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:13:04 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:13:11 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:13:20 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:13:32 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:13:42 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:13:49 TTOffMagicWordManager: Abracadabra!
+frame rate: 143.0 fps|0.001d|12 avs||4514|4515||0x0000|0x0000|2187.3MB|4730.1MB|16235.6MB|2142|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 16:14:14 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:14:26 TTOffMagicWordManager: Voila!
+:06-13-2020 16:14:40 TTOffMagicWordManager: Voila!
+:06-13-2020 16:14:59 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:15:08 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:15:13 TTOffMagicWordManager: Voila!
+:06-13-2020 16:15:24 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:15:33 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:15:51 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:15:57 TTOffMagicWordManager: Voila!
+:06-13-2020 16:16:07 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:16:16 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:16:26 TTOffMagicWordManager: Presto!
+:06-13-2020 16:16:38 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:16:47 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:16:54 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:17:06 TTOffMagicWordManager: Presto!
+:06-13-2020 16:17:20 TTOffMagicWordManager: Presto!
+:06-13-2020 16:17:30 TTOffMagicWordManager: Voila!
+:06-13-2020 16:17:39 TTOffMagicWordManager: Voila!
+:06-13-2020 16:17:49 TTOffMagicWordManager: Presto!
+:06-13-2020 16:18:02 TTOffMagicWordManager: Voila!
+:06-13-2020 16:18:20 TTOffMagicWordManager: Presto!
+:06-13-2020 16:18:30 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:18:39 TTOffMagicWordManager: Voila!
+:06-13-2020 16:18:50 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:19:03 TTOffMagicWordManager: Voila!
+:06-13-2020 16:19:09 TTOffMagicWordManager: Ta-da!
+frame rate: 142.2 fps|0.001d|12 avs||4814|4815||0x0000|0x0000|2729.4MB|5032.7MB|16235.6MB|2303|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 16:19:24 TTOffMagicWordManager: Voila!
+:06-13-2020 16:19:35 TTOffMagicWordManager: Voila!
+:06-13-2020 16:19:42 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:19:54 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:20:08 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:20:22 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:20:53 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:21:10 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:21:19 TTOffMagicWordManager: Voila!
+:06-13-2020 16:21:32 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:21:40 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:21:50 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:21:58 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:22:11 TTOffMagicWordManager: Voila!
+:06-13-2020 16:22:21 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:22:55 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:23:05 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:23:19 TTOffMagicWordManager: Voila!
+:06-13-2020 16:23:25 TTOffMagicWordManager: Presto!
+:06-13-2020 16:23:51 TTOffMagicWordManager: Presto!
+:06-13-2020 16:24:02 TTOffMagicWordManager: Presto!
+frame rate: 164.3 fps|0.002d|12 avs||5114|5115||0x0000|0x0000|3008.2MB|5321.4MB|16235.6MB|2428|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+:06-13-2020 16:24:14 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:24:23 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:24:32 TTOffMagicWordManager: Presto!
+:06-13-2020 16:24:39 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:24:50 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:25:04 TTOffMagicWordManager: Presto!
+:06-13-2020 16:25:13 TTOffMagicWordManager: Presto!
+:06-13-2020 16:25:22 TTOffMagicWordManager: Abracadabra!
+:06-13-2020 16:25:33 TTOffMagicWordManager: Voila!
+:06-13-2020 16:25:46 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:25:53 TTOffMagicWordManager: Voila!
+:06-13-2020 16:26:07 TTOffMagicWordManager: Voila!
+:06-13-2020 16:26:19 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:26:30 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:26:40 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:26:48 TTOffMagicWordManager: Presto!
+:06-13-2020 16:26:56 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:27:08 TTOffMagicWordManager: Voila!
+:06-13-2020 16:27:19 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:27:32 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:27:40 TTOffMagicWordManager: Voila!
+:06-13-2020 16:27:47 TTOffMagicWordManager: Ta-da!
+:06-13-2020 16:27:59 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:28:08 TTOffMagicWordManager: Alakazam!
+:06-13-2020 16:28:18 TTOffMagicWordManager: Voila!
+:06-13-2020 16:29:13 TimeManager: Clock sync: timer
+:06-13-2020 16:29:13 TimeManager: Clock sync roundtrip took 33.079 ms
+:06-13-2020 16:29:13 TimeManager: AI time delta is -0:00 from server delta
+:06-13-2020 16:29:13 ClockDelta: previous delta at -1.486 s, +/- 0.514 s.
+:06-13-2020 16:29:13 ClockDelta: new delta at -1.492 s, +/- 0.017 s.
+:06-13-2020 16:29:13 ClockDelta: intersection at -1.492 s, +/- 0.017 s.
+:06-13-2020 16:29:13 TimeManager: Local clock uncertainty +/- 0.017 s
+frame rate: 208.1 fps|0.001d|12 avs||5414|5415||0x0000|0x0000|3303.8MB|5618.8MB|16235.6MB|2527|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 177.7 fps|0.002d|12 avs||5714|5715||0x0000|0x0000|694.5MB|5886.4MB|16235.6MB|2621|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+frame rate: 241.3 fps|0.000d|12 avs||6014|6015||0x0000|0x0000|446.3MB|6144.3MB|16235.6MB|2714|nt.2.6.2|3.701,3.701|6,12 cpus|OpenGL
+handling timeout
+:06-13-2020 16:40:39 DistributedToon: closing shard...
+:06-13-2020 16:40:39 LawbotHQBossBattle: Unloading Place (61000). Fsm in final
+:06-13-2020 16:40:40 OTPClientRepository: Exiting shard
+ignoring InputState-forward
+:06-13-2020 16:40:40 OTPClientRepository: sending clientLogout
+:06-13-2020 16:40:40 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:06-13-2020 16:44:52 :downloader(warning): Windows error code: 10054
+:06-13-2020 16:44:52 OTPClientRepository(warning): Lost connection to gameserver.
+:06-13-2020 16:44:52 ClassicFSM(warning): [loginFSM]: no transition exists from afkTimeout to noConnection
+:06-13-2020 16:44:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:45:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:45:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:45:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:45:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:45:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:45:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:46:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:46:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:46:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:46:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:46:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:46:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:47:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:47:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:47:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:47:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:47:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:47:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:48:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:48:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:48:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:48:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:48:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:48:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:49:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:49:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:49:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:49:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:49:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:49:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:50:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:50:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:50:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:50:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:50:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:50:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:51:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:51:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:51:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:51:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:51:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:51:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:52:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:52:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:52:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:52:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:52:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:52:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:53:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:53:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:53:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:53:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:53:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:53:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:54:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:54:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:54:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:54:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:54:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:54:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:55:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:55:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:55:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:55:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:55:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:55:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:56:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:56:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:56:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:56:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:56:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:56:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:57:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:57:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:57:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:57:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:57:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:57:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:58:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:58:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:58:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:58:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:58:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:58:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:59:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:59:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:59:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:59:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:59:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 16:59:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:00:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:00:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:00:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:00:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:00:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:00:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:01:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:01:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:01:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:01:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:01:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:01:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:02:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:02:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:02:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:02:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:02:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:02:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:03:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:03:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:03:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:03:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:03:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:03:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:04:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:04:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:04:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:04:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:04:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:04:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:05:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:05:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:05:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:05:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:05:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:05:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:06:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:06:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:06:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:06:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:06:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:06:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:07:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:07:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:07:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:07:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:07:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:07:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:08:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:08:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:08:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:08:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:08:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:08:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:09:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:09:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:09:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:09:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:09:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:09:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:10:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:10:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:10:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:10:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:10:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:10:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:11:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:11:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:11:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:11:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:11:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:11:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:12:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:12:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:12:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:12:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:12:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:12:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:13:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:13:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:13:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:13:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:13:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:13:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:14:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:14:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:14:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:14:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:14:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:14:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:15:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:15:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:15:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:15:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:15:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:15:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:16:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:16:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:16:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:16:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:16:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:16:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:17:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:17:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:17:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:17:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:17:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:17:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:18:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:18:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:18:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:18:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:18:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:18:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:19:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:19:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:19:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:19:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:19:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:19:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:20:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:20:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:20:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:20:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:20:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:20:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:21:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:21:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:21:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:21:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:21:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:21:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:22:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:22:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:22:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:22:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:22:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:22:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:23:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:23:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:23:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:23:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:23:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:23:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:24:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:24:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:24:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:24:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:24:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:24:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:25:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:25:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:25:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:25:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:25:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:25:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:26:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:26:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:26:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:26:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:26:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:26:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:27:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:27:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:27:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:27:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:27:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:27:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:28:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:28:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:28:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:28:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:28:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:28:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:29:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:29:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:29:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:29:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:29:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:29:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:30:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:30:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:30:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:30:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:30:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:30:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:31:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:31:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:31:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:31:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:31:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:31:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:32:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:32:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:32:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:32:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:32:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:32:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:33:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:33:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:33:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:33:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:33:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:33:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:34:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:34:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:34:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:34:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:34:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:34:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:35:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:35:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:35:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:35:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:35:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:35:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:36:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:36:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:36:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:36:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:36:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:36:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:37:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:37:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:37:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:37:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:37:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:37:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:38:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:38:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:38:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:38:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:38:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:38:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:39:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:39:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:39:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:39:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:39:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:39:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:40:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:40:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:40:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:40:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:40:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:40:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:41:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:41:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:41:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:41:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:41:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:41:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:42:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:42:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:42:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:42:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:42:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:42:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:43:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:43:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:43:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:43:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:43:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:43:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:44:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:44:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:44:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:44:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:44:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:44:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:45:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:45:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:45:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:45:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:45:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:45:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:46:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:46:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:46:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:46:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:46:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:46:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:47:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:47:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:47:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:47:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:47:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:47:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:48:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:48:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:48:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:48:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:48:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:48:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:49:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:49:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:49:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:49:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:49:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:49:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:50:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:50:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:50:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:50:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:50:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:50:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:51:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:51:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:51:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:51:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:51:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:51:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:52:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:52:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:52:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:52:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:52:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:52:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:53:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:53:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:53:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:53:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:53:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:53:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:54:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:54:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:54:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:54:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:54:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:54:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:55:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:55:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:55:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:55:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:55:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:55:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:56:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:56:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:56:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:56:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:56:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:56:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:57:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:57:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:57:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:57:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:57:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:57:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:58:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:58:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:58:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:58:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:58:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:58:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:59:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:59:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:59:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:59:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:59:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 17:59:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:00:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:00:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:00:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:00:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:00:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:00:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:01:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:01:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:01:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:01:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:01:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:01:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:02:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:02:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:02:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:02:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:02:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:02:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:03:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:03:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:03:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:03:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:03:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:03:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:04:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:04:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:04:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:04:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:04:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:04:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:05:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:05:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:05:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:05:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:05:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:05:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:06:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:06:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:06:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:06:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:06:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:06:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:07:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:07:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:07:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:07:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:07:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:07:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:08:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:08:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:08:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:08:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:08:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:08:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:09:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:09:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:09:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:09:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:09:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:09:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:10:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:10:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:10:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:10:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:10:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:10:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:11:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:11:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:11:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:11:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:11:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:11:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:12:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:12:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:12:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:12:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:12:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:12:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:13:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:13:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:13:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:13:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:13:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:13:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:14:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:14:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:14:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:14:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:14:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:14:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:15:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:15:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:15:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:15:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:15:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:15:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:16:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:16:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:16:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:16:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:16:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:16:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:17:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:17:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:17:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:17:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:17:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:17:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:18:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:18:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:18:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:18:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:18:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:18:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:19:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:19:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:19:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:19:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:19:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:19:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:20:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:20:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:20:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:20:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:20:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:20:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:21:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:21:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:21:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:21:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:21:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:21:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:22:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:22:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:22:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:22:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:22:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:22:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:23:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:23:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:23:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:23:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:23:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:23:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:24:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:24:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:24:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:24:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:24:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:24:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:25:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:25:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:25:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:25:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:25:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:25:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:26:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:26:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:26:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:26:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:26:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:26:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:27:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:27:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:27:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:27:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:27:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:27:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:28:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:28:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:28:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:28:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:28:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:28:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:29:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:29:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:29:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:29:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:29:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:29:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:30:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:30:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:30:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:30:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:30:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:30:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:31:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:31:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:31:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:31:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:31:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:31:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:32:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:32:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:32:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:32:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:32:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:32:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:33:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:33:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:33:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:33:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:33:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:33:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:34:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:34:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:34:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:34:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:34:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:34:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:35:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:35:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:35:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:35:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:35:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:35:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:36:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:36:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:36:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:36:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:36:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:36:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:37:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:37:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:37:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:37:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:37:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:37:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:38:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:38:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:38:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:38:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:38:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:38:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:39:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:39:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:39:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:39:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:39:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:39:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:40:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:40:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:40:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:40:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:40:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:40:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:41:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:41:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:41:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:41:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:41:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:41:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:42:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:42:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:42:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:42:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:42:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:42:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:43:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:43:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:43:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:43:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:43:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:43:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:44:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:44:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:44:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:44:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:44:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:44:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:45:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:45:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:45:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:45:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:45:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:45:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:46:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:46:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:46:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:46:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:46:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:46:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:47:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:47:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:47:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:47:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:47:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:47:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:48:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:48:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:48:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:48:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:48:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:48:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:49:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:49:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:49:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:49:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:49:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:49:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:50:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:50:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:50:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:50:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:50:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:50:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:51:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:51:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:51:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:51:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:51:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:51:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:52:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:52:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:52:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:52:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:52:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:52:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:53:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:53:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:53:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:53:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:53:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:53:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:54:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:54:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:54:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:54:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:54:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:54:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:55:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:55:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:55:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:55:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:55:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:55:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:56:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:56:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:56:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:56:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:56:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:56:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:57:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:57:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:57:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:57:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:57:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:57:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:58:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:58:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:58:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:58:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:58:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:58:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:59:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:59:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:59:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:59:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:59:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 18:59:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:00:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:00:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:00:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:00:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:00:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:00:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:01:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:01:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:01:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:01:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:01:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:01:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:02:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:02:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:02:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:02:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:02:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:02:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:03:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:03:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:03:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:03:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:03:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:03:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:04:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:04:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:04:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:04:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:04:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:04:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:05:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:05:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:05:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:05:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:05:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:05:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:06:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:06:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:06:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:06:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:06:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:06:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:07:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:07:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:07:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:07:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:07:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:07:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:08:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:08:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:08:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:08:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:08:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:08:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:09:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:09:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:09:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:09:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:09:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:09:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:10:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:10:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:10:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:10:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:10:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:10:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:11:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:11:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:11:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:11:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:11:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:11:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:12:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:12:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:12:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:12:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:12:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:12:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:13:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:13:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:13:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:13:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:13:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:13:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:14:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:14:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:14:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:14:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:14:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:14:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:15:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:15:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:15:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:15:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:15:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:15:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:16:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:16:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:16:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:16:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:16:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:16:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:17:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:17:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:17:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:17:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:17:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:17:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:18:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:18:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:18:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:18:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:18:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:18:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:19:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:19:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:19:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:19:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:19:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:19:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:20:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:20:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:20:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:20:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:20:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:20:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:21:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:21:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:21:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:21:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:21:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:21:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:22:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:22:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:22:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:22:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:22:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:22:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:23:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:23:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:23:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:23:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:23:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:23:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:24:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:24:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:24:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:24:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:24:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:24:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:25:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:25:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:25:26 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:25:36 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:25:46 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:25:56 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:26:06 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:26:16 :distributed(warning): Unable to send datagram after connection is closed.
+:06-13-2020 19:26:26 :distributed(warning): Unable to send datagram after connection is closed.
