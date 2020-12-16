@@ -25,7 +25,6 @@ from toontown.racing import RaceGlobals
 from toontown.shtiker import CogPageGlobals
 from toontown.toon import NPCToons
 from toontown.suit import SuitDNA
-from toontown.suit import DistributedSuitBase
 from toontown.toon import Experience
 from toontown.toon import ToonDNA
 from toontown.toonbase import ToontownBattleGlobals
@@ -685,13 +684,7 @@ class spawnMovieCog(MagicWord):
     
     def handleWord(self, invoker, avId, toon, *args):
         dna = args[0]
-        demotedCeo = Suit.Suit()
-        demotedCeo.dna = SuitDNA.SuitDNA()
-        demotedCeo.dna.newSuit(str(dna))
-        demotedCeo.setDNA(demotedCeo.dna)
-        demotedCeo.reparentTo(render)
-        demotedCeo.loop('neutral')
-        demotedCeo.setPos(base.localAvatar.getPos())
+        
         
         
 
