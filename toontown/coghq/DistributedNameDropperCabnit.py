@@ -16,4 +16,12 @@ from toontown.battle import MovieUtil
 class DistributedNameDropperCabnit(DistributedObject.DistributedObject):
     def __init__(self, cr):
         DistributedObject.DistributedObject.__init__(self, cr)
+        #Load The Cabnit!
+        self.makeModel()
+        
         #Name Dropper Cabnits give Jellybeans! every once and a while you can also gain summons or fires.
+    
+    def makeModel(self):
+        #Place Holder!
+        cabnit = loader.loadModel('phase_5/models/cogdominium/tt_m_ara_cmg_cabinetSmFalling.bam')
+        cabnit.reparentTo(render)

@@ -23,6 +23,7 @@ from toontown.toonbase import ToontownBattleGlobals
 from toontown.battle import RewardPanel
 from toontown.battle import MovieToonVictory
 from toontown.coghq import CogDisguiseGlobals
+from toontown.coghq import DistributedNameDropperCabnit
 from toontown.suit import Suit
 from toontown.suit import SuitDNA
 from toontown.effects import DustCloud
@@ -50,6 +51,8 @@ class DistributedBossbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         self.golfSpots = {}
         self.servingTimer = None
         self.notDeadList = None
+        self.cab = DistributedNameDropperCabnit.DistributedNameDropperCabnit(cr)
+        self.cab.makeModel()
         self.moveTrack = None
         self.speedDamage = 0
         self.maxSpeedDamage = ToontownGlobals.BossbotMaxSpeedDamage
