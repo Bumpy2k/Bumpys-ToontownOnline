@@ -7,6 +7,7 @@ from toontown.classicchars import DistributedMickeyAI
 from toontown.safezone import ButterflyGlobals
 from direct.task import Task
 from toontown.coghq import DistributedDizzyShakerAI
+from toontown.coghq import DistributedFlyingShakerAI
 
 class TTHoodDataAI(HoodDataAI.HoodDataAI):
     notify = DirectNotifyGlobal.directNotify.newCategory('TTHoodDataAI')
@@ -25,6 +26,8 @@ class TTHoodDataAI(HoodDataAI.HoodDataAI):
         trolley.start()
         self.shaker = DistributedDizzyShakerAI.DistributedDizzyShakerAI(self.air)
         self.shaker.generateWithRequired(self.zoneId)
+        self.shaker2 = DistributedFlyingShakerAI.DistributedFlyingShakerAI(self.air)
+        self.shaker2.generateWithRequired(self.zoneId)
         self.addDistObj(trolley)
         self.trolley = trolley
         self.treasurePlanner = TTTreasurePlannerAI.TTTreasurePlannerAI(self.zoneId)

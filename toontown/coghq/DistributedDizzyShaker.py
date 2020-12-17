@@ -36,3 +36,4 @@ class DistributedDizzyShaker(DistributedObject.DistributedObject):
         self.stun.loop('stun')
         self.stun.setBlend(frameBlend=True)
         shaker.setBlend(frameBlend=True)
+        

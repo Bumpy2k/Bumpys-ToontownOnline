@@ -20,7 +20,7 @@ class DistributedNameDropperCabnit(DistributedObject.DistributedObject):
     def __init__(self, cr):
         DistributedObject.DistributedObject.__init__(self, cr)
         #Load The Cabnit!
-        self.cr
+        self.cr = cr
         self.makeModel()
         
         self.accept("entercoll", self.giveReward)
@@ -33,7 +33,7 @@ class DistributedNameDropperCabnit(DistributedObject.DistributedObject):
         #Place Holder!
         self.cabND = Actor('phase_5/models/cogdominium/tt_namedropper_cabnit_zero.bam')
         self.cabND.reparentTo(render)
-        self.cabND.setPos(-87, -168, 0.287)
+        self.cabND.setPos(pos1)
     
     def giveReward(self, entry):
         print('Hi! here you go!')

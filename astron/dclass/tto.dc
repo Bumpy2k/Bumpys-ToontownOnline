@@ -64,6 +64,7 @@ from toontown.suit import DistributedSellbotBoss/AI
 from toontown.suit import DistributedCashbotBoss/AI
 from toontown.coghq import DistributedNameDropperCabnit/AI
 from toontown.coghq import DistributedDizzyShaker/AI
+from toontown.coghq import DistributedFlyingShaker/AI
 from toontown.coghq import DistributedCashbotBossSafe/AI
 from toontown.coghq import DistributedCashbotBossCrane/AI
 from toontown.suit import DistributedCashbotBossGoon/AI
@@ -2676,6 +2677,10 @@ dclass DistributedNameDropperCabnit : DistributedObject {
 };
 
 dclass DistributedDizzyShaker : DistributedObject {
+  moverDudes();
+};
+
+dclass DistributedFlyingShaker : DistributedObject {
   moverDudes();
 };
 

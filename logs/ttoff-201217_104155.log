@@ -1,0 +1,150 @@
+
+
+Starting Toontown Online...
+Current time: Thu Dec 17 10:41:55 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\ToontownAnimationMaker\\Bumpys-ToontownOnline\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\Philip\\AppData\\Local\\Temp', 'COMPUTERNAME': 'PHILIP-JR', 'USERDOMAIN': 'PHILIP-JR', 'PSMODULEPATH': 'C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'ADSK_3DSMAX_X64_2021': 'C:\\Program Files\\Autodesk\\3ds Max 2021\\', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 45 Stepping 7, GenuineIntel', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '2d07', 'SYSTEMROOT': 'C:\\WINDOWS', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Common Files\\Autodesk Shared\\;C:\\Program Files\\Microsoft SQL Server\\120\\Tools\\Binn\\;C:\\Panda3D-1.10.02\\python;C:\\Panda3D-1.10.02\\python\\Scripts;C:\\Panda3D-1.10.02\\bin;C:\\Panda3D-1.11.0-x64-py2\\python;C:\\Panda3D-1.11.0-x64-py2\\python\\Scripts;C:\\Panda3D-1.11.0-x64-py2\\bin;C:\\Users\\Philip\\AppData\\Local\\GitHubDesktop\\bin;C:\\Panda3D-1.9.0\\python;C:\\Panda3D-1.9.0\\python\\Scripts;C:\\Panda3D-1.9.0\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;C:\\Users\\Philip\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.10.0\\python;C:\\Panda3D-1.10.0\\python\\Scripts;C:\\Panda3D-1.10.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'KMP_BLOCKTIME': '0', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\Philip\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\Philip\\AppData\\Local', 'HOMEPATH': '\\Users\\Philip', 'USERDOMAIN_ROAMINGPROFILE': 'PHILIP-JR', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'Philip', 'LOGONSERVER': '\\\\MicrosoftAccount', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'dev', 'FP_NO_HOST_CHECK': 'NO', 'WINDIR': 'C:\\WINDOWS', 'OMP_WAIT_POLICY': 'PASSIVE', 'APPDATA': 'C:\\Users\\Philip\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'CIOENGINE': 'C:\\cio-panda3d', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\Philip'}
+:12-17-2020 10:41:55 TTOffLauncher: isTestServer: 0
+:12-17-2020 10:41:55 TTOffLauncher: Game Server 127.0.0.1
+:12-17-2020 10:41:55 TTOffLauncher: Starting Toontown Online... 
+:12-17-2020 10:41:55 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:12-17-2020 10:41:55 TTOffLauncher: maybeStartGame: starting game
+:12-17-2020 10:41:55 TTOffLauncher: Starting Toontown Online...
+:12-17-2020 10:41:55 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:12-17-2020 10:41:56 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:12-17-2020 10:41:56 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:12-17-2020 10:41:56 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:12-17-2020 10:41:56 ShowBase: __dev__ == False
+:12-17-2020 10:41:56 TTOffLauncher: setting panda error code to 11
+:12-17-2020 10:41:56 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:12-17-2020 10:41:56 Loader: starting bulk load of block 'init'
+:12-17-2020 10:41:56 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:12-17-2020 10:41:56 OTPClientRepository: Using connect method 'http'
+:12-17-2020 10:41:57 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:12-17-2020 10:41:57 TTOffLauncher: checking env
+:12-17-2020 10:41:57 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:12-17-2020 10:41:57 TTOffLauncher: checking env
+:12-17-2020 10:41:57 OTPClientRepository: reg_deployment=
+:12-17-2020 10:41:57 OTPClientRepository: required-login auto.
+:12-17-2020 10:41:57 OTPClientRepository: loginInterface: LoginTTOffAccount
+:12-17-2020 10:41:57 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:12-17-2020 10:41:57 Loader: At end of block 'init', expected 138, loaded 5, duration=1.14887997124
+:12-17-2020 10:41:57 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:12-17-2020 10:41:57 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:12-17-2020 10:41:57 TTOffLauncher: Stopping mini task manager.
+:12-17-2020 10:41:57 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:12-17-2020 10:41:57 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x0000000003C83908>}
+:12-17-2020 10:41:58 StateData: AvatarChooser.enter
+:12-17-2020 10:41:58 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-17-2020 10:41:58 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-17-2020 10:41:59 OTPClientRepository: ================
+:12-17-2020 10:41:59 OTPClientRepository: Chose avatar id: 100000006
+:12-17-2020 10:41:59 OTPClientRepository: Chose avatar name: Relentless
+:12-17-2020 10:41:59 OTPClientRepository: Chose avatar dna: ('css', 'ms', 'm', 'm', 26, 0, 26, 26, 86, 27, 75, 27, 50, 27)
+:12-17-2020 10:41:59 OTPClientRepository: Chose avatar position: 4
+:12-17-2020 10:41:59 OTPClientRepository: isPaid: 1
+:12-17-2020 10:41:59 OTPClientRepository: freeTimeLeft: 0
+:12-17-2020 10:41:59 OTPClientRepository: allowSecretChat: True
+:12-17-2020 10:41:59 OTPClientRepository: ================
+:12-17-2020 10:42:00 Loader: starting bulk load of block 'localAvatarPlayGame'
+:12-17-2020 10:42:00 ToontownTimeManager(warning): error parsing date string=
+local
+:12-17-2020 10:42:00 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:12-17-2020 10:42:00 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:12-17-2020 10:42:02 OTPClientRepository: Entering shard 401000001
+:12-17-2020 10:42:02 StreetSign: Street sign url is https://ttoffline.com/images/
+:12-17-2020 10:42:03 StreetSign: Street Sign is up to date
+:12-17-2020 10:42:03 TimeManager: Clock sync: TimeManager.announceGenerate
+:12-17-2020 10:42:03 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|        Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz|132823|0|3.601,3.601|4,8 cpus
+:12-17-2020 10:42:04 OTPClientRepository: No sync from TimeManager.
+:12-17-2020 10:42:04 OTPClientRepository: gotTimeSync
+:12-17-2020 10:42:04 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 11, duration=4.68063649583
+:12-17-2020 10:42:04 TimeManager: Clock sync roundtrip took 1116.988 ms
+:12-17-2020 10:42:04 TimeManager: AI time delta is -0:01 from server delta
+:12-17-2020 10:42:04 TimeManager: Local clock uncertainty +/- 0.559 s
+:12-17-2020 10:42:04 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:12-17-2020 10:42:04 Loader: starting bulk load of block 'hood'
+:12-17-2020 10:42:05 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-17-2020 10:42:05 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-17-2020 10:42:05 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-17-2020 10:42:05 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-17-2020 10:42:05 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+Traceback (most recent call last):
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 609, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 616, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1838, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1445, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1732, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1758, in gotInterestDoneMessage
+    self.__playBackGenerates(handle)
+  File "otp\distributed\OTPClientRepository.py", line 1941, in __playBackGenerates
+    self.__doGenerate(doId, parentId, zoneId, classId, di, other)
+  File "otp\distributed\OTPClientRepository.py", line 1987, in __doGenerate
+    distObj = self.generateWithRequiredFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ClientRepositoryBase.py", line 253, in generateWithRequiredFields
+    distObj = classDef(self)
+  File "toontown\coghq\DistributedFlyingShaker.py", line 24, in __init__
+    self.moverDudes()
+  File "toontown\coghq\DistributedFlyingShaker.py", line 47, in moverDudes
+    self.tutWalkTrack = self.makePathTrack(shaker, pathPoints, 2, 'moveShaker')
+AttributeError: DistributedFlyingShaker instance has no attribute 'makePathTrack'
+:12-17-2020 10:42:05 :task(error): Exception occurred in PythonTask readerPollTask-137717024
+:12-17-2020 10:42:05 TTOffLauncher: setting panda error code to 12
+:12-17-2020 10:42:05 TTOffLauncher(warning): Handling Python exception.
+:12-17-2020 10:42:05 TimeManager: Client disconnect reason 3.
+:12-17-2020 10:42:05 TimeManager: Client exception: toontown.coghq.DistributedFlyingShaker:47, toontown.coghq.DistributedFlyingShaker:24, direct.distributed.ClientRepositoryBase:253, otp.distributed.OTPClientRepository:1987, AttributeError: DistributedFlyingShaker instance has no attribute 'makePathTrack'
+:12-17-2020 10:42:05 OTPClientRepository: Sent disconnect message to server
+:12-17-2020 10:42:05 OTPClientRepository: Closing connection to server.
+:12-17-2020 10:42:06 TTOffLauncher: Exception exit.
+
+Traceback (most recent call last):
+  File "otp\launcher\LauncherBase.py", line 1081, in mainLoop
+    self._runTaskManager()
+  File "otp\launcher\LauncherBase.py", line 1052, in _runTaskManager
+    taskMgr.run()
+  File "C:\Panda3D-1.11.0-x64\direct\task\Task.py", line 528, in run
+    self.step()
+  File "C:\Panda3D-1.11.0-x64\direct\task\Task.py", line 482, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 609, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ConnectionRepository.py", line 616, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1838, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1445, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1732, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1758, in gotInterestDoneMessage
+    self.__playBackGenerates(handle)
+  File "otp\distributed\OTPClientRepository.py", line 1941, in __playBackGenerates
+    self.__doGenerate(doId, parentId, zoneId, classId, di, other)
+  File "otp\distributed\OTPClientRepository.py", line 1987, in __doGenerate
+    distObj = self.generateWithRequiredFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.11.0-x64\direct\distributed\ClientRepositoryBase.py", line 253, in generateWithRequiredFields
+    distObj = classDef(self)
+  File "toontown\coghq\DistributedFlyingShaker.py", line 24, in __init__
+    self.moverDudes()
+  File "toontown\coghq\DistributedFlyingShaker.py", line 47, in moverDudes
+    self.tutWalkTrack = self.makePathTrack(shaker, pathPoints, 2, 'moveShaker')
+AttributeError: DistributedFlyingShaker instance has no attribute 'makePathTrack'
