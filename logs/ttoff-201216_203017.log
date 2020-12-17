@@ -1,0 +1,143 @@
+
+
+Starting Toontown Online...
+Current time: Wed Dec 16 20:30:17 2020 Eastern Standard Time
+sys.path =  ['', 'C:\\Panda3D-1.11.0-x64\\python\\python27.zip', 'C:\\Panda3D-1.11.0-x64', 'C:\\Panda3D-1.11.0-x64\\python\\DLLs', 'C:\\Panda3D-1.11.0-x64\\python\\lib', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\plat-win', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\lib-tk', 'C:\\Panda3D-1.11.0-x64\\python', 'C:\\Panda3D-1.11.0-x64\\bin', 'C:\\Panda3D-1.11.0-x64\\python\\lib\\site-packages']
+sys.argv =  ['C:\\ToontownAnimationMaker\\Bumpys-ToontownOnline\\toontown\\launcher\\TTOffQuickStartLauncher.py']
+generating standard configrc
+os.environ =  {'TMP': 'C:\\Users\\Philip\\AppData\\Local\\Temp', 'COMPUTERNAME': 'PHILIP-JR', 'USERDOMAIN': 'PHILIP-JR', 'PSMODULEPATH': 'C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'ADSK_3DSMAX_X64_2021': 'C:\\Program Files\\Autodesk\\3ds Max 2021\\', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 45 Stepping 7, GenuineIntel', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '2d07', 'SYSTEMROOT': 'C:\\WINDOWS', 'PATH': 'C:\\Panda3D-1.11.0-x64\\panda3d\\..\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Common Files\\Autodesk Shared\\;C:\\Program Files\\Microsoft SQL Server\\120\\Tools\\Binn\\;C:\\Panda3D-1.10.02\\python;C:\\Panda3D-1.10.02\\python\\Scripts;C:\\Panda3D-1.10.02\\bin;C:\\Panda3D-1.11.0-x64-py2\\python;C:\\Panda3D-1.11.0-x64-py2\\python\\Scripts;C:\\Panda3D-1.11.0-x64-py2\\bin;C:\\Users\\Philip\\AppData\\Local\\GitHubDesktop\\bin;C:\\Panda3D-1.9.0\\python;C:\\Panda3D-1.9.0\\python\\Scripts;C:\\Panda3D-1.9.0\\bin;C:\\Panda3D-1.10.0-x64\\python;C:\\Panda3D-1.10.0-x64\\python\\Scripts;C:\\Panda3D-1.10.0-x64\\bin;C:\\Users\\Philip\\AppData\\Local\\atom\\bin;C:\\Panda3D-1.10.0\\python;C:\\Panda3D-1.10.0\\python\\Scripts;C:\\Panda3D-1.10.0\\bin;C:\\Panda3D-1.11.0-x64\\python;C:\\Panda3D-1.11.0-x64\\python\\Scripts;C:\\Panda3D-1.11.0-x64\\bin', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'KMP_BLOCKTIME': '0', 'PPYTHON_PATH': '"C:\\Panda3D-1.11.0-x64\\python\\ppython.exe"', 'TEMP': 'C:\\Users\\Philip\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\Philip\\AppData\\Local', 'HOMEPATH': '\\Users\\Philip', 'USERDOMAIN_ROAMINGPROFILE': 'PHILIP-JR', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'Philip', 'LOGONSERVER': '\\\\MicrosoftAccount', 'PROMPT': '$P$G', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'TTOFF_LOGIN_TOKEN': 'test', 'FP_NO_HOST_CHECK': 'NO', 'WINDIR': 'C:\\WINDOWS', 'OMP_WAIT_POLICY': 'PASSIVE', 'APPDATA': 'C:\\Users\\Philip\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '8', 'PROCESSOR_LEVEL': '6', 'CIOENGINE': 'C:\\cio-panda3d', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'USERPROFILE': 'C:\\Users\\Philip'}
+:12-16-2020 20:30:17 TTOffLauncher: isTestServer: 0
+:12-16-2020 20:30:17 TTOffLauncher: Game Server 127.0.0.1
+:12-16-2020 20:30:17 TTOffLauncher: Starting Toontown Online... 
+:12-16-2020 20:30:17 TTOffLauncher: foreground: Launcher now operating in foreground
+useTTOffSpecificLogin=True
+:12-16-2020 20:30:17 TTOffLauncher: maybeStartGame: starting game
+:12-16-2020 20:30:17 TTOffLauncher: Starting Toontown Online...
+:12-16-2020 20:30:17 TTOffLauncher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:12-16-2020 20:30:17 TTOffLauncher: setting panda error code to 7
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+:12-16-2020 20:30:17 ToonBase: Default graphics pipe is wglGraphicsPipe (OpenGL).
+:12-16-2020 20:30:18 ToonBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:12-16-2020 20:30:18 ShowBase: __dev__ == False
+:12-16-2020 20:30:18 TTOffLauncher: setting panda error code to 11
+:12-16-2020 20:30:18 TTOffLauncher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tto-dev
+:12-16-2020 20:30:18 Loader: starting bulk load of block 'init'
+:12-16-2020 20:30:19 :nativenet(error): Buffered_DatagramConnection Constructor rbufsize = 4096000 wbufsize = 4096000 write_flush_point = 1400
+:12-16-2020 20:30:19 OTPClientRepository: Using connect method 'http'
+:12-16-2020 20:30:19 TTOffLauncher: getRegistry ('DEPLOYMENT', None)
+:12-16-2020 20:30:19 TTOffLauncher: checking env
+:12-16-2020 20:30:19 TTOffLauncher: getRegistry ('GAME_DEPLOYMENT', None)
+:12-16-2020 20:30:19 TTOffLauncher: checking env
+:12-16-2020 20:30:19 OTPClientRepository: reg_deployment=
+:12-16-2020 20:30:19 OTPClientRepository: required-login auto.
+:12-16-2020 20:30:19 OTPClientRepository: loginInterface: LoginTTOffAccount
+:12-16-2020 20:30:19 TTOffLauncher: getNeedPwForSecretKey using ttoff-specific-login
+:12-16-2020 20:30:19 Loader: At end of block 'init', expected 138, loaded 8, duration=1.74746673706
+:12-16-2020 20:30:19 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:12-16-2020 20:30:19 OTPClientRepository: Connecting to //127.0.0.1:7198 via HTTP interface.
+:12-16-2020 20:30:19 TTOffLauncher: Stopping mini task manager.
+:12-16-2020 20:30:19 OTPClientRepository: Successfully connected to //127.0.0.1:7198.
+:12-16-2020 20:30:19 TTOffLauncher: Setting Disconnect Details normal
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x0000000003633908>}
+:12-16-2020 20:30:21 StateData: AvatarChooser.enter
+:12-16-2020 20:30:21 DisplayOptions: settingsFullScreen = False, embedded = False width=800 height=600
+:12-16-2020 20:30:21 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:12-16-2020 20:30:23 OTPClientRepository: ================
+:12-16-2020 20:30:23 OTPClientRepository: Chose avatar id: 100000008
+:12-16-2020 20:30:23 OTPClientRepository: Chose avatar name: Slappy
+:12-16-2020 20:30:23 OTPClientRepository: Chose avatar dna: ('bss', 'ls', 'l', 'm', 26, 0, 26, 26, 1, 5, 1, 5, 1, 15)
+:12-16-2020 20:30:23 OTPClientRepository: Chose avatar position: 4
+:12-16-2020 20:30:23 OTPClientRepository: isPaid: 1
+:12-16-2020 20:30:23 OTPClientRepository: freeTimeLeft: 0
+:12-16-2020 20:30:23 OTPClientRepository: allowSecretChat: True
+:12-16-2020 20:30:23 OTPClientRepository: ================
+:12-16-2020 20:30:24 Loader: starting bulk load of block 'localAvatarPlayGame'
+:12-16-2020 20:30:24 ToontownTimeManager(warning): error parsing date string=
+local
+:12-16-2020 20:30:24 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:12-16-2020 20:30:25 :pnmimage:png(warning): iCCP: known incorrect sRGB profile
+:12-16-2020 20:30:28 OTPClientRepository: Entering shard 401000001
+:12-16-2020 20:30:28 StreetSign: Street sign url is https://ttoffline.com/images/
+:12-16-2020 20:30:29 StreetSign: Street Sign is up to date
+:12-16-2020 20:30:29 TimeManager: Clock sync: TimeManager.announceGenerate
+:12-16-2020 20:30:29 NewsManager: setHolidayId: Starting Holiday 7
+:12-16-2020 20:30:29 InGameNewsMgr: latestIssue=2013-08-22 16:49:46.000003-07:00
+cpu info: GenuineIntel|        Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz|132823|0|3.601,3.601|4,8 cpus
+:12-16-2020 20:30:30 OTPClientRepository: No sync from TimeManager.
+:12-16-2020 20:30:30 OTPClientRepository: gotTimeSync
+:12-16-2020 20:30:30 Loader: At end of block 'localAvatarPlayGame', expected 400, loaded 21, duration=6.75454058796
+:12-16-2020 20:30:30 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 20:30:30 TimeManager: Clock sync roundtrip took 1139.563 ms
+:12-16-2020 20:30:30 TimeManager: AI time delta is -0:01 from server delta
+:12-16-2020 20:30:30 TimeManager: Local clock uncertainty +/- 0.570 s
+:12-16-2020 20:30:30 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Toontown Central
+:12-16-2020 20:30:30 Loader: starting bulk load of block 'hood'
+:12-16-2020 20:30:32 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-16-2020 20:30:32 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-16-2020 20:30:32 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-16-2020 20:30:32 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-16-2020 20:30:32 DistributedObject(warning): no loader.getInteractiveProp self.interactiveProp is None
+:12-16-2020 20:30:32 Actor(warning): phase_5/models/cogdominium/tt_namedropper_cabnit_zero.bam is not a character!
+:12-16-2020 20:30:32 DistributedToon: calling LocalAvatar.startchat
+:12-16-2020 20:30:32 Loader: At end of block 'hood', expected 8, loaded 9, duration=1.96618438149
+:12-16-2020 20:30:34 Teleport(debug): teleportInDone: walk
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+:12-16-2020 20:31:13 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+:12-16-2020 20:31:14 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+:12-16-2020 20:34:31 OTPClientRepository: Sending heartbeat mid-frame.
+adding timeout task
+adding timeout task
+:12-16-2020 20:35:18 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 95.6 fps|0.004d|4 avs||310|310||0x0000|0x0000|632.3MB|617.4MB|16302.1MB|515|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+frame rate: 101.5 fps|0.003d|4 avs||610|610||0x0000|0x0000|653.5MB|638.6MB|16302.1MB|521|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+adding timeout task
+adding timeout task
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+Hi! here you go!
+adding timeout task
+adding timeout task

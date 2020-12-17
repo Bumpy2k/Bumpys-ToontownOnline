@@ -1,8 +1,8 @@
 {
     "game": {
         "antialiasing": 0, 
-        "magic-word-activator": 0, 
         "music": false, 
+        "magic-word-activator": 0, 
         "stretched-screen": false
     }
 }
