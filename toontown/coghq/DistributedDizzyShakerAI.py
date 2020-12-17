@@ -5,8 +5,8 @@ from direct.directnotify import DirectNotifyGlobal
 from toontown.coghq import BanquetTableBase
 from toontown.toonbase import ToontownGlobals
 
-class DistributedNameDropperCabnitAI(DistributedObjectAI.DistributedObjectAI):
-    notify = DirectNotifyGlobal.directNotify.newCategory('DistributedNameDropperCabnitAI')
+class DistributedDizzyShakerAI(DistributedObjectAI.DistributedObjectAI):
+    notify = DirectNotifyGlobal.directNotify.newCategory('DistributedDizzyShakerAI')
     """
     
     The AI
@@ -15,9 +15,4 @@ class DistributedNameDropperCabnitAI(DistributedObjectAI.DistributedObjectAI):
     """
     def __init__(self, air):
         DistributedObjectAI.DistributedObjectAI.__init__(self, air)
-    
-    def giveReward(self):
-        avId = self.air.getAvatarIdFromSender()
-        toon = self.cr.doId2do.get(avId)
-        toon.addMoney(200)
-
+        

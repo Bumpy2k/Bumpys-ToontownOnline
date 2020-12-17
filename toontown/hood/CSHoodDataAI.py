@@ -9,6 +9,7 @@ from toontown.coghq import LobbyManagerAI
 from toontown.building import DistributedVPElevatorAI
 from toontown.suit import DistributedSellbotBossAI
 from toontown.building import DistributedBoardingPartyAI
+from toontown.coghq import DistributedNameDropperCabnitAI
 
 class CSHoodDataAI(HoodDataAI.HoodDataAI):
     notify = DirectNotifyGlobal.directNotify.newCategory('CSHoodDataAI')
@@ -23,6 +24,8 @@ class CSHoodDataAI(HoodDataAI.HoodDataAI):
     def startup(self):
         HoodDataAI.HoodDataAI.startup(self)
         mins = ToontownGlobals.FactoryLaffMinimums[0]
+        self.cab = DistributedNameDropperCabnitAI.DistributedNameDropperCabnitAI(self.air)
+        self.cab.generateWithRequired(self.zoneId)
         self.testElev0 = DistributedFactoryElevatorExtAI.DistributedFactoryElevatorExtAI(self.air, self.air.factoryMgr, ToontownGlobals.SellbotFactoryInt, 0, antiShuffle=0, minLaff=mins[0])
         self.testElev0.generateWithRequired(ToontownGlobals.SellbotFactoryExt)
         self.addDistObj(self.testElev0)

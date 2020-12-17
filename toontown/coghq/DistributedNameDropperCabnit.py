@@ -28,11 +28,12 @@ class DistributedNameDropperCabnit(DistributedObject.DistributedObject):
         #Name Dropper Cabnits give Jellybeans! every once and a while you can also gain summons or fires.
     
     def makeModel(self):
+        pos1 = Point3(-87, -168, 0.287)
+        pos2 = Point3(64, -104, 0.287)
         #Place Holder!
-        
         self.cabND = Actor('phase_5/models/cogdominium/tt_namedropper_cabnit_zero.bam')
         self.cabND.reparentTo(render)
-        self.cabND.setPos(-20, -20, 0)
+        self.cabND.setPos(-87, -168, 0.287)
     
     def giveReward(self, entry):
         print('Hi! here you go!')

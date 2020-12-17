@@ -141,3 +141,55 @@ Hi! here you go!
 Hi! here you go!
 adding timeout task
 adding timeout task
+frame rate: 102.4 fps|0.002d|4 avs||910|910||0x0000|0x0000|677.7MB|662.9MB|16302.1MB|527|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+:12-16-2020 20:48:56 TTOffMagicWordManager: Run mode has been toggled.
+Hi! here you go!
+:12-16-2020 20:49:00 TTOffMagicWordManager: Run mode has been toggled.
+:12-16-2020 20:49:05 TTOffMagicWordManager: Slappy's jellybean count has been set to 0.
+Hi! here you go!
+Hi! here you go!
+frame rate: 94.2 fps|0.003d|4 avs||1210|1210||0x0000|0x0000|711.8MB|702.9MB|16302.1MB|717|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+adding timeout task
+adding timeout task
+frame rate: 95.4 fps|0.002d|4 avs||1510|1510||0x0000|0x0000|732.6MB|723.7MB|16302.1MB|784|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+:12-16-2020 20:58:15 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Open
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:12-16-2020 20:58:16 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Browse tabs Map
+:12-16-2020 20:58:17 ShtikerBook: QA-REGRESSION: SHTICKERBOOK: Close
+:12-16-2020 20:58:22 Playground: Unloading Place (2000). Fsm in final
+:12-16-2020 20:58:22 PlayGame: QA-REGRESSION: NEIGHBORHOODS: Visit Sellbot HQ
+:12-16-2020 20:58:22 Loader: starting bulk load of block 'hood'
+:12-16-2020 20:58:23 SellbotCogHQLoader: loadPlaceGeom: 11000
+:12-16-2020 20:58:23 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 20:58:23 DistributedObject: DistributedSuitPlanner 401002950: generating
+:12-16-2020 20:58:23 DistributedToon: calling LocalAvatar.startchat
+:12-16-2020 20:58:23 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_sellbot_maps.bam: not found on model path (currently: "/;/c/ToontownAnimationMaker/Bumpys-ToontownOnline/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-16-2020 20:58:23 Loader: At end of block 'hood', expected 43, loaded 3, duration=0.776346389716
+:12-16-2020 20:58:24 Teleport(debug): teleportInDone: walk
+:12-16-2020 20:58:24 :loader(error): Couldn't load file phase_4/models/questmap/cog_hq_sellbot_maps.bam: not found on model path (currently: "/;/c/ToontownAnimationMaker/Bumpys-ToontownOnline/toontown/launcher;/c/Panda3D-1.11.0-x64/etc/..;/c/Panda3D-1.11.0-x64/etc/../models")
+:12-16-2020 20:58:29 TTOffMagicWordManager: Oobe mode has been toggled.
+:12-16-2020 20:58:44 BulletinBoard(warning): changing oobeEnabled from True to False
+:12-16-2020 20:58:44 BulletinBoard: update: posting oobeEnabled
+:12-16-2020 20:58:44 TTOffMagicWordManager: Oobe mode has been toggled.
+:12-16-2020 20:58:48 ClassicFSM(warning): [DistributedSuit]: no transition exists from Walk to FromCogHQ
+Current position= (-54.531,  -49.858,  10.095), H: -142.445, Zone: 11000,, Ver: tto-dev, , District: Toon Valley
+Current position= (-87.460,  -168.510,  0.287), H: -70.037, Zone: 11000,, Ver: tto-dev, , District: Toon Valley
+:12-16-2020 20:59:14 ClassicFSM(warning): [DistributedSuit]: no transition exists from Walk to FromCogHQ
+Current position= (64.039,  -104.524,  0.287), H: 75.050, Zone: 11000,, Ver: tto-dev, , District: Toon Valley
+:12-16-2020 20:59:26 ToonBase: User closed main window.
+:12-16-2020 20:59:26 TimeManager: Client disconnect reason 2.
+:12-16-2020 20:59:26 DistributedObject: DistributedSuitPlanner 401002950: disabling
+:12-16-2020 20:59:26 SellbotHQExterior: Unloading Place (11000). Fsm in final
+:12-16-2020 20:59:26 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:12-16-2020 20:59:26 OTPClientRepository: sending clientLogout
+:12-16-2020 20:59:26 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+:12-16-2020 20:59:26 OTPClientRepository: Sent disconnect message to server
+:12-16-2020 20:59:26 OTPClientRepository: Closing connection to server.
+:12-16-2020 20:59:26 OTPClientRepository: Exiting cleanly
+:12-16-2020 20:59:26 ToonBase: Exiting Toontown: errorCode = None
+:12-16-2020 20:59:26 TTOffLauncher: setting panda error code to 0
+:12-16-2020 20:59:26 TTOffLauncher: Normal exit.

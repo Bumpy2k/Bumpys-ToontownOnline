@@ -51,8 +51,6 @@ class DistributedBossbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         self.golfSpots = {}
         self.servingTimer = None
         self.notDeadList = None
-        self.cab = DistributedNameDropperCabnit.DistributedNameDropperCabnit(cr)
-        self.cab.makeModel()
         self.moveTrack = None
         self.speedDamage = 0
         self.maxSpeedDamage = ToontownGlobals.BossbotMaxSpeedDamage
