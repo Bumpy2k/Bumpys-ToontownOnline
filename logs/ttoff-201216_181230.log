@@ -87,3 +87,21 @@ cpu info: GenuineIntel|        Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz|132823|0|
 :12-16-2020 18:12:42 DistributedToon: calling LocalAvatar.startchat
 :12-16-2020 18:12:42 Loader: At end of block 'hood', expected 8, loaded 7, duration=1.59823320128
 :12-16-2020 18:12:44 Teleport(debug): teleportInDone: walk
+adding timeout task
+adding timeout task
+:12-16-2020 18:17:31 GarbageCollect(warning): garbage found, reverting gc threshold
+frame rate: 126.1 fps|0.004d|4 avs||307|308||0x0000|0x0000|631.7MB|617.4MB|16302.1MB|537|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+:12-16-2020 18:18:23 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 18:20:44 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 18:21:55 OTPClientRepository: Sending heartbeat mid-frame.
+adding timeout task
+adding timeout task
+frame rate: 9.8 fps|0.001d|4 avs||607|608||0x0000|0x0000|644.3MB|629.9MB|16302.1MB|591|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+:12-16-2020 18:22:55 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 18:25:07 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 18:25:37 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 18:26:28 OTPClientRepository: Sending heartbeat mid-frame.
+frame rate: 9.8 fps|0.001d|4 avs||907|908||0x0000|0x0000|644.3MB|629.9MB|16302.1MB|591|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+:12-16-2020 18:29:20 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 18:30:11 OTPClientRepository: Sending heartbeat mid-frame.
+:12-16-2020 18:31:01 OTPClientRepository: Sending heartbeat mid-frame.

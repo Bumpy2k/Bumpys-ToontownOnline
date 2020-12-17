@@ -12,6 +12,7 @@ from direct.task import Task
 from toontown.toonbase import ToontownGlobals
 from toontown.toonbase import TTLocalizer
 from toontown.battle import MovieUtil
+from direct.actor.Actor import Actor
 
 class DistributedNameDropperCabnit(DistributedObject.DistributedObject):
     def __init__(self, cr):
@@ -19,9 +20,17 @@ class DistributedNameDropperCabnit(DistributedObject.DistributedObject):
         #Load The Cabnit!
         self.makeModel()
         
+        self.accept("entercoll", self.giveReward)
+        
         #Name Dropper Cabnits give Jellybeans! every once and a while you can also gain summons or fires.
     
     def makeModel(self):
         #Place Holder!
-        cabnit = loader.loadModel('phase_5/models/cogdominium/tt_m_ara_cmg_cabinetSmFalling.bam')
-        cabnit.reparentTo(render)
+        
+        cabND = Actor('phase_5/models/cogdominium/tt_namedropper_cabnit_zero.bam')
+        cabND.reparentTo(render)
+        cabND.setPos(-20, -20, 0)
+    
+    def giveReward(self, entry):
+        print('Hi! here you go!')
+        self.sendUpdate("giveReward", [])

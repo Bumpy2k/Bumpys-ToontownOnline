@@ -2671,6 +2671,7 @@ dclass DistributedBank : DistributedFurnitureItem {
 
 dclass DistributedNameDropperCabnit : DistributedObject {
   makeModel();
+  giveReward() airecv clsend;
 };
 
 dclass DistributedCloset : DistributedFurnitureItem {

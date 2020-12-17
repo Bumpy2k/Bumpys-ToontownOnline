@@ -15,4 +15,9 @@ class DistributedNameDropperCabnitAI(DistributedObjectAI.DistributedObjectAI):
     """
     def __init__(self, air, jbAmmount, fireAmmount, summonsAmount):
         DistributedObjectAI.DistributedObjectAI.__init__(self, air)
+    
+    def giveReward(self):
+        avId = self.air.getAvatarIdFromSender()
+        toon = self.cr.doId2do.get(avId)
+        toon.addMoney(200)
 
